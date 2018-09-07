@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>日本毛織物新報 286号 (1920-11-11)</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/f41fdfe3-0fbb-411b-a54b-bd93457c24a3">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/f41fdfe3-0fbb-411b-a54b-bd93457c24a3</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/1801/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/1801/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/1801/nihonkeorimonoshimpo1_0564.jpg" /></surface><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/1801/canvas/p2" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/1801/nihonkeorimonoshimpo1_0565.jpg" /></surface><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/1801/canvas/p3" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/1801/nihonkeorimonoshimpo1_0566.jpg" /></surface><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/1801/canvas/p4" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/1801/nihonkeorimonoshimpo1_0567.jpg" /></surface><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/1801/canvas/p5" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/1801/nihonkeorimonoshimpo1_0568.jpg" /></surface><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/1801/canvas/p6" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/1801/nihonkeorimonoshimpo1_0569.jpg" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p /><p /><p /><p /><p /><p /></body>
+    </text>
+</TEI>
