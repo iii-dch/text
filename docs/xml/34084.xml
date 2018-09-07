@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>あなたのお金をあなたの政府に貸してください∽172</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/34084">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/34084</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/17570/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/17570/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/17570/1332748124749.jpg" /><zone lrx="155" lry="115" ulx="39" uly="35" xml:id="zone_63d111b8-b27d-11e8-b5e9-acde48001122" /><zone lrx="275" lry="115" ulx="173" uly="35" xml:id="zone_63d1149c-b27d-11e8-9a68-acde48001122" /><zone lrx="439" lry="115" ulx="293" uly="35" xml:id="zone_63d11624-b27d-11e8-8bff-acde48001122" /><zone lrx="502" lry="115" ulx="473" uly="35" xml:id="zone_63d11794-b27d-11e8-827d-acde48001122" /><zone lrx="640" lry="115" ulx="523" uly="35" xml:id="zone_63d11924-b27d-11e8-8329-acde48001122" /><zone lrx="960" lry="115" ulx="651" uly="35" xml:id="zone_63d11a78-b27d-11e8-b9c3-acde48001122" /><zone lrx="359" lry="200" ulx="353" uly="182" xml:id="zone_63d11bd4-b27d-11e8-98af-acde48001122" /><zone lrx="408" lry="214" ulx="376" uly="188" xml:id="zone_63d11d34-b27d-11e8-8412-acde48001122" /><zone lrx="346" lry="256" ulx="268" uly="232" xml:id="zone_63d11ea6-b27d-11e8-ab0b-acde48001122" /><zone lrx="287" lry="374" ulx="172" uly="359" xml:id="zone_63d11ffa-b27d-11e8-8aa2-acde48001122" /><zone lrx="144" lry="524" ulx="63" uly="466" xml:id="zone_63d1213a-b27d-11e8-8dbb-acde48001122" /><zone lrx="182" lry="524" ulx="166" uly="466" xml:id="zone_63d122f0-b27d-11e8-92b3-acde48001122" /><zone lrx="349" lry="524" ulx="209" uly="466" xml:id="zone_63d12446-b27d-11e8-a71e-acde48001122" /><zone lrx="514" lry="524" ulx="377" uly="466" xml:id="zone_63d12586-b27d-11e8-8fbf-acde48001122" /><zone lrx="811" lry="524" ulx="532" uly="466" xml:id="zone_63d126c8-b27d-11e8-a4a2-acde48001122" /><zone lrx="935" lry="524" ulx="824" uly="466" xml:id="zone_63d12808-b27d-11e8-873b-acde48001122" /><zone lrx="289" lry="600" ulx="65" uly="515" xml:id="zone_63d12946-b27d-11e8-ae63-acde48001122" /><zone lrx="543" lry="600" ulx="321" uly="515" xml:id="zone_63d12a86-b27d-11e8-a16a-acde48001122" /><zone lrx="711" lry="600" ulx="571" uly="515" xml:id="zone_63d12bc6-b27d-11e8-9e20-acde48001122" /><zone lrx="794" lry="600" ulx="730" uly="515" xml:id="zone_63d12d54-b27d-11e8-b542-acde48001122" /><zone lrx="919" lry="600" ulx="812" uly="515" xml:id="zone_63d12eb4-b27d-11e8-8125-acde48001122" /><zone lrx="72" lry="651" ulx="58" uly="600" xml:id="zone_63d13012-b27d-11e8-ab40-acde48001122" /><zone lrx="93" lry="651" ulx="79" uly="600" xml:id="zone_63d13152-b27d-11e8-aa2d-acde48001122" /><zone lrx="113" lry="651" ulx="99" uly="600" xml:id="zone_63d1329c-b27d-11e8-a3d3-acde48001122" /><zone lrx="134" lry="651" ulx="120" uly="600" xml:id="zone_63d133f0-b27d-11e8-8a47-acde48001122" /><zone lrx="267" lry="651" ulx="137" uly="600" xml:id="zone_63d13546-b27d-11e8-8736-acde48001122" /><zone lrx="355" lry="651" ulx="288" uly="600" xml:id="zone_63d1368c-b27d-11e8-8487-acde48001122" /><zone lrx="421" lry="651" ulx="371" uly="600" xml:id="zone_63d137cc-b27d-11e8-ac1a-acde48001122" /><zone lrx="489" lry="651" ulx="430" uly="600" xml:id="zone_63d1392c-b27d-11e8-827e-acde48001122" /><zone lrx="638" lry="651" ulx="505" uly="600" xml:id="zone_63d13a9e-b27d-11e8-8aa1-acde48001122" /><zone lrx="742" lry="651" ulx="654" uly="600" xml:id="zone_63d13be8-b27d-11e8-91de-acde48001122" /><zone lrx="802" lry="651" ulx="758" uly="600" xml:id="zone_63d13d28-b27d-11e8-9c07-acde48001122" /><zone lrx="947" lry="651" ulx="816" uly="600" xml:id="zone_63d13e70-b27d-11e8-8ad0-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_63d111b8-b27d-11e8-b5e9-acde48001122">Lend</span><span facs="#zone_63d1149c-b27d-11e8-9a68-acde48001122">Your</span><span facs="#zone_63d11624-b27d-11e8-8bff-acde48001122">Money</span><span facs="#zone_63d11794-b27d-11e8-827d-acde48001122">to</span><span facs="#zone_63d11924-b27d-11e8-8329-acde48001122">Your</span><span facs="#zone_63d11a78-b27d-11e8-b9c3-acde48001122">Government</span><span facs="#zone_63d11bd4-b27d-11e8-98af-acde48001122">T</span><span facs="#zone_63d11d34-b27d-11e8-8412-acde48001122">ATTOO</span><span facs="#zone_63d11ea6-b27d-11e8-ab0b-acde48001122">9925</span><span facs="#zone_63d11ffa-b27d-11e8-8aa2-acde48001122">PHONES</span><span facs="#zone_63d1213a-b27d-11e8-8dbb-acde48001122">BUY</span><span facs="#zone_63d122f0-b27d-11e8-92b3-acde48001122">A</span><span facs="#zone_63d12446-b27d-11e8-a71e-acde48001122">UNITED</span><span facs="#zone_63d12586-b27d-11e8-8fbf-acde48001122">STATES</span><span facs="#zone_63d126c8-b27d-11e8-a4a2-acde48001122">GOVERNMENT</span><span facs="#zone_63d12808-b27d-11e8-873b-acde48001122">BOND</span><span facs="#zone_63d12946-b27d-11e8-ae63-acde48001122">SECOND</span><span facs="#zone_63d12a86-b27d-11e8-a16a-acde48001122">LIBERTY</span><span facs="#zone_63d12bc6-b27d-11e8-9e20-acde48001122">LOAN</span><span facs="#zone_63d12d54-b27d-11e8-b542-acde48001122">OF</span><span facs="#zone_63d12eb4-b27d-11e8-8125-acde48001122">1917</span><span facs="#zone_63d13012-b27d-11e8-ab40-acde48001122">U</span><span facs="#zone_63d13152-b27d-11e8-aa2d-acde48001122">.</span><span facs="#zone_63d1329c-b27d-11e8-a3d3-acde48001122">S</span><span facs="#zone_63d133f0-b27d-11e8-8a47-acde48001122">.</span><span facs="#zone_63d13546-b27d-11e8-8736-acde48001122">Treasury</span><span facs="#zone_63d1368c-b27d-11e8-8487-acde48001122">will</span><span facs="#zone_63d137cc-b27d-11e8-ac1a-acde48001122">pay</span><span facs="#zone_63d1392c-b27d-11e8-827e-acde48001122">you</span><span facs="#zone_63d13a9e-b27d-11e8-8aa1-acde48001122">interest</span><span facs="#zone_63d13be8-b27d-11e8-91de-acde48001122">every</span><span facs="#zone_63d13d28-b27d-11e8-9c07-acde48001122">six</span><span facs="#zone_63d13e70-b27d-11e8-8ad0-acde48001122">months</span></p></body>
+    </text>
+</TEI>

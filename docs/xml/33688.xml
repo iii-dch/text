@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>カナダ産穀物∽478</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33688">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33688</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/8612/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/8612/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/8612/1332747940898.jpg" /><zone lrx="457" lry="459" ulx="163" uly="408" xml:id="zone_f4e9a2d0-b27c-11e8-9d0d-acde48001122" /><zone lrx="388" lry="503" ulx="203" uly="452" xml:id="zone_f4e9a990-b27c-11e8-9e47-acde48001122" /><zone lrx="284" lry="715" ulx="36" uly="641" xml:id="zone_f4e9ad1e-b27c-11e8-a84c-acde48001122" /><zone lrx="396" lry="715" ulx="315" uly="641" xml:id="zone_f4e9af6e-b27c-11e8-8572-acde48001122" /><zone lrx="588" lry="715" ulx="430" uly="641" xml:id="zone_f4e9b16c-b27c-11e8-85d6-acde48001122" /><zone lrx="252" lry="771" ulx="19" uly="697" xml:id="zone_f4e9b2d2-b27c-11e8-ad24-acde48001122" /><zone lrx="419" lry="771" ulx="303" uly="697" xml:id="zone_f4e9b412-b27c-11e8-8092-acde48001122" /><zone lrx="602" lry="771" ulx="454" uly="697" xml:id="zone_f4e9b566-b27c-11e8-a9d3-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_f4e9a2d0-b27c-11e8-9d0d-acde48001122">CANADAS</span><span facs="#zone_f4e9a990-b27c-11e8-9e47-acde48001122">GRAIN</span><span facs="#zone_f4e9ad1e-b27c-11e8-a84c-acde48001122">CANNOT</span><span facs="#zone_f4e9af6e-b27c-11e8-8572-acde48001122">BE</span><span facs="#zone_f4e9b16c-b27c-11e8-85d6-acde48001122">SOLD</span><span facs="#zone_f4e9b2d2-b27c-11e8-ad24-acde48001122">UNLESS</span><span facs="#zone_f4e9b412-b27c-11e8-8092-acde48001122">YOU</span><span facs="#zone_f4e9b566-b27c-11e8-a9d3-acde48001122">BUY</span></p></body>
+    </text>
+</TEI>

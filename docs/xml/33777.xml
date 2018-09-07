@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>手の施しようがない－勝利公債なしでは∽579</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33777">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33777</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/15091/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/15091/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/15091/1332747981760.jpg" /><zone lrx="299" lry="823" ulx="33" uly="665" xml:id="zone_49053918-b27d-11e8-8ee7-acde48001122" /><zone lrx="576" lry="792" ulx="537" uly="774" xml:id="zone_49053f94-b27d-11e8-a6b2-acde48001122" /><zone lrx="166" lry="873" ulx="42" uly="822" xml:id="zone_4905430c-b27d-11e8-929e-acde48001122" /><zone lrx="54" lry="976" ulx="28" uly="885" xml:id="zone_4905455a-b27d-11e8-b512-acde48001122" /><zone lrx="73" lry="976" ulx="47" uly="885" xml:id="zone_490547b4-b27d-11e8-8ad6-acde48001122" /><zone lrx="623" lry="976" ulx="66" uly="885" xml:id="zone_490549f6-b27d-11e8-9e94-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_49053918-b27d-11e8-8ee7-acde48001122">RERÀ</span><span facs="#zone_49053f94-b27d-11e8-a6b2-acde48001122">CALSBA</span><span facs="#zone_4905430c-b27d-11e8-929e-acde48001122">sans</span><span facs="#zone_4905455a-b27d-11e8-b512-acde48001122">L</span><span facs="#zone_490547b4-b27d-11e8-8ad6-acde48001122">'</span><span facs="#zone_490549f6-b27d-11e8-9e94-acde48001122">EMPRUNTDELAVICTOIRE</span></p></body>
+    </text>
+</TEI>

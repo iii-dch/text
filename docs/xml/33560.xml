@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>アメリカ海軍は人を必要としています∽198</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33560">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33560</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/9195/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/9195/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/9195/1332747882313.jpg" /><zone lrx="288" lry="731" ulx="75" uly="687" xml:id="zone_fba83c92-b27c-11e8-b9de-acde48001122" /><zone lrx="374" lry="731" ulx="305" uly="687" xml:id="zone_fba841ec-b27c-11e8-a030-acde48001122" /><zone lrx="151" lry="802" ulx="73" uly="733" xml:id="zone_fba845ac-b27c-11e8-b2ef-acde48001122" /><zone lrx="294" lry="802" ulx="169" uly="733" xml:id="zone_fba847c8-b27c-11e8-bb73-acde48001122" /><zone lrx="368" lry="802" ulx="299" uly="733" xml:id="zone_fba84980-b27c-11e8-9f3f-acde48001122" /><zone lrx="591" lry="833" ulx="550" uly="823" xml:id="zone_fba84b42-b27c-11e8-b572-acde48001122" /><zone lrx="592" lry="841" ulx="546" uly="831" xml:id="zone_fba84ce6-b27c-11e8-a30d-acde48001122" /><zone lrx="51" lry="894" ulx="43" uly="863" xml:id="zone_fba84e94-b27c-11e8-aa69-acde48001122" /><zone lrx="127" lry="894" ulx="119" uly="863" xml:id="zone_fba8501a-b27c-11e8-a3f6-acde48001122" /><zone lrx="195" lry="894" ulx="187" uly="863" xml:id="zone_fba85198-b27c-11e8-a61a-acde48001122" /><zone lrx="265" lry="894" ulx="257" uly="863" xml:id="zone_fba852d8-b27c-11e8-a388-acde48001122" /><zone lrx="551" lry="888" ulx="546" uly="867" xml:id="zone_fba85418-b27c-11e8-8d64-acde48001122" /><zone lrx="639" lry="888" ulx="634" uly="867" xml:id="zone_fba85554-b27c-11e8-981b-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_fba83c92-b27c-11e8-b9de-acde48001122">REGISTERED</span><span facs="#zone_fba841ec-b27c-11e8-a030-acde48001122">MEN</span><span facs="#zone_fba845ac-b27c-11e8-b2ef-acde48001122">MAY</span><span facs="#zone_fba847c8-b27c-11e8-bb73-acde48001122">ENLIST</span><span facs="#zone_fba84980-b27c-11e8-9f3f-acde48001122">NOW</span><span facs="#zone_fba84b42-b27c-11e8-b572-acde48001122">RAYMOND</span><span facs="#zone_fba84ce6-b27c-11e8-a30d-acde48001122">TRAINISTER</span><span facs="#zone_fba84e94-b27c-11e8-aa69-acde48001122">A</span><span facs="#zone_fba8501a-b27c-11e8-a3f6-acde48001122">P</span><span facs="#zone_fba85198-b27c-11e8-a61a-acde48001122">P</span><span facs="#zone_fba852d8-b27c-11e8-a388-acde48001122">L</span><span facs="#zone_fba85418-b27c-11e8-8d64-acde48001122">A</span><span facs="#zone_fba85554-b27c-11e8-981b-acde48001122">T</span></p></body>
+    </text>
+</TEI>

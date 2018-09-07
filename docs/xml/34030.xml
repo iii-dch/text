@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>カナダ人ならこの徴を付けるのを栄誉とすることだろう∽424</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/34030">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/34030</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/13457/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/13457/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/13457/1332748099476.jpg" /><zone lrx="409" lry="129" ulx="228" uly="87" xml:id="zone_33e6b65e-b27d-11e8-b153-acde48001122" /><zone lrx="365" lry="401" ulx="275" uly="359" xml:id="zone_33e6ba0a-b27d-11e8-9d44-acde48001122" /><zone lrx="212" lry="520" ulx="103" uly="466" xml:id="zone_33e6bc98-b27d-11e8-a119-acde48001122" /><zone lrx="399" lry="520" ulx="224" uly="466" xml:id="zone_33e6bef8-b27d-11e8-a083-acde48001122" /><zone lrx="539" lry="520" ulx="411" uly="466" xml:id="zone_33e6c128-b27d-11e8-b538-acde48001122" /><zone lrx="273" lry="588" ulx="109" uly="530" xml:id="zone_33e6c362-b27d-11e8-a97a-acde48001122" /><zone lrx="324" lry="588" ulx="291" uly="530" xml:id="zone_33e6c59c-b27d-11e8-8459-acde48001122" /><zone lrx="385" lry="588" ulx="343" uly="530" xml:id="zone_33e6c72c-b27d-11e8-bbe7-acde48001122" /><zone lrx="538" lry="588" ulx="402" uly="530" xml:id="zone_33e6c876-b27d-11e8-a28e-acde48001122" /><zone lrx="144" lry="651" ulx="109" uly="603" xml:id="zone_33e6c9c0-b27d-11e8-aa9a-acde48001122" /><zone lrx="269" lry="651" ulx="166" uly="603" xml:id="zone_33e6cb00-b27d-11e8-af7d-acde48001122" /><zone lrx="371" lry="651" ulx="300" uly="603" xml:id="zone_33e6cc4a-b27d-11e8-9ff2-acde48001122" /><zone lrx="537" lry="651" ulx="401" uly="603" xml:id="zone_33e6cd8a-b27d-11e8-8c83-acde48001122" /><zone lrx="380" lry="836" ulx="48" uly="692" xml:id="zone_33e6ced4-b27d-11e8-9b27-acde48001122" /><zone lrx="612" lry="836" ulx="410" uly="692" xml:id="zone_33e6d00a-b27d-11e8-a1e2-acde48001122" /><zone lrx="401" lry="937" ulx="238" uly="829" xml:id="zone_33e6d14a-b27d-11e8-9d4d-acde48001122" /><zone lrx="30" lry="968" ulx="28" uly="958" xml:id="zone_33e6d292-b27d-11e8-aa75-acde48001122" /><zone lrx="39" lry="968" ulx="37" uly="958" xml:id="zone_33e6d3d4-b27d-11e8-97e8-acde48001122" /><zone lrx="45" lry="968" ulx="43" uly="958" xml:id="zone_33e6d514-b27d-11e8-bf12-acde48001122" /><zone lrx="51" lry="968" ulx="49" uly="958" xml:id="zone_33e6d654-b27d-11e8-870a-acde48001122" /><zone lrx="62" lry="968" ulx="55" uly="958" xml:id="zone_33e6d794-b27d-11e8-ab16-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_33e6b65e-b27d-11e8-b153-acde48001122">INVESTOR</span><span facs="#zone_33e6ba0a-b27d-11e8-9d44-acde48001122">1919</span><span facs="#zone_33e6bc98-b27d-11e8-a119-acde48001122">EVERY</span><span facs="#zone_33e6bef8-b27d-11e8-a083-acde48001122">CANADIAN</span><span facs="#zone_33e6c128-b27d-11e8-b538-acde48001122">SHOULD</span><span facs="#zone_33e6c362-b27d-11e8-a97a-acde48001122">CONSIDER</span><span facs="#zone_33e6c59c-b27d-11e8-8459-acde48001122">IT</span><span facs="#zone_33e6c72c-b27d-11e8-bbe7-acde48001122">AN</span><span facs="#zone_33e6c876-b27d-11e8-a28e-acde48001122">HONOUR</span><span facs="#zone_33e6c9c0-b27d-11e8-aa9a-acde48001122">TO</span><span facs="#zone_33e6cb00-b27d-11e8-af7d-acde48001122">WEAR</span><span facs="#zone_33e6cc4a-b27d-11e8-9ff2-acde48001122">THIS</span><span facs="#zone_33e6cd8a-b27d-11e8-8c83-acde48001122">BUTTON</span><span facs="#zone_33e6ced4-b27d-11e8-9b27-acde48001122">VICTORY</span><span facs="#zone_33e6d00a-b27d-11e8-a1e2-acde48001122">LOAN</span><span facs="#zone_33e6d14a-b27d-11e8-9d4d-acde48001122">1919</span><span facs="#zone_33e6d292-b27d-11e8-aa75-acde48001122">W</span><span facs="#zone_33e6d3d4-b27d-11e8-97e8-acde48001122">.</span><span facs="#zone_33e6d514-b27d-11e8-bf12-acde48001122">P</span><span facs="#zone_33e6d654-b27d-11e8-870a-acde48001122">.</span><span facs="#zone_33e6d794-b27d-11e8-ab16-acde48001122">17</span></p></body>
+    </text>
+</TEI>

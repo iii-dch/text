@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ロシアでのアメリカの救急車∽94</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33605">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33605</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/15989/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/15989/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/15989/1332747902755.jpg" /><zone lrx="288" lry="64" ulx="237" uly="14" xml:id="zone_5332c3a4-b27d-11e8-9463-acde48001122" /><zone lrx="439" lry="64" ulx="310" uly="14" xml:id="zone_5332c650-b27d-11e8-b967-acde48001122" /><zone lrx="623" lry="66" ulx="466" uly="15" xml:id="zone_5332c7e8-b27d-11e8-a38f-acde48001122" /><zone lrx="674" lry="65" ulx="645" uly="15" xml:id="zone_5332c95a-b27d-11e8-a781-acde48001122" /><zone lrx="796" lry="66" ulx="699" uly="16" xml:id="zone_5332cac2-b27d-11e8-b408-acde48001122" /><zone lrx="454" lry="71" ulx="439" uly="62" xml:id="zone_5332cc22-b27d-11e8-b92a-acde48001122" /><zone lrx="486" lry="71" ulx="464" uly="62" xml:id="zone_5332cd74-b27d-11e8-909e-acde48001122" /><zone lrx="529" lry="72" ulx="498" uly="62" xml:id="zone_5332ced2-b27d-11e8-83f4-acde48001122" /><zone lrx="531" lry="72" ulx="529" uly="63" xml:id="zone_5332d03a-b27d-11e8-ba4e-acde48001122" /><zone lrx="560" lry="72" ulx="541" uly="63" xml:id="zone_5332d19a-b27d-11e8-a847-acde48001122" /><zone lrx="591" lry="72" ulx="570" uly="63" xml:id="zone_5332d2f6-b27d-11e8-b172-acde48001122" /><zone lrx="910" lry="560" ulx="619" uly="472" xml:id="zone_5332d44a-b27d-11e8-a1e7-acde48001122" /><zone lrx="629" lry="628" ulx="564" uly="551" xml:id="zone_5332d594-b27d-11e8-ba36-acde48001122" /><zone lrx="810" lry="629" ulx="640" uly="551" xml:id="zone_5332d6e6-b27d-11e8-a427-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_5332c3a4-b27d-11e8-9463-acde48001122">THE</span><span facs="#zone_5332c650-b27d-11e8-b967-acde48001122">AMERICAN</span><span facs="#zone_5332c7e8-b27d-11e8-a38f-acde48001122">AMBULANCE</span><span facs="#zone_5332c95a-b27d-11e8-a781-acde48001122">IN</span><span facs="#zone_5332cac2-b27d-11e8-b408-acde48001122">RUSSIA</span><span facs="#zone_5332cc22-b27d-11e8-b92a-acde48001122">527</span><span facs="#zone_5332cd74-b27d-11e8-909e-acde48001122">FIFTH</span><span facs="#zone_5332ced2-b27d-11e8-83f4-acde48001122">AVENUE</span><span facs="#zone_5332d03a-b27d-11e8-ba4e-acde48001122">,</span><span facs="#zone_5332d19a-b27d-11e8-a847-acde48001122">NEW</span><span facs="#zone_5332d2f6-b27d-11e8-b172-acde48001122">YORK</span><span facs="#zone_5332d44a-b27d-11e8-a1e7-acde48001122">военный</span><span facs="#zone_5332d594-b27d-11e8-ba36-acde48001122">548</span><span facs="#zone_5332d6e6-b27d-11e8-a427-acde48001122">34см</span></p></body>
+    </text>
+</TEI>

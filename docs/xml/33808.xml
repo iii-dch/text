@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>道を切り開きましょう！！∽64</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33808">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33808</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/8368/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/8368/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/8368/1332747996186.jpg" /><zone lrx="245" lry="101" ulx="34" uly="5" xml:id="zone_f19fbc5c-b27c-11e8-a4b1-acde48001122" /><zone lrx="282" lry="101" ulx="254" uly="5" xml:id="zone_f19fc06c-b27c-11e8-8be9-acde48001122" /><zone lrx="403" lry="101" ulx="295" uly="5" xml:id="zone_f19fc2ec-b27c-11e8-b167-acde48001122" /><zone lrx="437" lry="101" ulx="409" uly="5" xml:id="zone_f19fc526-b27c-11e8-ad6e-acde48001122" /><zone lrx="593" lry="101" ulx="414" uly="5" xml:id="zone_f19fc74a-b27c-11e8-88bd-acde48001122" /><zone lrx="621" lry="101" ulx="593" uly="5" xml:id="zone_f19fc968-b27c-11e8-97b6-acde48001122" /><zone lrx="650" lry="101" ulx="622" uly="5" xml:id="zone_f19fcb82-b27c-11e8-8bbe-acde48001122" /><zone lrx="670" lry="101" ulx="642" uly="5" xml:id="zone_f19fcd98-b27c-11e8-a112-acde48001122" /><zone lrx="132" lry="231" ulx="42" uly="152" xml:id="zone_f19fcfb0-b27c-11e8-8c55-acde48001122" /><zone lrx="284" lry="231" ulx="138" uly="152" xml:id="zone_f19fd1d8-b27c-11e8-a966-acde48001122" /><zone lrx="211" lry="289" ulx="99" uly="249" xml:id="zone_f19fd3e8-b27c-11e8-9d67-acde48001122" /><zone lrx="177" lry="341" ulx="45" uly="295" xml:id="zone_f19fd5f0-b27c-11e8-a00d-acde48001122" /><zone lrx="292" lry="341" ulx="209" uly="295" xml:id="zone_f19fd818-b27c-11e8-88a8-acde48001122" /><zone lrx="75" lry="916" ulx="41" uly="881" xml:id="zone_f19fda48-b27c-11e8-9e64-acde48001122" /><zone lrx="121" lry="915" ulx="84" uly="880" xml:id="zone_f19fdc6e-b27c-11e8-a049-acde48001122" /><zone lrx="166" lry="915" ulx="125" uly="879" xml:id="zone_f19fde80-b27c-11e8-8265-acde48001122" /><zone lrx="189" lry="913" ulx="179" uly="879" xml:id="zone_f19fe09c-b27c-11e8-b612-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_f19fbc5c-b27c-11e8-a4b1-acde48001122">CLEAR</span><span facs="#zone_f19fc06c-b27c-11e8-8be9-acde48001122">-</span><span facs="#zone_f19fc2ec-b27c-11e8-b167-acde48001122">THE</span><span facs="#zone_f19fc526-b27c-11e8-ad6e-acde48001122">-</span><span facs="#zone_f19fc74a-b27c-11e8-88bd-acde48001122">WAY</span><span facs="#zone_f19fc968-b27c-11e8-97b6-acde48001122">-</span><span facs="#zone_f19fcb82-b27c-11e8-8bbe-acde48001122">!</span><span facs="#zone_f19fcd98-b27c-11e8-a112-acde48001122">!</span><span facs="#zone_f19fcfb0-b27c-11e8-8c55-acde48001122">BUY</span><span facs="#zone_f19fd1d8-b27c-11e8-a966-acde48001122">BONIS</span><span facs="#zone_f19fd3e8-b27c-11e8-9d67-acde48001122">FOURTH</span><span facs="#zone_f19fd5f0-b27c-11e8-a00d-acde48001122">LIBERTY</span><span facs="#zone_f19fd818-b27c-11e8-88a8-acde48001122">LOAN</span><span facs="#zone_f19fda48-b27c-11e8-9e64-acde48001122">femind</span><span facs="#zone_f19fdc6e-b27c-11e8-a049-acde48001122">handlar</span><span facs="#zone_f19fde80-b27c-11e8-8265-acde48001122">Christy</span><span facs="#zone_f19fe09c-b27c-11e8-b612-acde48001122">U</span></p></body>
+    </text>
+</TEI>

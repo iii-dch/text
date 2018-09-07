@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>どの娘も勝利に一役買っている∽215</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33931">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33931</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/11202/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/11202/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/11202/1332748053191.jpg" /><zone lrx="197" lry="89" ulx="9" uly="89" xml:id="zone_14af77c8-b27d-11e8-b1af-acde48001122" /><zone lrx="346" lry="89" ulx="212" uly="89" xml:id="zone_14af7e3a-b27d-11e8-aea6-acde48001122" /><zone lrx="610" lry="89" ulx="361" uly="89" xml:id="zone_14af8236-b27d-11e8-9a68-acde48001122" /><zone lrx="168" lry="157" ulx="49" uly="74" xml:id="zone_14af847a-b27d-11e8-8893-acde48001122" /><zone lrx="558" lry="157" ulx="220" uly="74" xml:id="zone_14af8678-b27d-11e8-afa2-acde48001122" /><zone lrx="231" lry="773" ulx="210" uly="712" xml:id="zone_14af87e8-b27d-11e8-b4ae-acde48001122" /><zone lrx="502" lry="768" ulx="287" uly="692" xml:id="zone_14af8940-b27d-11e8-8ba7-acde48001122" /><zone lrx="511" lry="753" ulx="490" uly="692" xml:id="zone_14af8a7e-b27d-11e8-845e-acde48001122" /><zone lrx="349" lry="927" ulx="349" uly="824" xml:id="zone_14af8bbe-b27d-11e8-aa70-acde48001122" /><zone lrx="630" lry="927" ulx="375" uly="824" xml:id="zone_14af8d08-b27d-11e8-bbb4-acde48001122" /><zone lrx="136" lry="986" ulx="15" uly="921" xml:id="zone_14af8e48-b27d-11e8-aee5-acde48001122" /><zone lrx="251" lry="986" ulx="159" uly="921" xml:id="zone_14af8f92-b27d-11e8-b751-acde48001122" /><zone lrx="392" lry="986" ulx="273" uly="921" xml:id="zone_14af90d2-b27d-11e8-a4ff-acde48001122" /><zone lrx="623" lry="986" ulx="408" uly="921" xml:id="zone_14af9212-b27d-11e8-9a5e-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_14af77c8-b27d-11e8-b1af-acde48001122">EVERY</span><span facs="#zone_14af7e3a-b27d-11e8-aea6-acde48001122">GIRL</span><span facs="#zone_14af8236-b27d-11e8-9a68-acde48001122">PULLING</span><span facs="#zone_14af847a-b27d-11e8-8893-acde48001122">FOR</span><span facs="#zone_14af8678-b27d-11e8-afa2-acde48001122">VICTORY</span><span facs="#zone_14af87e8-b27d-11e8-b4ae-acde48001122">1</span><span facs="#zone_14af8940-b27d-11e8-8ba7-acde48001122">ICTORY</span><span facs="#zone_14af8a7e-b27d-11e8-845e-acde48001122">.</span><span facs="#zone_14af8bbe-b27d-11e8-aa70-acde48001122">VICTORY</span><span facs="#zone_14af8d08-b27d-11e8-bbb4-acde48001122">GIRLS</span><span facs="#zone_14af8e48-b27d-11e8-aee5-acde48001122">UNITED</span><span facs="#zone_14af8f92-b27d-11e8-b751-acde48001122">WAR</span><span facs="#zone_14af90d2-b27d-11e8-a4ff-acde48001122">WORK</span><span facs="#zone_14af9212-b27d-11e8-9a5e-acde48001122">CAMPAIGN</span></p></body>
+    </text>
+</TEI>

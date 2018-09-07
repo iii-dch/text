@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>我らの町を助け、栄誉の旗を掲げよう∽587</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33794">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33794</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/8423/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/8423/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/8423/1332747989611.jpg" /><zone lrx="233" lry="80" ulx="66" uly="26" xml:id="zone_f2889330-b27c-11e8-80af-acde48001122" /><zone lrx="373" lry="80" ulx="258" uly="26" xml:id="zone_f288981e-b27c-11e8-9e02-acde48001122" /><zone lrx="570" lry="80" ulx="403" uly="26" xml:id="zone_f2889a42-b27c-11e8-9fb0-acde48001122" /><zone lrx="188" lry="128" ulx="72" uly="70" xml:id="zone_f2889bac-b27c-11e8-b7c3-acde48001122" /><zone lrx="375" lry="128" ulx="245" uly="70" xml:id="zone_f2889d00-b27c-11e8-9895-acde48001122" /><zone lrx="576" lry="128" ulx="408" uly="70" xml:id="zone_f2889e48-b27c-11e8-8d6a-acde48001122" /><zone lrx="365" lry="390" ulx="279" uly="361" xml:id="zone_f288a1f6-b27c-11e8-bdb9-acde48001122" /><zone lrx="439" lry="390" ulx="382" uly="361" xml:id="zone_f288a4a6-b27c-11e8-bd5d-acde48001122" /><zone lrx="128" lry="479" ulx="54" uly="376" xml:id="zone_f288a642-b27c-11e8-a34a-acde48001122" /><zone lrx="418" lry="479" ulx="158" uly="376" xml:id="zone_f288a7a2-b27c-11e8-a25b-acde48001122" /><zone lrx="620" lry="479" ulx="445" uly="376" xml:id="zone_f288a8e8-b27c-11e8-b53b-acde48001122" /><zone lrx="238" lry="490" ulx="143" uly="466" xml:id="zone_f288aa2c-b27c-11e8-8247-acde48001122" /><zone lrx="325" lry="490" ulx="253" uly="466" xml:id="zone_f288ab74-b27c-11e8-847f-acde48001122" /><zone lrx="374" lry="490" ulx="347" uly="466" xml:id="zone_f288acbe-b27c-11e8-8183-acde48001122" /><zone lrx="505" lry="490" ulx="383" uly="466" xml:id="zone_f288ae12-b27c-11e8-ae8f-acde48001122" /><zone lrx="11" lry="991" ulx="5" uly="979" xml:id="zone_f288af52-b27c-11e8-b1ad-acde48001122" /><zone lrx="15" lry="991" ulx="12" uly="980" xml:id="zone_f288b0a6-b27c-11e8-bbc1-acde48001122" /><zone lrx="18" lry="991" ulx="15" uly="980" xml:id="zone_f288b1f8-b27c-11e8-9c38-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_f2889330-b27c-11e8-80af-acde48001122">HELP</span><span facs="#zone_f288981e-b27c-11e8-9e02-acde48001122">OUR</span><span facs="#zone_f2889a42-b27c-11e8-9fb0-acde48001122">TOWN</span><span facs="#zone_f2889bac-b27c-11e8-b7c3-acde48001122">WIN</span><span facs="#zone_f2889d00-b27c-11e8-9895-acde48001122">THIS</span><span facs="#zone_f2889e48-b27c-11e8-8d6a-acde48001122">FLAG</span><span facs="#zone_f288a1f6-b27c-11e8-bdb9-acde48001122">HONOR</span><span facs="#zone_f288a4a6-b27c-11e8-bd5d-acde48001122">FLAG</span><span facs="#zone_f288a642-b27c-11e8-a34a-acde48001122">4th</span><span facs="#zone_f288a7a2-b27c-11e8-a25b-acde48001122">LIBERTY</span><span facs="#zone_f288a8e8-b27c-11e8-b53b-acde48001122">LOAN</span><span facs="#zone_f288aa2c-b27c-11e8-8247-acde48001122">HONOR</span><span facs="#zone_f288ab74-b27c-11e8-847f-acde48001122">ROLL</span><span facs="#zone_f288acbe-b27c-11e8-8183-acde48001122">of</span><span facs="#zone_f288ae12-b27c-11e8-ae8f-acde48001122">Subscribers</span><span facs="#zone_f288af52-b27c-11e8-b1ad-acde48001122">12</span><span facs="#zone_f288b0a6-b27c-11e8-bbc1-acde48001122">-</span><span facs="#zone_f288b1f8-b27c-11e8-9c38-acde48001122">B</span></p></body>
+    </text>
+</TEI>

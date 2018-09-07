@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>インド戦時公債∽613</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33747">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33747</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/8436/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/8436/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/8436/1332747968078.jpg" /><zone lrx="274" lry="208" ulx="16" uly="38" xml:id="zone_f2d73836-b27c-11e8-9775-acde48001122" /><zone lrx="559" lry="208" ulx="323" uly="38" xml:id="zone_f2d73e92-b27c-11e8-ac30-acde48001122" /><zone lrx="126" lry="423" ulx="123" uly="414" xml:id="zone_f2d7418a-b27c-11e8-8f0a-acde48001122" /><zone lrx="151" lry="421" ulx="148" uly="412" xml:id="zone_f2d74324-b27c-11e8-a223-acde48001122" /><zone lrx="155" lry="420" ulx="152" uly="411" xml:id="zone_f2d7448c-b27c-11e8-ac10-acde48001122" /><zone lrx="158" lry="420" ulx="155" uly="411" xml:id="zone_f2d745d4-b27c-11e8-b41a-acde48001122" /><zone lrx="166" lry="419" ulx="163" uly="410" xml:id="zone_f2d7470a-b27c-11e8-b232-acde48001122" /><zone lrx="190" lry="681" ulx="34" uly="585" xml:id="zone_f2d74862-b27c-11e8-bff9-acde48001122" /><zone lrx="358" lry="681" ulx="213" uly="585" xml:id="zone_f2d749a8-b27c-11e8-b901-acde48001122" /><zone lrx="601" lry="681" ulx="388" uly="585" xml:id="zone_f2d74af4-b27c-11e8-b7bb-acde48001122" /><zone lrx="212" lry="769" ulx="61" uly="681" xml:id="zone_f2d74c34-b27c-11e8-979f-acde48001122" /><zone lrx="319" lry="769" ulx="205" uly="681" xml:id="zone_f2d74d74-b27c-11e8-9461-acde48001122" /><zone lrx="438" lry="769" ulx="326" uly="681" xml:id="zone_f2d74ea8-b27c-11e8-9b78-acde48001122" /><zone lrx="535" lry="769" ulx="470" uly="681" xml:id="zone_f2d74fde-b27c-11e8-8e3c-acde48001122" /><zone lrx="568" lry="769" ulx="543" uly="681" xml:id="zone_f2d75122-b27c-11e8-bf49-acde48001122" /><zone lrx="586" lry="769" ulx="561" uly="681" xml:id="zone_f2d75258-b27c-11e8-a30b-acde48001122" /><zone lrx="64" lry="854" ulx="37" uly="760" xml:id="zone_f2d7538c-b27c-11e8-be9e-acde48001122" /><zone lrx="190" lry="854" ulx="102" uly="760" xml:id="zone_f2d754c2-b27c-11e8-baa6-acde48001122" /><zone lrx="315" lry="854" ulx="246" uly="760" xml:id="zone_f2d755f8-b27c-11e8-82f9-acde48001122" /><zone lrx="453" lry="854" ulx="347" uly="760" xml:id="zone_f2d7572e-b27c-11e8-9e36-acde48001122" /><zone lrx="592" lry="854" ulx="468" uly="760" xml:id="zone_f2d75864-b27c-11e8-97b2-acde48001122" /><zone lrx="435" lry="951" ulx="136" uly="858" xml:id="zone_f2d7599a-b27c-11e8-879e-acde48001122" /><zone lrx="485" lry="943" ulx="458" uly="856" xml:id="zone_f2d75ad2-b27c-11e8-98b7-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_f2d73836-b27c-11e8-9775-acde48001122">ઈન્ડીયન</span><span facs="#zone_f2d73e92-b27c-11e8-ac30-acde48001122">વૉરલોન</span><span facs="#zone_f2d7418a-b27c-11e8-8f0a-acde48001122">-</span><span facs="#zone_f2d74324-b27c-11e8-a223-acde48001122">*</span><span facs="#zone_f2d7448c-b27c-11e8-ac10-acde48001122">*</span><span facs="#zone_f2d745d4-b27c-11e8-b41a-acde48001122">*</span><span facs="#zone_f2d7470a-b27c-11e8-b232-acde48001122">*</span><span facs="#zone_f2d74862-b27c-11e8-bff9-acde48001122">આપણા</span><span facs="#zone_f2d749a8-b27c-11e8-b901-acde48001122">બહાદુર</span><span facs="#zone_f2d74af4-b27c-11e8-b7bb-acde48001122">સીપાઈઓ</span><span facs="#zone_f2d74c34-b27c-11e8-979f-acde48001122">આપણે</span><span facs="#zone_f2d74d74-b27c-11e8-9461-acde48001122">વાસ્તે</span><span facs="#zone_f2d74ea8-b27c-11e8-9b78-acde48001122">દુખ</span><span facs="#zone_f2d74fde-b27c-11e8-8e3c-acde48001122">ખમે</span><span facs="#zone_f2d75122-b27c-11e8-bf49-acde48001122">છે</span><span facs="#zone_f2d75258-b27c-11e8-a30b-acde48001122">.</span><span facs="#zone_f2d7538c-b27c-11e8-be9e-acde48001122">શું</span><span facs="#zone_f2d754c2-b27c-11e8-baa6-acde48001122">તમો</span><span facs="#zone_f2d755f8-b27c-11e8-82f9-acde48001122">એક</span><span facs="#zone_f2d7572e-b27c-11e8-9e36-acde48001122">વૉર</span><span facs="#zone_f2d75864-b27c-11e8-97b2-acde48001122">બોન્ડ</span><span facs="#zone_f2d7599a-b27c-11e8-879e-acde48001122">નહીંખરીદશો</span><span facs="#zone_f2d75ad2-b27c-11e8-98b7-acde48001122">?</span></p></body>
+    </text>
+</TEI>

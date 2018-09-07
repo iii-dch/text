@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>あなたのお金も働かせよう∽590</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/34054">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/34054</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/16370/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/16370/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/16370/1332748110664.jpg" /><zone lrx="498" lry="520" ulx="468" uly="514" xml:id="zone_5813a45a-b27d-11e8-ae4a-acde48001122" /><zone lrx="529" lry="520" ulx="508" uly="514" xml:id="zone_5813a700-b27d-11e8-893c-acde48001122" /><zone lrx="152" lry="580" ulx="74" uly="538" xml:id="zone_5813a870-b27d-11e8-8763-acde48001122" /><zone lrx="238" lry="580" ulx="169" uly="538" xml:id="zone_5813a9ee-b27d-11e8-8d2e-acde48001122" /><zone lrx="352" lry="580" ulx="251" uly="538" xml:id="zone_5813ab54-b27d-11e8-80d5-acde48001122" /><zone lrx="436" lry="580" ulx="364" uly="538" xml:id="zone_5813ac8c-b27d-11e8-a319-acde48001122" /><zone lrx="498" lry="580" ulx="449" uly="538" xml:id="zone_5813adae-b27d-11e8-b654-acde48001122" /><zone lrx="525" lry="580" ulx="514" uly="538" xml:id="zone_5813aef8-b27d-11e8-9676-acde48001122" /><zone lrx="154" lry="684" ulx="73" uly="646" xml:id="zone_5813b042-b27d-11e8-87c7-acde48001122" /><zone lrx="546" lry="785" ulx="153" uly="677" xml:id="zone_5813b198-b27d-11e8-98e6-acde48001122" /><zone lrx="120" lry="843" ulx="67" uly="769" xml:id="zone_5813b2d8-b27d-11e8-8350-acde48001122" /><zone lrx="546" lry="843" ulx="158" uly="769" xml:id="zone_5813b40c-b27d-11e8-9662-acde48001122" /><zone lrx="147" lry="881" ulx="76" uly="857" xml:id="zone_5813b54c-b27d-11e8-b052-acde48001122" /><zone lrx="277" lry="881" ulx="167" uly="858" xml:id="zone_5813b68a-b27d-11e8-9630-acde48001122" /><zone lrx="361" lry="882" ulx="295" uly="859" xml:id="zone_5813b7ca-b27d-11e8-8a04-acde48001122" /><zone lrx="455" lry="883" ulx="373" uly="859" xml:id="zone_5813b91e-b27d-11e8-8107-acde48001122" /><zone lrx="535" lry="884" ulx="475" uly="861" xml:id="zone_5813ba88-b27d-11e8-b3d7-acde48001122" /><zone lrx="160" lry="919" ulx="71" uly="887" xml:id="zone_5813bbc8-b27d-11e8-a6e5-acde48001122" /><zone lrx="226" lry="919" ulx="168" uly="887" xml:id="zone_5813bd26-b27d-11e8-b7a5-acde48001122" /><zone lrx="354" lry="919" ulx="241" uly="887" xml:id="zone_5813be86-b27d-11e8-8383-acde48001122" /><zone lrx="385" lry="919" ulx="367" uly="887" xml:id="zone_5813bfc2-b27d-11e8-accd-acde48001122" /><zone lrx="443" lry="919" ulx="402" uly="887" xml:id="zone_5813c110-b27d-11e8-b77a-acde48001122" /><zone lrx="536" lry="919" ulx="456" uly="887" xml:id="zone_5813c278-b27d-11e8-9925-acde48001122" /><zone lrx="547" lry="919" ulx="539" uly="887" xml:id="zone_5813c3c0-b27d-11e8-be22-acde48001122" /><zone lrx="280" lry="960" ulx="253" uly="931" xml:id="zone_5813c514-b27d-11e8-8b58-acde48001122" /><zone lrx="313" lry="960" ulx="290" uly="931" xml:id="zone_5813c65e-b27d-11e8-9798-acde48001122" /><zone lrx="340" lry="960" ulx="324" uly="931" xml:id="zone_5813c7be-b27d-11e8-8854-acde48001122" /><zone lrx="353" lry="960" ulx="345" uly="931" xml:id="zone_5813c924-b27d-11e8-99c9-acde48001122" /><zone lrx="359" lry="960" ulx="351" uly="931" xml:id="zone_5813ca78-b27d-11e8-b026-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_5813a45a-b27d-11e8-ae4a-acde48001122">QUALES</span><span facs="#zone_5813a700-b27d-11e8-893c-acde48001122">UTAN</span><span facs="#zone_5813a870-b27d-11e8-8763-acde48001122">Make</span><span facs="#zone_5813a9ee-b27d-11e8-8d2e-acde48001122">your</span><span facs="#zone_5813ab54-b27d-11e8-80d5-acde48001122">money</span><span facs="#zone_5813ac8c-b27d-11e8-a319-acde48001122">work</span><span facs="#zone_5813adae-b27d-11e8-b654-acde48001122">too</span><span facs="#zone_5813aef8-b27d-11e8-9676-acde48001122">—</span><span facs="#zone_5813b042-b27d-11e8-87c7-acde48001122">BUY</span><span facs="#zone_5813b198-b27d-11e8-98e6-acde48001122">avinos</span><span facs="#zone_5813b2d8-b27d-11e8-8350-acde48001122">War</span><span facs="#zone_5813b40c-b27d-11e8-9662-acde48001122">CERTIFICATES</span><span facs="#zone_5813b54c-b27d-11e8-b052-acde48001122">YOUR</span><span facs="#zone_5813b68a-b27d-11e8-9630-acde48001122">MONEY</span><span facs="#zone_5813b7ca-b27d-11e8-8a04-acde48001122">WILL</span><span facs="#zone_5813b91e-b27d-11e8-8107-acde48001122">GROW</span><span facs="#zone_5813ba88-b27d-11e8-b3d7-acde48001122">AND</span><span facs="#zone_5813bbc8-b27d-11e8-a6e5-acde48001122">SECURE</span><span facs="#zone_5813bd26-b27d-11e8-b7a5-acde48001122">YOUR</span><span facs="#zone_5813be86-b27d-11e8-8383-acde48001122">COMFORT</span><span facs="#zone_5813bfc2-b27d-11e8-accd-acde48001122">IN</span><span facs="#zone_5813c110-b27d-11e8-b77a-acde48001122">THE</span><span facs="#zone_5813c278-b27d-11e8-9925-acde48001122">FUTURE</span><span facs="#zone_5813c3c0-b27d-11e8-be22-acde48001122">.</span><span facs="#zone_5813c514-b27d-11e8-8b58-acde48001122">LI</span><span facs="#zone_5813c65e-b27d-11e8-9798-acde48001122">for</span><span facs="#zone_5813c7be-b27d-11e8-8854-acde48001122">15</span><span facs="#zone_5813c924-b27d-11e8-99c9-acde48001122">/</span><span facs="#zone_5813ca78-b27d-11e8-b026-acde48001122">6</span></p></body>
+    </text>
+</TEI>

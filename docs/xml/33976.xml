@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>週に一斤節約しよう∽313</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33976">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33976</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/12830/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/12830/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/12830/1332748074151.jpg" /><zone lrx="287" lry="540" ulx="46" uly="391" xml:id="zone_2ba978fe-b27d-11e8-bb13-acde48001122" /><zone lrx="383" lry="529" ulx="337" uly="388" xml:id="zone_2ba97bae-b27d-11e8-ba92-acde48001122" /><zone lrx="625" lry="526" ulx="424" uly="378" xml:id="zone_2ba97e42-b27d-11e8-83c9-acde48001122" /><zone lrx="186" lry="653" ulx="151" uly="531" xml:id="zone_2ba97fe6-b27d-11e8-b01b-acde48001122" /><zone lrx="485" lry="653" ulx="232" uly="531" xml:id="zone_2ba98158-b27d-11e8-bae8-acde48001122" /><zone lrx="296" lry="773" ulx="99" uly="643" xml:id="zone_2ba982de-b27d-11e8-a0ec-acde48001122" /><zone lrx="518" lry="780" ulx="357" uly="652" xml:id="zone_2ba98434-b27d-11e8-9c10-acde48001122" /><zone lrx="304" lry="882" ulx="153" uly="765" xml:id="zone_2ba9859c-b27d-11e8-9064-acde48001122" /><zone lrx="509" lry="882" ulx="324" uly="765" xml:id="zone_2ba98718-b27d-11e8-ab10-acde48001122" /><zone lrx="187" lry="963" ulx="182" uly="943" xml:id="zone_2ba98854-b27d-11e8-af6d-acde48001122" /><zone lrx="195" lry="963" ulx="190" uly="943" xml:id="zone_2ba98930-b27d-11e8-89ba-acde48001122" /><zone lrx="205" lry="963" ulx="200" uly="943" xml:id="zone_2ba98a06-b27d-11e8-97bf-acde48001122" /><zone lrx="216" lry="964" ulx="211" uly="944" xml:id="zone_2ba98aca-b27d-11e8-a31c-acde48001122" /><zone lrx="271" lry="965" ulx="222" uly="943" xml:id="zone_2ba98b94-b27d-11e8-96a8-acde48001122" /><zone lrx="462" lry="967" ulx="288" uly="944" xml:id="zone_2ba98c5c-b27d-11e8-b615-acde48001122" /><zone lrx="567" lry="984" ulx="558" uly="977" xml:id="zone_2ba98d24-b27d-11e8-944e-acde48001122" /><zone lrx="595" lry="984" ulx="580" uly="977" xml:id="zone_2ba98dec-b27d-11e8-8454-acde48001122" /><zone lrx="631" lry="984" ulx="605" uly="977" xml:id="zone_2ba98eb4-b27d-11e8-9ee8-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_2ba978fe-b27d-11e8-bb13-acde48001122">Save</span><span facs="#zone_2ba97bae-b27d-11e8-ba92-acde48001122">a</span><span facs="#zone_2ba97e42-b27d-11e8-83c9-acde48001122">loaf</span><span facs="#zone_2ba97fe6-b27d-11e8-b01b-acde48001122">a</span><span facs="#zone_2ba98158-b27d-11e8-bae8-acde48001122">week</span><span facs="#zone_2ba982de-b27d-11e8-a0ec-acde48001122">help</span><span facs="#zone_2ba98434-b27d-11e8-9c10-acde48001122">win</span><span facs="#zone_2ba9859c-b27d-11e8-9064-acde48001122">the</span><span facs="#zone_2ba98718-b27d-11e8-ab10-acde48001122">war</span><span facs="#zone_2ba98854-b27d-11e8-af6d-acde48001122">U</span><span facs="#zone_2ba98930-b27d-11e8-89ba-acde48001122">.</span><span facs="#zone_2ba98a06-b27d-11e8-97bf-acde48001122">S</span><span facs="#zone_2ba98aca-b27d-11e8-a31c-acde48001122">.</span><span facs="#zone_2ba98b94-b27d-11e8-96a8-acde48001122">FOOD</span><span facs="#zone_2ba98c5c-b27d-11e8-b615-acde48001122">ADMINISTRATION</span><span facs="#zone_2ba98d24-b27d-11e8-944e-acde48001122">THE</span><span facs="#zone_2ba98dec-b27d-11e8-8454-acde48001122">POWER</span><span facs="#zone_2ba98eb4-b27d-11e8-9ee8-acde48001122">OUTONE</span></p></body>
+    </text>
+</TEI>

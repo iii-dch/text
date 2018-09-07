@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>勝利のために、さらなる公債の購入を∽258</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/34070">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/34070</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/8175/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/8175/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/8175/1332748117884.jpg" /><zone lrx="214" lry="550" ulx="128" uly="481" xml:id="zone_eefc78b6-b27c-11e8-a54a-acde48001122" /><zone lrx="434" lry="550" ulx="231" uly="481" xml:id="zone_eefc7ba2-b27c-11e8-912a-acde48001122" /><zone lrx="444" lry="550" ulx="424" uly="481" xml:id="zone_eefc7d6e-b27c-11e8-9c69-acde48001122" /><zone lrx="556" lry="550" ulx="457" uly="481" xml:id="zone_eefc7ef4-b27c-11e8-b19c-acde48001122" /><zone lrx="690" lry="550" ulx="567" uly="481" xml:id="zone_eefc8086-b27c-11e8-97cd-acde48001122" /><zone lrx="878" lry="550" ulx="716" uly="481" xml:id="zone_eefc81f6-b27c-11e8-92bc-acde48001122" /><zone lrx="345" lry="633" ulx="75" uly="545" xml:id="zone_eefc8368-b27c-11e8-ab1b-acde48001122" /><zone lrx="717" lry="633" ulx="405" uly="545" xml:id="zone_eefc84d0-b27c-11e8-890e-acde48001122" /><zone lrx="921" lry="633" ulx="743" uly="545" xml:id="zone_eefc873a-b27c-11e8-a10a-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_eefc78b6-b27c-11e8-a54a-acde48001122">FOR</span><span facs="#zone_eefc7ba2-b27c-11e8-912a-acde48001122">VICTORY</span><span facs="#zone_eefc7d6e-b27c-11e8-9c69-acde48001122">,</span><span facs="#zone_eefc7ef4-b27c-11e8-b19c-acde48001122">BUY</span><span facs="#zone_eefc8086-b27c-11e8-97cd-acde48001122">MORE</span><span facs="#zone_eefc81f6-b27c-11e8-92bc-acde48001122">BONDS</span><span facs="#zone_eefc8368-b27c-11e8-ab1b-acde48001122">FOURTH</span><span facs="#zone_eefc84d0-b27c-11e8-890e-acde48001122">LIBERTY</span><span facs="#zone_eefc873a-b27c-11e8-a10a-acde48001122">LOAN</span></p></body>
+    </text>
+</TEI>

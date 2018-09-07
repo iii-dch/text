@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>アメリカ海軍がオレゴン州で召集します∽208</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33771">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33771</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/11695/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/11695/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/11695/1332747979095.jpg" /><zone lrx="462" lry="327" ulx="313" uly="243" xml:id="zone_1a58073a-b27d-11e8-ab33-acde48001122" /><zone lrx="578" lry="327" ulx="514" uly="243" xml:id="zone_1a580b40-b27d-11e8-b2dc-acde48001122" /><zone lrx="881" lry="327" ulx="603" uly="243" xml:id="zone_1a580e06-b27d-11e8-a421-acde48001122" /><zone lrx="251" lry="406" ulx="166" uly="330" xml:id="zone_1a581086-b27d-11e8-a6c9-acde48001122" /><zone lrx="310" lry="406" ulx="288" uly="332" xml:id="zone_1a5812fe-b27d-11e8-b670-acde48001122" /><zone lrx="321" lry="406" ulx="299" uly="332" xml:id="zone_1a581536-b27d-11e8-9c78-acde48001122" /><zone lrx="409" lry="408" ulx="313" uly="332" xml:id="zone_1a5816ba-b27d-11e8-9460-acde48001122" /><zone lrx="467" lry="408" ulx="445" uly="334" xml:id="zone_1a581808-b27d-11e8-937d-acde48001122" /><zone lrx="574" lry="410" ulx="518" uly="335" xml:id="zone_1a581950-b27d-11e8-9f57-acde48001122" /><zone lrx="635" lry="410" ulx="607" uly="336" xml:id="zone_1a581a90-b27d-11e8-a609-acde48001122" /><zone lrx="739" lry="412" ulx="683" uly="336" xml:id="zone_1a581bba-b27d-11e8-997d-acde48001122" /><zone lrx="829" lry="413" ulx="773" uly="337" xml:id="zone_1a581cf0-b27d-11e8-9de1-acde48001122" /><zone lrx="179" lry="515" ulx="90" uly="412" xml:id="zone_1a581e30-b27d-11e8-b055-acde48001122" /><zone lrx="384" lry="515" ulx="216" uly="412" xml:id="zone_1a581f66-b27d-11e8-a7a0-acde48001122" /><zone lrx="560" lry="515" ulx="405" uly="412" xml:id="zone_1a58209c-b27d-11e8-8eca-acde48001122" /><zone lrx="646" lry="515" ulx="569" uly="412" xml:id="zone_1a5821ca-b27d-11e8-9dc1-acde48001122" /><zone lrx="919" lry="515" ulx="678" uly="412" xml:id="zone_1a582314-b27d-11e8-a04f-acde48001122" /><zone lrx="283" lry="585" ulx="114" uly="513" xml:id="zone_1a58244a-b27d-11e8-a2f1-acde48001122" /><zone lrx="498" lry="587" ulx="334" uly="515" xml:id="zone_1a582580-b27d-11e8-b423-acde48001122" /><zone lrx="577" lry="588" ulx="513" uly="517" xml:id="zone_1a5826ac-b27d-11e8-aec8-acde48001122" /><zone lrx="608" lry="587" ulx="587" uly="518" xml:id="zone_1a5827ee-b27d-11e8-9f21-acde48001122" /><zone lrx="885" lry="591" ulx="621" uly="518" xml:id="zone_1a582918-b27d-11e8-8c96-acde48001122" /><zone lrx="282" lry="676" ulx="166" uly="595" xml:id="zone_1a582a5a-b27d-11e8-a20c-acde48001122" /><zone lrx="556" lry="676" ulx="317" uly="595" xml:id="zone_1a582b86-b27d-11e8-97db-acde48001122" /><zone lrx="702" lry="676" ulx="560" uly="595" xml:id="zone_1a582cc6-b27d-11e8-bcbb-acde48001122" /><zone lrx="804" lry="676" ulx="735" uly="595" xml:id="zone_1a582dfa-b27d-11e8-a284-acde48001122" /><zone lrx="77" lry="631" ulx="62" uly="620" xml:id="zone_1a582f30-b27d-11e8-882b-acde48001122" /><zone lrx="71" lry="641" ulx="55" uly="630" xml:id="zone_1a583070-b27d-11e8-8ce6-acde48001122" /><zone lrx="75" lry="641" ulx="73" uly="630" xml:id="zone_1a5831a6-b27d-11e8-995a-acde48001122" /><zone lrx="84" lry="641" ulx="78" uly="630" xml:id="zone_1a5832dc-b27d-11e8-b8ce-acde48001122" /><zone lrx="86" lry="641" ulx="84" uly="630" xml:id="zone_1a583408-b27d-11e8-a144-acde48001122" /><zone lrx="81" lry="652" ulx="59" uly="641" xml:id="zone_1a58353e-b27d-11e8-9fd8-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_1a58073a-b27d-11e8-ab33-acde48001122">Calls</span><span facs="#zone_1a580b40-b27d-11e8-b2dc-acde48001122">on</span><span facs="#zone_1a580e06-b27d-11e8-a421-acde48001122">OREGON</span><span facs="#zone_1a581086-b27d-11e8-a6c9-acde48001122">FOR</span><span facs="#zone_1a5812fe-b27d-11e8-b670-acde48001122">1</span><span facs="#zone_1a581536-b27d-11e8-9c78-acde48001122">,</span><span facs="#zone_1a5816ba-b27d-11e8-9460-acde48001122">000</span><span facs="#zone_1a581808-b27d-11e8-937d-acde48001122">M</span><span facs="#zone_1a581950-b27d-11e8-9f57-acde48001122">EN</span><span facs="#zone_1a581a90-b27d-11e8-a609-acde48001122">16</span><span facs="#zone_1a581bba-b27d-11e8-997d-acde48001122">TO</span><span facs="#zone_1a581cf0-b27d-11e8-9de1-acde48001122">35</span><span facs="#zone_1a581e30-b27d-11e8-b055-acde48001122">FOR</span><span facs="#zone_1a581f66-b27d-11e8-a7a0-acde48001122">FIRST</span><span facs="#zone_1a58209c-b27d-11e8-8eca-acde48001122">LINE</span><span facs="#zone_1a5821ca-b27d-11e8-9dc1-acde48001122">OF</span><span facs="#zone_1a582314-b27d-11e8-a04f-acde48001122">DEFENSE</span><span facs="#zone_1a58244a-b27d-11e8-a2f1-acde48001122">DEKUM</span><span facs="#zone_1a582580-b27d-11e8-b423-acde48001122">BUILDI</span><span facs="#zone_1a5826ac-b27d-11e8-aec8-acde48001122">NG</span><span facs="#zone_1a5827ee-b27d-11e8-9f21-acde48001122">-</span><span facs="#zone_1a582918-b27d-11e8-8c96-acde48001122">PORTLAND</span><span facs="#zone_1a582a5a-b27d-11e8-a20c-acde48001122">YOUR</span><span facs="#zone_1a582b86-b27d-11e8-97db-acde48001122">COUNTRY</span><span facs="#zone_1a582cc6-b27d-11e8-bcbb-acde48001122">NEEDS</span><span facs="#zone_1a582dfa-b27d-11e8-a284-acde48001122">YOU</span><span facs="#zone_1a582f30-b27d-11e8-882b-acde48001122">Wells</span><span facs="#zone_1a583070-b27d-11e8-8ce6-acde48001122">Fargo</span><span facs="#zone_1a5831a6-b27d-11e8-995a-acde48001122">&amp;</span><span facs="#zone_1a5832dc-b27d-11e8-b8ce-acde48001122">Co</span><span facs="#zone_1a583408-b27d-11e8-a144-acde48001122">.</span><span facs="#zone_1a58353e-b27d-11e8-9fd8-acde48001122">Express</span></p></body>
+    </text>
+</TEI>

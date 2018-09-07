@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>さあ！∽87</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33797">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33797</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/13660/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/13660/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/13660/1332747991054.jpg" /><zone lrx="587" lry="595" ulx="523" uly="585" xml:id="zone_3776ddf8-b27d-11e8-a157-acde48001122" /><zone lrx="300" lry="831" ulx="203" uly="747" xml:id="zone_3776dfd2-b27d-11e8-9fce-acde48001122" /><zone lrx="446" lry="831" ulx="312" uly="747" xml:id="zone_3776e264-b27d-11e8-abea-acde48001122" /><zone lrx="335" lry="924" ulx="39" uly="830" xml:id="zone_3776e366-b27d-11e8-91fb-acde48001122" /><zone lrx="604" lry="929" ulx="355" uly="837" xml:id="zone_3776e426-b27d-11e8-88c5-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_3776ddf8-b27d-11e8-a157-acde48001122">WHITEHEAD</span><span facs="#zone_3776dfd2-b27d-11e8-9fce-acde48001122">buy</span><span facs="#zone_3776e264-b27d-11e8-abea-acde48001122">more</span><span facs="#zone_3776e366-b27d-11e8-91fb-acde48001122">LIBERTY</span><span facs="#zone_3776e426-b27d-11e8-88c5-acde48001122">BONDS</span></p></body>
+    </text>
+</TEI>

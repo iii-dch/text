@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>軍艦にとって速さとは安全性のことである∽179</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33633">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33633</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/14014/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/14014/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/14014/1332747916177.jpg" /><zone lrx="199" lry="43" ulx="186" uly="12" xml:id="zone_3bf5f882-b27d-11e8-91dc-acde48001122" /><zone lrx="401" lry="42" ulx="308" uly="11" xml:id="zone_3bf5fc4c-b27d-11e8-b0f2-acde48001122" /><zone lrx="407" lry="42" ulx="399" uly="11" xml:id="zone_3bf60270-b27d-11e8-a45e-acde48001122" /><zone lrx="426" lry="42" ulx="418" uly="11" xml:id="zone_3bf60650-b27d-11e8-b4ce-acde48001122" /><zone lrx="360" lry="186" ulx="277" uly="129" xml:id="zone_3bf607fa-b27d-11e8-a697-acde48001122" /><zone lrx="197" lry="144" ulx="61" uly="40" xml:id="zone_3bf60964-b27d-11e8-ad65-acde48001122" /><zone lrx="404" lry="143" ulx="219" uly="39" xml:id="zone_3bf60ab8-b27d-11e8-8144-acde48001122" /><zone lrx="586" lry="143" ulx="415" uly="39" xml:id="zone_3bf60c02-b27d-11e8-b979-acde48001122" /><zone lrx="261" lry="319" ulx="140" uly="179" xml:id="zone_3bf60d4c-b27d-11e8-986b-acde48001122" /><zone lrx="535" lry="318" ulx="308" uly="177" xml:id="zone_3bf60e8c-b27d-11e8-b243-acde48001122" /><zone lrx="242" lry="394" ulx="171" uly="323" xml:id="zone_3bf60fcc-b27d-11e8-a915-acde48001122" /><zone lrx="275" lry="391" ulx="253" uly="321" xml:id="zone_3bf6110c-b27d-11e8-891b-acde48001122" /><zone lrx="296" lry="391" ulx="274" uly="321" xml:id="zone_3bf6124a-b27d-11e8-a85b-acde48001122" /><zone lrx="324" lry="390" ulx="302" uly="320" xml:id="zone_3bf61398-b27d-11e8-a28c-acde48001122" /><zone lrx="338" lry="390" ulx="316" uly="320" xml:id="zone_3bf614d8-b27d-11e8-b940-acde48001122" /><zone lrx="449" lry="389" ulx="350" uly="317" xml:id="zone_3bf6160c-b27d-11e8-920d-acde48001122" /><zone lrx="471" lry="386" ulx="449" uly="316" xml:id="zone_3bf6174a-b27d-11e8-a375-acde48001122" /><zone lrx="485" lry="385" ulx="463" uly="315" xml:id="zone_3bf6188a-b27d-11e8-b121-acde48001122" /><zone lrx="233" lry="599" ulx="184" uly="513" xml:id="zone_3bf619c2-b27d-11e8-9698-acde48001122" /><zone lrx="296" lry="598" ulx="271" uly="512" xml:id="zone_3bf61b0c-b27d-11e8-a1ee-acde48001122" /><zone lrx="331" lry="598" ulx="306" uly="512" xml:id="zone_3bf61c42-b27d-11e8-a15c-acde48001122" /><zone lrx="462" lry="598" ulx="327" uly="511" xml:id="zone_3bf61d78-b27d-11e8-87c1-acde48001122" /><zone lrx="120" lry="929" ulx="64" uly="853" xml:id="zone_3bf61eb8-b27d-11e8-bcfd-acde48001122" /><zone lrx="172" lry="929" ulx="150" uly="853" xml:id="zone_3bf61fee-b27d-11e8-885a-acde48001122" /><zone lrx="582" lry="928" ulx="210" uly="850" xml:id="zone_3bf6212e-b27d-11e8-aa4e-acde48001122" /><zone lrx="101" lry="952" ulx="56" uly="928" xml:id="zone_3bf6226e-b27d-11e8-8b7b-acde48001122" /><zone lrx="123" lry="952" ulx="110" uly="928" xml:id="zone_3bf623ae-b27d-11e8-ab14-acde48001122" /><zone lrx="494" lry="977" ulx="99" uly="960" xml:id="zone_3bf624e4-b27d-11e8-9e9f-acde48001122" /><zone lrx="509" lry="975" ulx="506" uly="960" xml:id="zone_3bf62624-b27d-11e8-a538-acde48001122" /><zone lrx="581" lry="975" ulx="578" uly="960" xml:id="zone_3bf6275a-b27d-11e8-b800-acde48001122" /><zone lrx="0" lry="977" ulx="10000000000" uly="962" xml:id="zone_3bf628a4-b27d-11e8-a20f-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_3bf5f882-b27d-11e8-91dc-acde48001122">同</span><span facs="#zone_3bf5fc4c-b27d-11e8-b0f2-acde48001122">與會</span><span facs="#zone_3bf60270-b27d-11e8-a45e-acde48001122">,</span><span facs="#zone_3bf60650-b27d-11e8-b4ce-acde48001122">兩</span><span facs="#zone_3bf607fa-b27d-11e8-a697-acde48001122">FOR</span><span facs="#zone_3bf60964-b27d-11e8-ad65-acde48001122">SPEED</span><span facs="#zone_3bf60ab8-b27d-11e8-8144-acde48001122">MEANS</span><span facs="#zone_3bf60c02-b27d-11e8-b979-acde48001122">SAFETY</span><span facs="#zone_3bf60d4c-b27d-11e8-986b-acde48001122">OUR</span><span facs="#zone_3bf60e8c-b27d-11e8-b243-acde48001122">SHIPS</span><span facs="#zone_3bf60fcc-b27d-11e8-a915-acde48001122">THE</span><span facs="#zone_3bf6110c-b27d-11e8-891b-acde48001122">U</span><span facs="#zone_3bf6124a-b27d-11e8-a85b-acde48001122">.</span><span facs="#zone_3bf61398-b27d-11e8-a28c-acde48001122">S</span><span facs="#zone_3bf614d8-b27d-11e8-b940-acde48001122">.</span><span facs="#zone_3bf6160c-b27d-11e8-920d-acde48001122">NAVY</span><span facs="#zone_3bf6174a-b27d-11e8-a375-acde48001122">'</span><span facs="#zone_3bf6188a-b27d-11e8-b121-acde48001122">S</span><span facs="#zone_3bf619c2-b27d-11e8-9698-acde48001122">IS</span><span facs="#zone_3bf61b0c-b27d-11e8-a1ee-acde48001122">7</span><span facs="#zone_3bf61c42-b27d-11e8-a15c-acde48001122">,</span><span facs="#zone_3bf61d78-b27d-11e8-87c1-acde48001122">000</span><span facs="#zone_3bf61eb8-b27d-11e8-bcfd-acde48001122">BE</span><span facs="#zone_3bf61fee-b27d-11e8-885a-acde48001122">A</span><span facs="#zone_3bf6212e-b27d-11e8-aa4e-acde48001122">SPEEDMAKER</span><span facs="#zone_3bf6226e-b27d-11e8-8b7b-acde48001122">Apply</span><span facs="#zone_3bf623ae-b27d-11e8-ab14-acde48001122">at</span><span facs="#zone_3bf624e4-b27d-11e8-9e9f-acde48001122">EEEEEEEEEEEEEEEEEE</span><span facs="#zone_3bf62624-b27d-11e8-a538-acde48001122">*</span><span facs="#zone_3bf6275a-b27d-11e8-b800-acde48001122">*</span><span facs="#zone_3bf628a4-b27d-11e8-a20f-acde48001122">L</span></p></body>
+    </text>
+</TEI>

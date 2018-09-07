@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>勝利への職務に従事中∽271</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/34071">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/34071</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/14923/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/14923/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/14923/1332748118363.jpg" /><zone lrx="954" lry="95" ulx="688" uly="27" xml:id="zone_472a4518-b27d-11e8-962a-acde48001122" /><zone lrx="656" lry="149" ulx="473" uly="109" xml:id="zone_472a48f6-b27d-11e8-bc2c-acde48001122" /><zone lrx="372" lry="176" ulx="277" uly="153" xml:id="zone_472a4b42-b27d-11e8-952e-acde48001122" /><zone lrx="646" lry="424" ulx="614" uly="269" xml:id="zone_472a4ca8-b27d-11e8-9683-acde48001122" /><zone lrx="107" lry="689" ulx="18" uly="620" xml:id="zone_472a4df6-b27d-11e8-8d5f-acde48001122" /><zone lrx="315" lry="689" ulx="168" uly="620" xml:id="zone_472a4f34-b27d-11e8-8365-acde48001122" /><zone lrx="478" lry="690" ulx="360" uly="621" xml:id="zone_472a5068-b27d-11e8-b33b-acde48001122" /><zone lrx="648" lry="690" ulx="521" uly="621" xml:id="zone_472a51a8-b27d-11e8-bd6e-acde48001122" /><zone lrx="982" lry="692" ulx="693" uly="622" xml:id="zone_472a52e8-b27d-11e8-b3e0-acde48001122" /><zone lrx="61" lry="694" ulx="58" uly="680" xml:id="zone_472a541e-b27d-11e8-9879-acde48001122" /><zone lrx="171" lry="694" ulx="89" uly="680" xml:id="zone_472a5562-b27d-11e8-827d-acde48001122" /><zone lrx="266" lry="694" ulx="184" uly="680" xml:id="zone_472a56a2-b27d-11e8-9b66-acde48001122" /><zone lrx="372" lry="694" ulx="278" uly="680" xml:id="zone_472a57d8-b27d-11e8-91fb-acde48001122" /><zone lrx="453" lry="695" ulx="390" uly="681" xml:id="zone_472a5902-b27d-11e8-91aa-acde48001122" /><zone lrx="681" lry="695" ulx="545" uly="680" xml:id="zone_472a5a38-b27d-11e8-ba77-acde48001122" /><zone lrx="763" lry="696" ulx="700" uly="681" xml:id="zone_472a5b6e-b27d-11e8-bd0c-acde48001122" /><zone lrx="905" lry="696" ulx="779" uly="681" xml:id="zone_472a5ca4-b27d-11e8-93a0-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_472a4518-b27d-11e8-962a-acde48001122">CALIZA</span><span facs="#zone_472a48f6-b27d-11e8-bc2c-acde48001122">AKT</span><span facs="#zone_472a4b42-b27d-11e8-952e-acde48001122">az</span><span facs="#zone_472a4ca8-b27d-11e8-9683-acde48001122">ADRESI</span><span facs="#zone_472a4df6-b27d-11e8-8d5f-acde48001122">ON</span><span facs="#zone_472a4f34-b27d-11e8-8365-acde48001122">THE</span><span facs="#zone_472a5068-b27d-11e8-b33b-acde48001122">JOB</span><span facs="#zone_472a51a8-b27d-11e8-bd6e-acde48001122">FOR</span><span facs="#zone_472a52e8-b27d-11e8-b3e0-acde48001122">VICTORY</span><span facs="#zone_472a541e-b27d-11e8-9879-acde48001122">•</span><span facs="#zone_472a5562-b27d-11e8-827d-acde48001122">UNITED</span><span facs="#zone_472a56a2-b27d-11e8-9b66-acde48001122">STATES</span><span facs="#zone_472a57d8-b27d-11e8-91fb-acde48001122">SHIPPING</span><span facs="#zone_472a5902-b27d-11e8-91aa-acde48001122">BOARD</span><span facs="#zone_472a5a38-b27d-11e8-ba77-acde48001122">EMERGENCY</span><span facs="#zone_472a5b6e-b27d-11e8-bd0c-acde48001122">FLEET</span><span facs="#zone_472a5ca4-b27d-11e8-93a0-acde48001122">CORPORATION</span></p></body>
+    </text>
+</TEI>

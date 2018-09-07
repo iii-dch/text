@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>「陸が彼らにとって軽くなるように」∽582</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33712">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33712</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/16786/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/16786/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/16786/1332747951821.jpg" /><zone lrx="92" lry="143" ulx="78" uly="93" xml:id="zone_5ceb0d36-b27d-11e8-b635-acde48001122" /><zone lrx="182" lry="143" ulx="105" uly="93" xml:id="zone_5ceb111e-b27d-11e8-881b-acde48001122" /><zone lrx="253" lry="143" ulx="188" uly="93" xml:id="zone_5ceb13b4-b27d-11e8-8d8a-acde48001122" /><zone lrx="290" lry="143" ulx="263" uly="93" xml:id="zone_5ceb1628-b27d-11e8-8ac5-acde48001122" /><zone lrx="389" lry="143" ulx="309" uly="93" xml:id="zone_5ceb1876-b27d-11e8-8e12-acde48001122" /><zone lrx="251" lry="187" ulx="180" uly="141" xml:id="zone_5ceb1aba-b27d-11e8-93d1-acde48001122" /><zone lrx="336" lry="187" ulx="273" uly="141" xml:id="zone_5ceb1cfe-b27d-11e8-bfc2-acde48001122" /><zone lrx="455" lry="187" ulx="349" uly="141" xml:id="zone_5ceb1ec0-b27d-11e8-9b4b-acde48001122" /><zone lrx="478" lry="187" ulx="465" uly="141" xml:id="zone_5ceb2106-b27d-11e8-8fd1-acde48001122" /><zone lrx="328" lry="685" ulx="41" uly="589" xml:id="zone_5ceb235c-b27d-11e8-b070-acde48001122" /><zone lrx="369" lry="685" ulx="341" uly="589" xml:id="zone_5ceb2546-b27d-11e8-a3af-acde48001122" /><zone lrx="408" lry="685" ulx="380" uly="589" xml:id="zone_5ceb269a-b27d-11e8-8566-acde48001122" /><zone lrx="418" lry="685" ulx="390" uly="589" xml:id="zone_5ceb27da-b27d-11e8-aecd-acde48001122" /><zone lrx="651" lry="685" ulx="411" uly="589" xml:id="zone_5ceb2938-b27d-11e8-846b-acde48001122" /><zone lrx="683" lry="685" ulx="648" uly="589" xml:id="zone_5ceb2b7a-b27d-11e8-9aeb-acde48001122" /><zone lrx="732" lry="685" ulx="695" uly="589" xml:id="zone_5ceb2dc8-b27d-11e8-b97b-acde48001122" /><zone lrx="963" lry="685" ulx="737" uly="589" xml:id="zone_5ceb2ff8-b27d-11e8-b7e5-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_5ceb0d36-b27d-11e8-b635-acde48001122">"</span><span facs="#zone_5ceb111e-b27d-11e8-881b-acde48001122">Pour</span><span facs="#zone_5ceb13b4-b27d-11e8-8d8a-acde48001122">que</span><span facs="#zone_5ceb1628-b27d-11e8-8ac5-acde48001122">la</span><span facs="#zone_5ceb1876-b27d-11e8-8e12-acde48001122">terre</span><span facs="#zone_5ceb1aba-b27d-11e8-93d1-acde48001122">leur</span><span facs="#zone_5ceb1cfe-b27d-11e8-bfc2-acde48001122">soit</span><span facs="#zone_5ceb1ec0-b27d-11e8-9b4b-acde48001122">légère</span><span facs="#zone_5ceb2106-b27d-11e8-8fd1-acde48001122">"</span><span facs="#zone_5ceb235c-b27d-11e8-b070-acde48001122">SOUSCRIVONS</span><span facs="#zone_5ceb2546-b27d-11e8-a3af-acde48001122">À</span><span facs="#zone_5ceb269a-b27d-11e8-8566-acde48001122">L</span><span facs="#zone_5ceb27da-b27d-11e8-aecd-acde48001122">'</span><span facs="#zone_5ceb2938-b27d-11e8-846b-acde48001122">EMPRUNT</span><span facs="#zone_5ceb2b7a-b27d-11e8-9aeb-acde48001122">DE</span><span facs="#zone_5ceb2dc8-b27d-11e8-b97b-acde48001122">LA</span><span facs="#zone_5ceb2ff8-b27d-11e8-b7e5-acde48001122">VICTOIRE</span></p></body>
+    </text>
+</TEI>

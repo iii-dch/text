@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>食料の節約を止めないで∽225</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33984">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33984</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/11580/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/11580/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/11580/1332748077842.jpg" /><zone lrx="651" lry="432" ulx="10" uly="112" xml:id="zone_19b82efe-b27d-11e8-b6aa-acde48001122" /><zone lrx="449" lry="584" ulx="167" uly="430" xml:id="zone_19b83528-b27d-11e8-b233-acde48001122" /><zone lrx="532" lry="729" ulx="96" uly="558" xml:id="zone_19b83908-b27d-11e8-a1a5-acde48001122" /><zone lrx="455" lry="873" ulx="173" uly="693" xml:id="zone_19b83b10-b27d-11e8-88f6-acde48001122" /><zone lrx="166" lry="958" ulx="80" uly="927" xml:id="zone_19b83c82-b27d-11e8-baac-acde48001122" /><zone lrx="273" lry="958" ulx="183" uly="927" xml:id="zone_19b83dde-b27d-11e8-b29a-acde48001122" /><zone lrx="345" lry="958" ulx="286" uly="927" xml:id="zone_19b83f22-b27d-11e8-877e-acde48001122" /><zone lrx="537" lry="958" ulx="359" uly="927" xml:id="zone_19b84062-b27d-11e8-b893-acde48001122" /><zone lrx="519" lry="982" ulx="518" uly="974" xml:id="zone_19b841a8-b27d-11e8-8c16-acde48001122" /><zone lrx="523" lry="982" ulx="522" uly="974" xml:id="zone_19b842f6-b27d-11e8-a60a-acde48001122" /><zone lrx="552" lry="982" ulx="532" uly="974" xml:id="zone_19b84434-b27d-11e8-abcd-acde48001122" /><zone lrx="561" lry="982" ulx="555" uly="974" xml:id="zone_19b8457e-b27d-11e8-b99c-acde48001122" /><zone lrx="586" lry="983" ulx="585" uly="975" xml:id="zone_19b846be-b27d-11e8-a69e-acde48001122" /><zone lrx="601" lry="983" ulx="586" uly="975" xml:id="zone_19b847f4-b27d-11e8-8604-acde48001122" /><zone lrx="602" lry="983" ulx="601" uly="975" xml:id="zone_19b84928-b27d-11e8-82c0-acde48001122" /><zone lrx="605" lry="983" ulx="604" uly="975" xml:id="zone_19b84a54-b27d-11e8-a900-acde48001122" /><zone lrx="609" lry="983" ulx="608" uly="975" xml:id="zone_19b84b98-b27d-11e8-8c2c-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_19b82efe-b27d-11e8-b6aa-acde48001122">laonu</span><span facs="#zone_19b83528-b27d-11e8-b233-acde48001122">stop</span><span facs="#zone_19b83908-b27d-11e8-a1a5-acde48001122">saving</span><span facs="#zone_19b83b10-b27d-11e8-88f6-acde48001122">food</span><span facs="#zone_19b83c82-b27d-11e8-baac-acde48001122">UNITED</span><span facs="#zone_19b83dde-b27d-11e8-b29a-acde48001122">STATES</span><span facs="#zone_19b83f22-b27d-11e8-877e-acde48001122">FOOD</span><span facs="#zone_19b84062-b27d-11e8-b893-acde48001122">ADMINISTRATION</span><span facs="#zone_19b841a8-b27d-11e8-8c16-acde48001122">N</span><span facs="#zone_19b842f6-b27d-11e8-a60a-acde48001122">.</span><span facs="#zone_19b84434-b27d-11e8-abcd-acde48001122">DAWN</span><span facs="#zone_19b8457e-b27d-11e8-b99c-acde48001122">FT</span><span facs="#zone_19b846be-b27d-11e8-a69e-acde48001122">.</span><span facs="#zone_19b847f4-b27d-11e8-8604-acde48001122">CH</span><span facs="#zone_19b84928-b27d-11e8-82c0-acde48001122">.</span><span facs="#zone_19b84a54-b27d-11e8-a900-acde48001122">Y</span><span facs="#zone_19b84b98-b27d-11e8-8c2c-acde48001122">.</span></p></body>
+    </text>
+</TEI>

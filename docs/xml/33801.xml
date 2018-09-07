@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>すぐに購入しましょう∽88</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33801">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33801</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/8220/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/8220/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/8220/1332747992820.jpg" /><zone lrx="810" lry="321" ulx="150" uly="30" xml:id="zone_efc6bb08-b27c-11e8-8f46-acde48001122" /><zone lrx="853" lry="604" ulx="76" uly="323" xml:id="zone_efc6bed0-b27c-11e8-bebf-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_efc6bb08-b27c-11e8-8f46-acde48001122">buy</span><span facs="#zone_efc6bed0-b27c-11e8-bebf-acde48001122">early</span></p></body>
+    </text>
+</TEI>

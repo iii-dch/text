@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>みんな急いで！∽154</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33648">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33648</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/17694/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/17694/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/17694/1332747922606.jpg" /><zone lrx="235" lry="205" ulx="46" uly="28" xml:id="zone_65cd5878-b27d-11e8-ad28-acde48001122" /><zone lrx="281" lry="204" ulx="228" uly="28" xml:id="zone_65cd5ab0-b27d-11e8-9e2d-acde48001122" /><zone lrx="519" lry="203" ulx="277" uly="25" xml:id="zone_65cd5bf0-b27d-11e8-967b-acde48001122" /><zone lrx="601" lry="201" ulx="548" uly="25" xml:id="zone_65cd5d0a-b27d-11e8-aa0d-acde48001122" /><zone lrx="288" lry="346" ulx="45" uly="249" xml:id="zone_65cd5e22-b27d-11e8-b497-acde48001122" /><zone lrx="359" lry="344" ulx="323" uly="249" xml:id="zone_65cd5f3a-b27d-11e8-9b69-acde48001122" /><zone lrx="600" lry="343" ulx="385" uly="246" xml:id="zone_65cd6052-b27d-11e8-a1ee-acde48001122" /><zone lrx="153" lry="446" ulx="41" uly="315" xml:id="zone_65cd626e-b27d-11e8-8e31-acde48001122" /><zone lrx="258" lry="445" ulx="185" uly="314" xml:id="zone_65cd63d8-b27d-11e8-a93c-acde48001122" /><zone lrx="561" lry="444" ulx="322" uly="312" xml:id="zone_65cd649e-b27d-11e8-b626-acde48001122" /><zone lrx="178" lry="496" ulx="57" uly="401" xml:id="zone_65cd653e-b27d-11e8-9bdc-acde48001122" /><zone lrx="382" lry="495" ulx="206" uly="400" xml:id="zone_65cd65e8-b27d-11e8-a14d-acde48001122" /><zone lrx="542" lry="493" ulx="421" uly="398" xml:id="zone_65cd6688-b27d-11e8-822a-acde48001122" /><zone lrx="115" lry="534" ulx="47" uly="462" xml:id="zone_65cd673e-b27d-11e8-8d80-acde48001122" /><zone lrx="367" lry="533" ulx="149" uly="459" xml:id="zone_65cd6886-b27d-11e8-8d9f-acde48001122" /><zone lrx="543" lry="531" ulx="409" uly="458" xml:id="zone_65cd69b4-b27d-11e8-8093-acde48001122" /><zone lrx="128" lry="603" ulx="41" uly="507" xml:id="zone_65cd6aa4-b27d-11e8-b79b-acde48001122" /><zone lrx="530" lry="612" ulx="168" uly="509" xml:id="zone_65cd6b4c-b27d-11e8-a789-acde48001122" /><zone lrx="597" lry="612" ulx="542" uly="517" xml:id="zone_65cd6be4-b27d-11e8-8221-acde48001122" /><zone lrx="477" lry="766" ulx="88" uly="586" xml:id="zone_65cd6c78-b27d-11e8-bb0c-acde48001122" /><zone lrx="513" lry="766" ulx="458" uly="601" xml:id="zone_65cd6d74-b27d-11e8-92c5-acde48001122" /><zone lrx="546" lry="768" ulx="491" uly="603" xml:id="zone_65cd6e1c-b27d-11e8-be8c-acde48001122" /><zone lrx="562" lry="863" ulx="208" uly="711" xml:id="zone_65cd6eb4-b27d-11e8-92f8-acde48001122" /><zone lrx="107" lry="965" ulx="42" uly="891" xml:id="zone_65cd6f48-b27d-11e8-940c-acde48001122" /><zone lrx="227" lry="964" ulx="125" uly="889" xml:id="zone_65cd6fe8-b27d-11e8-a88f-acde48001122" /><zone lrx="366" lry="963" ulx="249" uly="888" xml:id="zone_65cd7080-b27d-11e8-9d17-acde48001122" /><zone lrx="515" lry="962" ulx="384" uly="887" xml:id="zone_65cd7114-b27d-11e8-88b1-acde48001122" /><zone lrx="572" lry="961" ulx="530" uly="887" xml:id="zone_65cd71b6-b27d-11e8-a487-acde48001122" /><zone lrx="603" lry="961" ulx="581" uly="887" xml:id="zone_65cd724a-b27d-11e8-8df5-acde48001122" /><zone lrx="46" lry="969" ulx="27" uly="958" xml:id="zone_65cd7326-b27d-11e8-adb1-acde48001122" /><zone lrx="56" lry="968" ulx="50" uly="959" xml:id="zone_65cd73c6-b27d-11e8-bef1-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_65cd5878-b27d-11e8-ad28-acde48001122">Cash</span><span facs="#zone_65cd5ab0-b27d-11e8-9e2d-acde48001122">-</span><span facs="#zone_65cd5bf0-b27d-11e8-967b-acde48001122">Quick</span><span facs="#zone_65cd5d0a-b27d-11e8-aa0d-acde48001122">!</span><span facs="#zone_65cd5e22-b27d-11e8-b497-acde48001122">Nothing</span><span facs="#zone_65cd5f3a-b27d-11e8-9b69-acde48001122">in</span><span facs="#zone_65cd6052-b27d-11e8-a1ee-acde48001122">Canada</span><span facs="#zone_65cd626e-b27d-11e8-8e31-acde48001122">can</span><span facs="#zone_65cd63d8-b27d-11e8-a93c-acde48001122">be</span><span facs="#zone_65cd649e-b27d-11e8-b626-acde48001122">turned</span><span facs="#zone_65cd653e-b27d-11e8-9bdc-acde48001122">into</span><span facs="#zone_65cd65e8-b27d-11e8-a14d-acde48001122">ready</span><span facs="#zone_65cd6688-b27d-11e8-822a-acde48001122">Cash</span><span facs="#zone_65cd673e-b27d-11e8-8d80-acde48001122">as</span><span facs="#zone_65cd6886-b27d-11e8-8d9f-acde48001122">quickly</span><span facs="#zone_65cd69b4-b27d-11e8-8093-acde48001122">and</span><span facs="#zone_65cd6aa4-b27d-11e8-b79b-acde48001122">as</span><span facs="#zone_65cd6b4c-b27d-11e8-a789-acde48001122">Satisfactorily</span><span facs="#zone_65cd6be4-b27d-11e8-8221-acde48001122">as</span><span facs="#zone_65cd6c78-b27d-11e8-bb0c-acde48001122">pictory</span><span facs="#zone_65cd6d74-b27d-11e8-92c5-acde48001122">'</span><span facs="#zone_65cd6e1c-b27d-11e8-be8c-acde48001122">s</span><span facs="#zone_65cd6eb4-b27d-11e8-92f8-acde48001122">Bonds</span><span facs="#zone_65cd6f48-b27d-11e8-940c-acde48001122">And</span><span facs="#zone_65cd6fe8-b27d-11e8-a88f-acde48001122">every</span><span facs="#zone_65cd7080-b27d-11e8-9d17-acde48001122">holder</span><span facs="#zone_65cd7114-b27d-11e8-88b1-acde48001122">knows</span><span facs="#zone_65cd71b6-b27d-11e8-a487-acde48001122">it</span><span facs="#zone_65cd724a-b27d-11e8-8df5-acde48001122">!</span><span facs="#zone_65cd7326-b27d-11e8-adb1-acde48001122">WP</span><span facs="#zone_65cd73c6-b27d-11e8-bef1-acde48001122">15</span></p></body>
+    </text>
+</TEI>

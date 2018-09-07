@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>祖国のために！∽197</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33569">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33569</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/13071/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/13071/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/13071/1332747886327.jpg" /><zone lrx="439" lry="128" ulx="219" uly="65" xml:id="zone_305dc9f4-b27d-11e8-92cd-acde48001122" /><zone lrx="524" lry="215" ulx="81" uly="120" xml:id="zone_305dcc4a-b27d-11e8-88e9-acde48001122" /><zone lrx="614" lry="213" ulx="587" uly="119" xml:id="zone_305dcd76-b27d-11e8-ad6d-acde48001122" /><zone lrx="493" lry="724" ulx="136" uly="643" xml:id="zone_305dce28-b27d-11e8-8703-acde48001122" /><zone lrx="377" lry="797" ulx="59" uly="732" xml:id="zone_305dcec0-b27d-11e8-99d9-acde48001122" /><zone lrx="610" lry="796" ulx="427" uly="732" xml:id="zone_305dcf58-b27d-11e8-9290-acde48001122" /><zone lrx="429" lry="865" ulx="70" uly="788" xml:id="zone_305dcfd8-b27d-11e8-a3bb-acde48001122" /><zone lrx="616" lry="868" ulx="483" uly="794" xml:id="zone_305dd06e-b27d-11e8-b419-acde48001122" /><zone lrx="441" lry="930" ulx="209" uly="864" xml:id="zone_305dd0fa-b27d-11e8-944d-acde48001122" /><zone lrx="490" lry="930" ulx="472" uly="865" xml:id="zone_305dd17a-b27d-11e8-a90f-acde48001122" /><zone lrx="554" lry="966" ulx="539" uly="959" xml:id="zone_305dd208-b27d-11e8-bf4c-acde48001122" /><zone lrx="599" lry="965" ulx="557" uly="958" xml:id="zone_305dd28a-b27d-11e8-b7d0-acde48001122" /><zone lrx="631" lry="965" ulx="609" uly="958" xml:id="zone_305dd314-b27d-11e8-a968-acde48001122" /><zone lrx="650" lry="965" ulx="635" uly="958" xml:id="zone_305dd398-b27d-11e8-9beb-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_305dc9f4-b27d-11e8-92cd-acde48001122">PRO</span><span facs="#zone_305dcc4a-b27d-11e8-88e9-acde48001122">PATRIA</span><span facs="#zone_305dcd76-b27d-11e8-ad6d-acde48001122">!</span><span facs="#zone_305dce28-b27d-11e8-8703-acde48001122">JOIN</span><span facs="#zone_305dcec0-b27d-11e8-99d9-acde48001122">ARMY</span><span facs="#zone_305dcf58-b27d-11e8-9290-acde48001122">FOR</span><span facs="#zone_305dcfd8-b27d-11e8-a3bb-acde48001122">PERIOD</span><span facs="#zone_305dd06e-b27d-11e8-b419-acde48001122">OF</span><span facs="#zone_305dd0fa-b27d-11e8-944d-acde48001122">WAR</span><span facs="#zone_305dd17a-b27d-11e8-a90f-acde48001122">.</span><span facs="#zone_305dd208-b27d-11e8-bf4c-acde48001122">THE</span><span facs="#zone_305dd28a-b27d-11e8-b7d0-acde48001122">MEGENAN</span><span facs="#zone_305dd314-b27d-11e8-a968-acde48001122">PRINT</span><span facs="#zone_305dd398-b27d-11e8-9beb-acde48001122">NY</span></p></body>
+    </text>
+</TEI>

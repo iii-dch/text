@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>服務中の彼を幸せにしましょう∽375</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33603">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33603</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/10601/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/10601/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/10601/1332747901860.jpg" /><zone lrx="552" lry="154" ulx="372" uly="64" xml:id="zone_0daac1d0-b27d-11e8-b9bd-acde48001122" /><zone lrx="648" lry="147" ulx="569" uly="62" xml:id="zone_0daac6ee-b27d-11e8-a00f-acde48001122" /><zone lrx="624" lry="459" ulx="514" uly="379" xml:id="zone_0daacb46-b27d-11e8-b958-acde48001122" /><zone lrx="337" lry="647" ulx="331" uly="622" xml:id="zone_0daace00-b27d-11e8-a972-acde48001122" /><zone lrx="345" lry="647" ulx="339" uly="622" xml:id="zone_0daad08a-b27d-11e8-af10-acde48001122" /><zone lrx="394" lry="647" ulx="349" uly="622" xml:id="zone_0daad254-b27d-11e8-9618-acde48001122" /><zone lrx="451" lry="647" ulx="410" uly="622" xml:id="zone_0daad3ac-b27d-11e8-b11d-acde48001122" /><zone lrx="643" lry="737" ulx="465" uly="673" xml:id="zone_0daad4e8-b27d-11e8-9eb8-acde48001122" /><zone lrx="119" lry="818" ulx="73" uly="759" xml:id="zone_0daad628-b27d-11e8-b2d6-acde48001122" /><zone lrx="264" lry="820" ulx="128" uly="760" xml:id="zone_0daad776-b27d-11e8-92cc-acde48001122" /><zone lrx="379" lry="821" ulx="288" uly="761" xml:id="zone_0daad8b4-b27d-11e8-be65-acde48001122" /><zone lrx="646" lry="823" ulx="394" uly="762" xml:id="zone_0daad9f4-b27d-11e8-9ef6-acde48001122" /><zone lrx="280" lry="859" ulx="184" uly="828" xml:id="zone_0daadb3e-b27d-11e8-ae7e-acde48001122" /><zone lrx="397" lry="858" ulx="294" uly="827" xml:id="zone_0daadc80-b27d-11e8-be19-acde48001122" /><zone lrx="495" lry="858" ulx="416" uly="827" xml:id="zone_0daaddbe-b27d-11e8-b88c-acde48001122" /><zone lrx="528" lry="857" ulx="506" uly="826" xml:id="zone_0daadef4-b27d-11e8-9ac7-acde48001122" /><zone lrx="143" lry="897" ulx="69" uly="868" xml:id="zone_0daae03e-b27d-11e8-9076-acde48001122" /><zone lrx="218" lry="898" ulx="157" uly="869" xml:id="zone_0daae180-b27d-11e8-af8b-acde48001122" /><zone lrx="312" lry="898" ulx="236" uly="868" xml:id="zone_0daae2be-b27d-11e8-8df7-acde48001122" /><zone lrx="419" lry="900" ulx="326" uly="869" xml:id="zone_0daae3fe-b27d-11e8-a457-acde48001122" /><zone lrx="477" lry="900" ulx="431" uly="871" xml:id="zone_0daae534-b27d-11e8-9ac2-acde48001122" /><zone lrx="484" lry="900" ulx="476" uly="871" xml:id="zone_0daae674-b27d-11e8-b936-acde48001122" /><zone lrx="493" lry="899" ulx="485" uly="870" xml:id="zone_0daae7b4-b27d-11e8-98c4-acde48001122" /><zone lrx="642" lry="901" ulx="507" uly="870" xml:id="zone_0daae8f6-b27d-11e8-a9d9-acde48001122" /><zone lrx="276" lry="929" ulx="258" uly="912" xml:id="zone_0daaea34-b27d-11e8-9676-acde48001122" /><zone lrx="324" lry="930" ulx="284" uly="912" xml:id="zone_0daaeb74-b27d-11e8-8a43-acde48001122" /><zone lrx="374" lry="930" ulx="328" uly="913" xml:id="zone_0daaecbe-b27d-11e8-8e11-acde48001122" /><zone lrx="378" lry="930" ulx="374" uly="913" xml:id="zone_0daaedfe-b27d-11e8-bc9b-acde48001122" /><zone lrx="406" lry="931" ulx="382" uly="913" xml:id="zone_0daaef36-b27d-11e8-9872-acde48001122" /><zone lrx="450" lry="931" ulx="420" uly="914" xml:id="zone_0daaf074-b27d-11e8-9ee9-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_0daac1d0-b27d-11e8-b9bd-acde48001122">STILL</span><span facs="#zone_0daac6ee-b27d-11e8-a00f-acde48001122">ON</span><span facs="#zone_0daacb46-b27d-11e8-b958-acde48001122">KEEP</span><span facs="#zone_0daace00-b27d-11e8-a972-acde48001122">7</span><span facs="#zone_0daad08a-b27d-11e8-af10-acde48001122">.</span><span facs="#zone_0daad254-b27d-11e8-9618-acde48001122">Sratam</span><span facs="#zone_0daad3ac-b27d-11e8-b11d-acde48001122">Cooles</span><span facs="#zone_0daad4e8-b27d-11e8-9eb8-acde48001122">HAPPY</span><span facs="#zone_0daad628-b27d-11e8-b2d6-acde48001122">GIVE</span><span facs="#zone_0daad776-b27d-11e8-92cc-acde48001122">YOUR</span><span facs="#zone_0daad8b4-b27d-11e8-be65-acde48001122">MUSICAL</span><span facs="#zone_0daad9f4-b27d-11e8-9ef6-acde48001122">Instruments</span><span facs="#zone_0daadb3e-b27d-11e8-ae7e-acde48001122">DONATIONS</span><span facs="#zone_0daadc80-b27d-11e8-be19-acde48001122">DISTRIBUTED</span><span facs="#zone_0daaddbe-b27d-11e8-b88c-acde48001122">THROUGH</span><span facs="#zone_0daadef4-b27d-11e8-9ac7-acde48001122">the</span><span facs="#zone_0daae03e-b27d-11e8-9076-acde48001122">LOWER</span><span facs="#zone_0daae180-b27d-11e8-af8b-acde48001122">WALL</span><span facs="#zone_0daae2be-b27d-11e8-8df7-acde48001122">STREET</span><span facs="#zone_0daae3fe-b27d-11e8-a457-acde48001122">BUSINESS</span><span facs="#zone_0daae534-b27d-11e8-9ac2-acde48001122">MEN</span><span facs="#zone_0daae674-b27d-11e8-b936-acde48001122">'</span><span facs="#zone_0daae7b4-b27d-11e8-98c4-acde48001122">S</span><span facs="#zone_0daae8f6-b27d-11e8-a9d9-acde48001122">ASSOCIATION</span><span facs="#zone_0daaea34-b27d-11e8-9676-acde48001122">124</span><span facs="#zone_0daaeb74-b27d-11e8-8a43-acde48001122">FRONT</span><span facs="#zone_0daaecbe-b27d-11e8-8e11-acde48001122">STREET</span><span facs="#zone_0daaedfe-b27d-11e8-bc9b-acde48001122">,</span><span facs="#zone_0daaef36-b27d-11e8-9872-acde48001122">NEW</span><span facs="#zone_0daaf074-b27d-11e8-9ee9-acde48001122">YORK</span></p></body>
+    </text>
+</TEI>

@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>フランス負傷兵救援会社∽651</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33735">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33735</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/15925/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/15925/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/15925/1332747962510.jpg" /><zone lrx="191" lry="73" ulx="47" uly="29" xml:id="zone_5213dd28-b27d-11e8-a23c-acde48001122" /><zone lrx="407" lry="74" ulx="205" uly="30" xml:id="zone_5213e376-b27d-11e8-84ad-acde48001122" /><zone lrx="445" lry="74" ulx="413" uly="30" xml:id="zone_5213e658-b27d-11e8-82bd-acde48001122" /><zone lrx="614" lry="74" ulx="457" uly="30" xml:id="zone_5213e7f4-b27d-11e8-a91b-acde48001122" /><zone lrx="259" lry="124" ulx="195" uly="83" xml:id="zone_5213e952-b27d-11e8-b091-acde48001122" /><zone lrx="412" lry="124" ulx="275" uly="83" xml:id="zone_5213ea9a-b27d-11e8-9c64-acde48001122" /><zone lrx="615" lry="124" ulx="428" uly="83" xml:id="zone_5213ebda-b27d-11e8-8f32-acde48001122" /><zone lrx="326" lry="178" ulx="288" uly="149" xml:id="zone_5213ed10-b27d-11e8-b036-acde48001122" /><zone lrx="530" lry="178" ulx="338" uly="149" xml:id="zone_5213ee64-b27d-11e8-9384-acde48001122" /><zone lrx="572" lry="179" ulx="542" uly="150" xml:id="zone_5213efa4-b27d-11e8-98f7-acde48001122" /><zone lrx="609" lry="179" ulx="588" uly="150" xml:id="zone_5213f0d0-b27d-11e8-8d7f-acde48001122" /><zone lrx="402" lry="206" ulx="395" uly="179" xml:id="zone_5213f206-b27d-11e8-8ecc-acde48001122" /><zone lrx="424" lry="206" ulx="417" uly="179" xml:id="zone_5213f33a-b27d-11e8-bfab-acde48001122" /><zone lrx="444" lry="206" ulx="437" uly="179" xml:id="zone_5213f474-b27d-11e8-a6d7-acde48001122" /><zone lrx="469" lry="206" ulx="462" uly="179" xml:id="zone_5213f5a8-b27d-11e8-baf2-acde48001122" /><zone lrx="489" lry="206" ulx="482" uly="179" xml:id="zone_5213f6de-b27d-11e8-bbe7-acde48001122" /><zone lrx="522" lry="206" ulx="515" uly="179" xml:id="zone_5213f814-b27d-11e8-b322-acde48001122" /><zone lrx="452" lry="230" ulx="402" uly="209" xml:id="zone_5213f940-b27d-11e8-8726-acde48001122" /><zone lrx="500" lry="230" ulx="467" uly="209" xml:id="zone_5213fa76-b27d-11e8-8a89-acde48001122" /><zone lrx="441" lry="260" ulx="324" uly="229" xml:id="zone_5213fbac-b27d-11e8-a072-acde48001122" /><zone lrx="581" lry="260" ulx="452" uly="229" xml:id="zone_5213fce2-b27d-11e8-8927-acde48001122" /><zone lrx="609" lry="979" ulx="566" uly="948" xml:id="zone_5213fe18-b27d-11e8-bc1d-acde48001122" /><zone lrx="86" lry="989" ulx="41" uly="982" xml:id="zone_5213ff46-b27d-11e8-ae84-acde48001122" /><zone lrx="106" lry="989" ulx="93" uly="982" xml:id="zone_52140082-b27d-11e8-b2f1-acde48001122" /><zone lrx="109" lry="989" ulx="108" uly="982" xml:id="zone_521401cc-b27d-11e8-8d78-acde48001122" /><zone lrx="134" lry="989" ulx="112" uly="982" xml:id="zone_52140310-b27d-11e8-b7bc-acde48001122" /><zone lrx="577" lry="995" ulx="557" uly="985" xml:id="zone_52140446-b27d-11e8-9a14-acde48001122" /><zone lrx="584" lry="995" ulx="582" uly="985" xml:id="zone_5214057a-b27d-11e8-ba42-acde48001122" /><zone lrx="590" lry="995" ulx="588" uly="985" xml:id="zone_521406b0-b27d-11e8-a6c5-acde48001122" /><zone lrx="600" lry="995" ulx="593" uly="985" xml:id="zone_521407e6-b27d-11e8-9f4e-acde48001122" /><zone lrx="604" lry="995" ulx="602" uly="985" xml:id="zone_5214091c-b27d-11e8-9085-acde48001122" /><zone lrx="622" lry="995" ulx="607" uly="985" xml:id="zone_52140a52-b27d-11e8-a138-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_5213dd28-b27d-11e8-a23c-acde48001122">SOCIÉTÉ</span><span facs="#zone_5213e376-b27d-11e8-84ad-acde48001122">FRANÇAISE</span><span facs="#zone_5213e658-b27d-11e8-82bd-acde48001122">DE</span><span facs="#zone_5213e7f4-b27d-11e8-a91b-acde48001122">SECOURS</span><span facs="#zone_5213e952-b27d-11e8-b091-acde48001122">AUX</span><span facs="#zone_5213ea9a-b27d-11e8-9c64-acde48001122">BLESSÉS</span><span facs="#zone_5213ebda-b27d-11e8-8f32-acde48001122">MILITAIRES</span><span facs="#zone_5213ed10-b27d-11e8-b036-acde48001122">LES</span><span facs="#zone_5213ee64-b27d-11e8-9384-acde48001122">PERMANENCES</span><span facs="#zone_5213efa4-b27d-11e8-98f7-acde48001122">DE</span><span facs="#zone_5213f0d0-b27d-11e8-8d7f-acde48001122">LA</span><span facs="#zone_5213f206-b27d-11e8-8ecc-acde48001122">S</span><span facs="#zone_5213f33a-b27d-11e8-bfab-acde48001122">.</span><span facs="#zone_5213f474-b27d-11e8-a6d7-acde48001122">B</span><span facs="#zone_5213f5a8-b27d-11e8-baf2-acde48001122">.</span><span facs="#zone_5213f6de-b27d-11e8-bbe7-acde48001122">M</span><span facs="#zone_5213f814-b27d-11e8-b322-acde48001122">.</span><span facs="#zone_5213f940-b27d-11e8-8726-acde48001122">DANS</span><span facs="#zone_5213fa76-b27d-11e8-8a89-acde48001122">LES</span><span facs="#zone_5213fbac-b27d-11e8-a072-acde48001122">VILLAGES</span><span facs="#zone_5213fce2-b27d-11e8-8927-acde48001122">DÉVASTÉS</span><span facs="#zone_5213fe18-b27d-11e8-bc1d-acde48001122">Honey</span><span facs="#zone_5213ff46-b27d-11e8-ae84-acde48001122">DEVAMBEZ</span><span facs="#zone_52140082-b27d-11e8-b2f1-acde48001122">IMP</span><span facs="#zone_521401cc-b27d-11e8-8d78-acde48001122">.</span><span facs="#zone_52140310-b27d-11e8-b7bc-acde48001122">PARIS</span><span facs="#zone_52140446-b27d-11e8-9a14-acde48001122">VISE</span><span facs="#zone_5214057a-b27d-11e8-ba42-acde48001122">N</span><span facs="#zone_521406b0-b27d-11e8-a6c5-acde48001122">:</span><span facs="#zone_521407e6-b27d-11e8-9f4e-acde48001122">10</span><span facs="#zone_5214091c-b27d-11e8-9085-acde48001122">.</span><span facs="#zone_52140a52-b27d-11e8-a138-acde48001122">237</span></p></body>
+    </text>
+</TEI>

@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>「自分で手に入れて、誇らしげに掲げよう！」∽431</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33479">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33479</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/17959/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/17959/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/17959/1332747844751.jpg" /><zone lrx="59" lry="90" ulx="48" uly="50" xml:id="zone_69fab026-b27d-11e8-9ca1-acde48001122" /><zone lrx="104" lry="90" ulx="61" uly="49" xml:id="zone_69fab530-b27d-11e8-b3b7-acde48001122" /><zone lrx="191" lry="90" ulx="117" uly="48" xml:id="zone_69fab7ae-b27d-11e8-a4c3-acde48001122" /><zone lrx="225" lry="88" ulx="211" uly="48" xml:id="zone_69fabd34-b27d-11e8-85c8-acde48001122" /><zone lrx="300" lry="88" ulx="248" uly="48" xml:id="zone_69fabf6c-b27d-11e8-a71e-acde48001122" /><zone lrx="341" lry="87" ulx="320" uly="47" xml:id="zone_69fac106-b27d-11e8-b2f5-acde48001122" /><zone lrx="413" lry="87" ulx="354" uly="46" xml:id="zone_69fac25c-b27d-11e8-842a-acde48001122" /><zone lrx="437" lry="86" ulx="426" uly="46" xml:id="zone_69fac39a-b27d-11e8-a7f7-acde48001122" /><zone lrx="453" lry="86" ulx="442" uly="46" xml:id="zone_69fac4da-b27d-11e8-a134-acde48001122" /><zone lrx="205" lry="656" ulx="41" uly="561" xml:id="zone_69fac624-b27d-11e8-bcb2-acde48001122" /><zone lrx="618" lry="656" ulx="255" uly="561" xml:id="zone_69fac764-b27d-11e8-b708-acde48001122" /><zone lrx="967" lry="656" ulx="668" uly="561" xml:id="zone_69fac8a4-b27d-11e8-9c09-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_69fab026-b27d-11e8-9ca1-acde48001122">"</span><span facs="#zone_69fab530-b27d-11e8-b3b7-acde48001122">Be</span><span facs="#zone_69fab7ae-b27d-11e8-a4c3-acde48001122">yours</span><span facs="#zone_69fabd34-b27d-11e8-85c8-acde48001122">to</span><span facs="#zone_69fabf6c-b27d-11e8-a71e-acde48001122">hold</span><span facs="#zone_69fac106-b27d-11e8-b2f5-acde48001122">it</span><span facs="#zone_69fac25c-b27d-11e8-842a-acde48001122">high</span><span facs="#zone_69fac39a-b27d-11e8-a7f7-acde48001122">!</span><span facs="#zone_69fac4da-b27d-11e8-a134-acde48001122">"</span><span facs="#zone_69fac624-b27d-11e8-bcb2-acde48001122">BUY</span><span facs="#zone_69fac764-b27d-11e8-b708-acde48001122">VICTORY</span><span facs="#zone_69fac8a4-b27d-11e8-9c09-acde48001122">BONDS</span></p></body>
+    </text>
+</TEI>

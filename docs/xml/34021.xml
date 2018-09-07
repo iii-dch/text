@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>すべてのカナダ人を多忙に∽509</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/34021">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/34021</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/9017/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/9017/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/9017/1332748095347.jpg" /><zone lrx="495" lry="92" ulx="331" uly="34" xml:id="zone_f9ea6562-b27c-11e8-9278-acde48001122" /><zone lrx="279" lry="162" ulx="196" uly="97" xml:id="zone_f9ea6ae2-b27c-11e8-adbc-acde48001122" /><zone lrx="631" lry="162" ulx="302" uly="97" xml:id="zone_f9ea6e52-b27c-11e8-9471-acde48001122" /><zone lrx="237" lry="216" ulx="222" uly="162" xml:id="zone_f9ea70dc-b27c-11e8-b10a-acde48001122" /><zone lrx="498" lry="216" ulx="341" uly="162" xml:id="zone_f9ea7336-b27c-11e8-96b4-acde48001122" /><zone lrx="15" lry="863" ulx="3" uly="820" xml:id="zone_f9ea7578-b27c-11e8-ac12-acde48001122" /><zone lrx="101" lry="863" ulx="21" uly="820" xml:id="zone_f9ea77a8-b27c-11e8-a6c9-acde48001122" /><zone lrx="186" lry="863" ulx="116" uly="820" xml:id="zone_f9ea79cc-b27c-11e8-b87d-acde48001122" /><zone lrx="365" lry="990" ulx="36" uly="841" xml:id="zone_f9ea7bfe-b27c-11e8-b31e-acde48001122" /><zone lrx="644" lry="990" ulx="390" uly="841" xml:id="zone_f9ea7e1a-b27c-11e8-b908-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_f9ea6562-b27c-11e8-9278-acde48001122">KEEP</span><span facs="#zone_f9ea6ae2-b27c-11e8-adbc-acde48001122">ALL</span><span facs="#zone_f9ea6e52-b27c-11e8-9471-acde48001122">CANADIANS</span><span facs="#zone_f9ea70dc-b27c-11e8-b10a-acde48001122">W</span><span facs="#zone_f9ea7336-b27c-11e8-96b4-acde48001122">BUSY</span><span facs="#zone_f9ea7578-b27c-11e8-ac12-acde48001122">-</span><span facs="#zone_f9ea77a8-b27c-11e8-a6c9-acde48001122">BUY</span><span facs="#zone_f9ea79cc-b27c-11e8-b87d-acde48001122">1918</span><span facs="#zone_f9ea7bfe-b27c-11e8-b31e-acde48001122">VICTORY</span><span facs="#zone_f9ea7e1a-b27c-11e8-b908-acde48001122">BONDS</span></p></body>
+    </text>
+</TEI>

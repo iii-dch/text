@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>すぐに購入しましょう∽374</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33868">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33868</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/11275/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/11275/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/11275/1332748023990.jpg" /><zone lrx="255" lry="166" ulx="15" uly="25" xml:id="zone_15bfe1a4-b27d-11e8-905a-acde48001122" /><zone lrx="374" lry="166" ulx="322" uly="25" xml:id="zone_15bfe59c-b27d-11e8-93d0-acde48001122" /><zone lrx="613" lry="166" ulx="432" uly="25" xml:id="zone_15bfe850-b27d-11e8-8007-acde48001122" /><zone lrx="392" lry="459" ulx="249" uly="387" xml:id="zone_15bfeabe-b27d-11e8-b7ec-acde48001122" /><zone lrx="439" lry="543" ulx="210" uly="452" xml:id="zone_15bfed28-b27d-11e8-9b5f-acde48001122" /><zone lrx="428" lry="619" ulx="227" uly="528" xml:id="zone_15bfef5a-b27d-11e8-a982-acde48001122" /><zone lrx="133" lry="966" ulx="27" uly="823" xml:id="zone_15bff0f4-b27d-11e8-baaf-acde48001122" /><zone lrx="342" lry="966" ulx="138" uly="823" xml:id="zone_15bff234-b27d-11e8-a067-acde48001122" /><zone lrx="626" lry="966" ulx="370" uly="823" xml:id="zone_15bff388-b27d-11e8-b95b-acde48001122" /><zone lrx="19" lry="993" ulx="14" uly="976" xml:id="zone_15bff4c8-b27d-11e8-9eda-acde48001122" /><zone lrx="29" lry="993" ulx="24" uly="976" xml:id="zone_15bff606-b27d-11e8-8cc3-acde48001122" /><zone lrx="42" lry="993" ulx="37" uly="976" xml:id="zone_15bff73a-b27d-11e8-8f69-acde48001122" /><zone lrx="53" lry="994" ulx="48" uly="977" xml:id="zone_15bff870-b27d-11e8-ad6f-acde48001122" /><zone lrx="64" lry="994" ulx="59" uly="977" xml:id="zone_15bff9a8-b27d-11e8-ad65-acde48001122" /><zone lrx="103" lry="997" ulx="84" uly="978" xml:id="zone_15bffae6-b27d-11e8-a4ab-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_15bfe1a4-b27d-11e8-905a-acde48001122">buy</span><span facs="#zone_15bfe59c-b27d-11e8-93d0-acde48001122">to</span><span facs="#zone_15bfe850-b27d-11e8-8007-acde48001122">day</span><span facs="#zone_15bfeabe-b27d-11e8-b7ec-acde48001122">buy</span><span facs="#zone_15bfed28-b27d-11e8-9b5f-acde48001122">liberty</span><span facs="#zone_15bfef5a-b27d-11e8-a982-acde48001122">bonds</span><span facs="#zone_15bff0f4-b27d-11e8-baaf-acde48001122">at</span><span facs="#zone_15bff234-b27d-11e8-a067-acde48001122">any</span><span facs="#zone_15bff388-b27d-11e8-b95b-acde48001122">bank</span><span facs="#zone_15bff4c8-b27d-11e8-9eda-acde48001122">5</span><span facs="#zone_15bff606-b27d-11e8-8cc3-acde48001122">.</span><span facs="#zone_15bff73a-b27d-11e8-8f69-acde48001122">1</span><span facs="#zone_15bff870-b27d-11e8-ad6f-acde48001122">.</span><span facs="#zone_15bff9a8-b27d-11e8-ad65-acde48001122">b</span><span facs="#zone_15bffae6-b27d-11e8-a4ab-acde48001122">sl</span></p></body>
+    </text>
+</TEI>

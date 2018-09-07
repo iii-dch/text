@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>アメリカ陸軍には、君が必要だ∽158</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33545">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33545</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/9528/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/9528/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/9528/1332747875500.jpg" /><zone lrx="470" lry="656" ulx="468" uly="639" xml:id="zone_ff27a3d0-b27c-11e8-8aee-acde48001122" /><zone lrx="508" lry="656" ulx="506" uly="639" xml:id="zone_ff27a7fe-b27c-11e8-bebb-acde48001122" /><zone lrx="604" lry="656" ulx="552" uly="639" xml:id="zone_ff27aa10-b27c-11e8-a509-acde48001122" /><zone lrx="653" lry="656" ulx="618" uly="639" xml:id="zone_ff27ab64-b27c-11e8-bbc6-acde48001122" /><zone lrx="101" lry="805" ulx="52" uly="659" xml:id="zone_ff27acb8-b27c-11e8-b519-acde48001122" /><zone lrx="429" lry="801" ulx="124" uly="642" xml:id="zone_ff27adf8-b27c-11e8-bbf2-acde48001122" /><zone lrx="649" lry="785" ulx="455" uly="631" xml:id="zone_ff27af38-b27c-11e8-af88-acde48001122" /><zone lrx="185" lry="863" ulx="64" uly="768" xml:id="zone_ff27b078-b27c-11e8-937b-acde48001122" /><zone lrx="265" lry="863" ulx="238" uly="768" xml:id="zone_ff27b226-b27c-11e8-a8c2-acde48001122" /><zone lrx="313" lry="863" ulx="286" uly="768" xml:id="zone_ff27b42e-b27c-11e8-b40b-acde48001122" /><zone lrx="361" lry="863" ulx="334" uly="768" xml:id="zone_ff27b580-b27c-11e8-9746-acde48001122" /><zone lrx="409" lry="863" ulx="382" uly="768" xml:id="zone_ff27b6c2-b27c-11e8-864f-acde48001122" /><zone lrx="644" lry="863" ulx="412" uly="768" xml:id="zone_ff27b7f8-b27c-11e8-b5f1-acde48001122" /><zone lrx="242" lry="915" ulx="92" uly="872" xml:id="zone_ff27b92e-b27c-11e8-b960-acde48001122" /><zone lrx="455" lry="915" ulx="261" uly="872" xml:id="zone_ff27ba5a-b27c-11e8-971a-acde48001122" /><zone lrx="606" lry="915" ulx="477" uly="872" xml:id="zone_ff27bb90-b27c-11e8-9bba-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_ff27a3d0-b27c-11e8-8aee-acde48001122">V</span><span facs="#zone_ff27a7fe-b27c-11e8-bebb-acde48001122">E</span><span facs="#zone_ff27aa10-b27c-11e8-a509-acde48001122">TEOWIETLY</span><span facs="#zone_ff27ab64-b27c-11e8-bbc6-acde48001122">FLAGG</span><span facs="#zone_ff27acb8-b27c-11e8-b519-acde48001122">I</span><span facs="#zone_ff27adf8-b27c-11e8-bbf2-acde48001122">WANT</span><span facs="#zone_ff27af38-b27c-11e8-af88-acde48001122">YOU</span><span facs="#zone_ff27b078-b27c-11e8-937b-acde48001122">FOR</span><span facs="#zone_ff27b226-b27c-11e8-a8c2-acde48001122">U</span><span facs="#zone_ff27b42e-b27c-11e8-b40b-acde48001122">.</span><span facs="#zone_ff27b580-b27c-11e8-9746-acde48001122">S</span><span facs="#zone_ff27b6c2-b27c-11e8-864f-acde48001122">.</span><span facs="#zone_ff27b7f8-b27c-11e8-b5f1-acde48001122">ARMY</span><span facs="#zone_ff27b92e-b27c-11e8-b960-acde48001122">NEAREST</span><span facs="#zone_ff27ba5a-b27c-11e8-971a-acde48001122">RECRUITING</span><span facs="#zone_ff27bb90-b27c-11e8-9bba-acde48001122">STATION</span></p></body>
+    </text>
+</TEI>

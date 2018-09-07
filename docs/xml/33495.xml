@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>彼が国に戻って、また働けるように∽61</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33495">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33495</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/12526/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/12526/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/12526/1332747851827.jpg" /><zone lrx="115" lry="108" ulx="24" uly="25" xml:id="zone_27f098f8-b27d-11e8-b8a3-acde48001122" /><zone lrx="139" lry="106" ulx="114" uly="25" xml:id="zone_27f09ccc-b27d-11e8-8175-acde48001122" /><zone lrx="480" lry="106" ulx="137" uly="17" xml:id="zone_27f09e70-b27d-11e8-bcaa-acde48001122" /><zone lrx="633" lry="99" ulx="516" uly="15" xml:id="zone_27f09fd0-b27d-11e8-b7a4-acde48001122" /><zone lrx="241" lry="132" ulx="202" uly="96" xml:id="zone_27f0a118-b27d-11e8-a89a-acde48001122" /><zone lrx="248" lry="132" ulx="238" uly="96" xml:id="zone_27f0a262-b27d-11e8-a9a6-acde48001122" /><zone lrx="259" lry="132" ulx="249" uly="96" xml:id="zone_27f0a398-b27d-11e8-aded-acde48001122" /><zone lrx="338" lry="132" ulx="278" uly="96" xml:id="zone_27f0a4cc-b27d-11e8-8199-acde48001122" /><zone lrx="392" lry="132" ulx="358" uly="96" xml:id="zone_27f0a610-b27d-11e8-9d69-acde48001122" /><zone lrx="472" lry="132" ulx="412" uly="96" xml:id="zone_27f0a746-b27d-11e8-aa6e-acde48001122" /><zone lrx="101" lry="578" ulx="93" uly="563" xml:id="zone_27f0a886-b27d-11e8-ba39-acde48001122" /><zone lrx="360" lry="976" ulx="25" uly="881" xml:id="zone_27f0a9ba-b27d-11e8-b593-acde48001122" /><zone lrx="601" lry="976" ulx="393" uly="881" xml:id="zone_27f0aaf0-b27d-11e8-b75c-acde48001122" /><zone lrx="18" lry="998" ulx="18" uly="983" xml:id="zone_27f0ac26-b27d-11e8-a4f2-acde48001122" /><zone lrx="39" lry="998" ulx="23" uly="983" xml:id="zone_27f0ad52-b27d-11e8-a9eb-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_27f098f8-b27d-11e8-b8a3-acde48001122">RE</span><span facs="#zone_27f09ccc-b27d-11e8-8175-acde48001122">-</span><span facs="#zone_27f09e70-b27d-11e8-bcaa-acde48001122">ESTABLISH</span><span facs="#zone_27f09fd0-b27d-11e8-b7a4-acde48001122">HIM</span><span facs="#zone_27f0a118-b27d-11e8-a89a-acde48001122">It</span><span facs="#zone_27f0a262-b27d-11e8-a9a6-acde48001122">'</span><span facs="#zone_27f0a398-b27d-11e8-aded-acde48001122">s</span><span facs="#zone_27f0a4cc-b27d-11e8-8199-acde48001122">up</span><span facs="#zone_27f0a610-b27d-11e8-9d69-acde48001122">to</span><span facs="#zone_27f0a746-b27d-11e8-aa6e-acde48001122">us</span><span facs="#zone_27f0a886-b27d-11e8-ba39-acde48001122">13</span><span facs="#zone_27f0a9ba-b27d-11e8-b593-acde48001122">VICTORY</span><span facs="#zone_27f0aaf0-b27d-11e8-b75c-acde48001122">BOND</span><span facs="#zone_27f0ac26-b27d-11e8-a4f2-acde48001122">үр</span><span facs="#zone_27f0ad52-b27d-11e8-a9eb-acde48001122">10</span></p></body>
+    </text>
+</TEI>

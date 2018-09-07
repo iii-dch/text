@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[No Name]∽329</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33631">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33631</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/15604/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/15604/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/15604/1332747915280.jpg" /><zone lrx="824" lry="564" ulx="795" uly="547" xml:id="zone_4ff0fe9c-b27d-11e8-8423-acde48001122" /><zone lrx="882" lry="566" ulx="830" uly="547" xml:id="zone_4ff1009a-b27d-11e8-8412-acde48001122" /><zone lrx="943" lry="567" ulx="886" uly="548" xml:id="zone_4ff101c8-b27d-11e8-8fd8-acde48001122" /><zone lrx="898" lry="584" ulx="856" uly="566" xml:id="zone_4ff102ca-b27d-11e8-9a2b-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_4ff0fe9c-b27d-11e8-8423-acde48001122">Edwin</span><span facs="#zone_4ff1009a-b27d-11e8-8412-acde48001122">Howlond</span><span facs="#zone_4ff101c8-b27d-11e8-8fd8-acde48001122">Blashfield</span><span facs="#zone_4ff102ca-b27d-11e8-9a2b-acde48001122">©1918</span></p></body>
+    </text>
+</TEI>

@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>行きなさい！ これがあなたの任務よ∽418</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33639">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33639</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/14116/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/14116/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/14116/1332747918653.jpg" /><zone lrx="854" lry="202" ulx="624" uly="42" xml:id="zone_3ce04b28-b27d-11e8-942d-acde48001122" /><zone lrx="952" lry="195" ulx="904" uly="39" xml:id="zone_3ce04f62-b27d-11e8-b281-acde48001122" /><zone lrx="840" lry="169" ulx="641" uly="61" xml:id="zone_3ce05174-b27d-11e8-8a44-acde48001122" /><zone lrx="943" lry="168" ulx="912" uly="60" xml:id="zone_3ce052f8-b27d-11e8-8f3e-acde48001122" /><zone lrx="663" lry="439" ulx="601" uly="355" xml:id="zone_3ce0546c-b27d-11e8-a784-acde48001122" /><zone lrx="696" lry="439" ulx="672" uly="355" xml:id="zone_3ce05598-b27d-11e8-ba56-acde48001122" /><zone lrx="713" lry="439" ulx="689" uly="355" xml:id="zone_3ce05674-b27d-11e8-b05f-acde48001122" /><zone lrx="945" lry="439" ulx="761" uly="355" xml:id="zone_3ce05758-b27d-11e8-b14e-acde48001122" /><zone lrx="779" lry="520" ulx="607" uly="443" xml:id="zone_3ce0581e-b27d-11e8-b18b-acde48001122" /><zone lrx="958" lry="519" ulx="825" uly="442" xml:id="zone_3ce058f0-b27d-11e8-939d-acde48001122" /><zone lrx="683" lry="675" ulx="536" uly="601" xml:id="zone_3ce059c2-b27d-11e8-b460-acde48001122" /><zone lrx="791" lry="675" ulx="723" uly="601" xml:id="zone_3ce05a94-b27d-11e8-ac3b-acde48001122" /><zone lrx="831" lry="674" ulx="810" uly="600" xml:id="zone_3ce05b54-b27d-11e8-8b57-acde48001122" /><zone lrx="977" lry="674" ulx="840" uly="600" xml:id="zone_3ce05c26-b27d-11e8-9a97-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_3ce04b28-b27d-11e8-942d-acde48001122">GO</span><span facs="#zone_3ce04f62-b27d-11e8-b281-acde48001122">!</span><span facs="#zone_3ce05174-b27d-11e8-8a44-acde48001122">GO</span><span facs="#zone_3ce052f8-b27d-11e8-8f3e-acde48001122">!</span><span facs="#zone_3ce0546c-b27d-11e8-a784-acde48001122">IT</span><span facs="#zone_3ce05598-b27d-11e8-ba56-acde48001122">'</span><span facs="#zone_3ce05674-b27d-11e8-b05f-acde48001122">S</span><span facs="#zone_3ce05758-b27d-11e8-b14e-acde48001122">YOUR</span><span facs="#zone_3ce0581e-b27d-11e8-b18b-acde48001122">DUTY</span><span facs="#zone_3ce058f0-b27d-11e8-939d-acde48001122">LAD</span><span facs="#zone_3ce059c2-b27d-11e8-b460-acde48001122">JOIN</span><span facs="#zone_3ce05a94-b27d-11e8-ac3b-acde48001122">TO</span><span facs="#zone_3ce05b54-b27d-11e8-8b57-acde48001122">-</span><span facs="#zone_3ce05c26-b27d-11e8-9a97-acde48001122">DAY</span></p></body>
+    </text>
+</TEI>

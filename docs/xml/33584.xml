@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ロシアでのアメリカの救急車∽297</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33584">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33584</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/15489/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/15489/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/15489/1332747893280.jpg" /><zone lrx="83" lry="63" ulx="37" uly="17" xml:id="zone_4eb831ee-b27d-11e8-8b10-acde48001122" /><zone lrx="233" lry="62" ulx="108" uly="15" xml:id="zone_4eb835de-b27d-11e8-b43a-acde48001122" /><zone lrx="412" lry="61" ulx="256" uly="14" xml:id="zone_4eb83888-b27d-11e8-a9bf-acde48001122" /><zone lrx="457" lry="60" ulx="432" uly="14" xml:id="zone_4eb83b08-b27d-11e8-85ac-acde48001122" /><zone lrx="573" lry="60" ulx="482" uly="13" xml:id="zone_4eb83d4a-b27d-11e8-afac-acde48001122" /><zone lrx="244" lry="69" ulx="230" uly="61" xml:id="zone_4eb83f9a-b27d-11e8-82bc-acde48001122" /><zone lrx="277" lry="68" ulx="267" uly="60" xml:id="zone_4eb841de-b27d-11e8-aa2c-acde48001122" /><zone lrx="319" lry="68" ulx="286" uly="60" xml:id="zone_4eb84422-b27d-11e8-9caa-acde48001122" /><zone lrx="319" lry="68" ulx="318" uly="60" xml:id="zone_4eb84670-b27d-11e8-b660-acde48001122" /><zone lrx="349" lry="68" ulx="330" uly="60" xml:id="zone_4eb84898-b27d-11e8-a2ea-acde48001122" /><zone lrx="377" lry="68" ulx="357" uly="60" xml:id="zone_4eb849f4-b27d-11e8-8eb3-acde48001122" /><zone lrx="487" lry="809" ulx="483" uly="792" xml:id="zone_4eb84b36-b27d-11e8-b657-acde48001122" /><zone lrx="598" lry="811" ulx="511" uly="792" xml:id="zone_4eb84c74-b27d-11e8-b002-acde48001122" /><zone lrx="469" lry="861" ulx="63" uly="821" xml:id="zone_4eb84e74-b27d-11e8-8d79-acde48001122" /><zone lrx="547" lry="860" ulx="498" uly="822" xml:id="zone_4eb850c0-b27d-11e8-b5c9-acde48001122" /><zone lrx="277" lry="938" ulx="50" uly="851" xml:id="zone_4eb8531a-b27d-11e8-83e9-acde48001122" /><zone lrx="323" lry="936" ulx="298" uly="851" xml:id="zone_4eb854d0-b27d-11e8-9a0f-acde48001122" /><zone lrx="383" lry="936" ulx="358" uly="851" xml:id="zone_4eb85700-b27d-11e8-b30a-acde48001122" /><zone lrx="569" lry="935" ulx="390" uly="849" xml:id="zone_4eb85958-b27d-11e8-b088-acde48001122" /><zone lrx="172" lry="962" ulx="58" uly="926" xml:id="zone_4eb85ba4-b27d-11e8-beb8-acde48001122" /><zone lrx="359" lry="962" ulx="186" uly="927" xml:id="zone_4eb85df4-b27d-11e8-97fb-acde48001122" /><zone lrx="545" lry="964" ulx="379" uly="928" xml:id="zone_4eb85f90-b27d-11e8-92b7-acde48001122" /><zone lrx="157" lry="993" ulx="62" uly="958" xml:id="zone_4eb860d8-b27d-11e8-8d67-acde48001122" /><zone lrx="309" lry="994" ulx="173" uly="958" xml:id="zone_4eb8622c-b27d-11e8-8fff-acde48001122" /><zone lrx="535" lry="995" ulx="328" uly="959" xml:id="zone_4eb8643e-b27d-11e8-aa13-acde48001122" /><zone lrx="547" lry="994" ulx="538" uly="960" xml:id="zone_4eb8668c-b27d-11e8-a375-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_4eb831ee-b27d-11e8-8b10-acde48001122">THE</span><span facs="#zone_4eb835de-b27d-11e8-b43a-acde48001122">AMERICAN</span><span facs="#zone_4eb83888-b27d-11e8-a9bf-acde48001122">AMBULANCE</span><span facs="#zone_4eb83b08-b27d-11e8-85ac-acde48001122">IN</span><span facs="#zone_4eb83d4a-b27d-11e8-afac-acde48001122">RUSSIA</span><span facs="#zone_4eb83f9a-b27d-11e8-82bc-acde48001122">327</span><span facs="#zone_4eb841de-b27d-11e8-aa2c-acde48001122">тн</span><span facs="#zone_4eb84422-b27d-11e8-9caa-acde48001122">AVENUE</span><span facs="#zone_4eb84670-b27d-11e8-b660-acde48001122">,</span><span facs="#zone_4eb84898-b27d-11e8-a2ea-acde48001122">NEW</span><span facs="#zone_4eb849f4-b27d-11e8-8eb3-acde48001122">YORK</span><span facs="#zone_4eb84b36-b27d-11e8-b657-acde48001122">Е</span><span facs="#zone_4eb84c74-b27d-11e8-b002-acde48001122">ЧЕлцов</span><span facs="#zone_4eb84e74-b27d-11e8-8d79-acde48001122">ПОДПИСЫВайтесь</span><span facs="#zone_4eb850c0-b27d-11e8-b5c9-acde48001122">на</span><span facs="#zone_4eb8531a-b27d-11e8-83e9-acde48001122">ВОЕННЫЙ</span><span facs="#zone_4eb854d0-b27d-11e8-9a0f-acde48001122">5</span><span facs="#zone_4eb85700-b27d-11e8-b30a-acde48001122">%</span><span facs="#zone_4eb85958-b27d-11e8-b088-acde48001122">ЗАЕМъ</span><span facs="#zone_4eb85ba4-b27d-11e8-beb8-acde48001122">Чѣмъ</span><span facs="#zone_4eb85df4-b27d-11e8-97fb-acde48001122">больше</span><span facs="#zone_4eb85f90-b27d-11e8-92b7-acde48001122">денегъ</span><span facs="#zone_4eb860d8-b27d-11e8-8d67-acde48001122">тѣмъ</span><span facs="#zone_4eb8622c-b27d-11e8-8fff-acde48001122">больше</span><span facs="#zone_4eb8643e-b27d-11e8-aa13-acde48001122">СНаРЯДОВЪ</span><span facs="#zone_4eb8668c-b27d-11e8-a375-acde48001122">!</span></p></body>
+    </text>
+</TEI>

@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>カナダで消費されているすべてのドル∽486</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/34091">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/34091</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/18022/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/18022/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/18022/1332748128368.jpg" /><zone lrx="187" lry="107" ulx="53" uly="58" xml:id="zone_6bf0d5e8-b27d-11e8-b3b2-acde48001122" /><zone lrx="205" lry="167" ulx="56" uly="121" xml:id="zone_6bf0d9f0-b27d-11e8-8f57-acde48001122" /><zone lrx="185" lry="231" ulx="58" uly="182" xml:id="zone_6bf0dcae-b27d-11e8-ad93-acde48001122" /><zone lrx="236" lry="231" ulx="200" uly="182" xml:id="zone_6bf0df0c-b27d-11e8-9857-acde48001122" /><zone lrx="226" lry="291" ulx="57" uly="243" xml:id="zone_6bf0e16e-b27d-11e8-88b8-acde48001122" /><zone lrx="413" lry="520" ulx="214" uly="305" xml:id="zone_6bf0e3c8-b27d-11e8-b310-acde48001122" /><zone lrx="516" lry="340" ulx="367" uly="183" xml:id="zone_6bf0e55a-b27d-11e8-9836-acde48001122" /><zone lrx="139" lry="949" ulx="118" uly="936" xml:id="zone_6bf0e698-b27d-11e8-80cd-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_6bf0d5e8-b27d-11e8-b3b2-acde48001122">EVERY</span><span facs="#zone_6bf0d9f0-b27d-11e8-8f57-acde48001122">DOLLAR</span><span facs="#zone_6bf0dcae-b27d-11e8-ad93-acde48001122">SPENT</span><span facs="#zone_6bf0df0c-b27d-11e8-9857-acde48001122">IN</span><span facs="#zone_6bf0e16e-b27d-11e8-88b8-acde48001122">CANADA</span><span facs="#zone_6bf0e3c8-b27d-11e8-b310-acde48001122">VICTORY</span><span facs="#zone_6bf0e55a-b27d-11e8-9836-acde48001122">LOAN</span><span facs="#zone_6bf0e698-b27d-11e8-80cd-acde48001122">EXES</span></p></body>
+    </text>
+</TEI>

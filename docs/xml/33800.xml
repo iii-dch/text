@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>「さようならメアリー、愛国基金がお前の面倒をみてくれるよ」∽9</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33800">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33800</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/11191/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/11191/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/11191/1332747992313.jpg" /><zone lrx="39" lry="424" ulx="23" uly="366" xml:id="zone_14896f38-b27d-11e8-8f35-acde48001122" /><zone lrx="69" lry="424" ulx="53" uly="366" xml:id="zone_148972e4-b27d-11e8-b3f5-acde48001122" /><zone lrx="142" lry="424" ulx="66" uly="366" xml:id="zone_148976fe-b27d-11e8-8eb1-acde48001122" /><zone lrx="250" lry="424" ulx="151" uly="366" xml:id="zone_14897a46-b27d-11e8-ad54-acde48001122" /><zone lrx="278" lry="511" ulx="167" uly="424" xml:id="zone_14897bfe-b27d-11e8-b068-acde48001122" /><zone lrx="589" lry="609" ulx="40" uly="513" xml:id="zone_14897d66-b27d-11e8-8d31-acde48001122" /><zone lrx="468" lry="716" ulx="153" uly="631" xml:id="zone_14897ec6-b27d-11e8-9cd8-acde48001122" /><zone lrx="178" lry="799" ulx="50" uly="725" xml:id="zone_1489800c-b27d-11e8-9c4d-acde48001122" /><zone lrx="339" lry="799" ulx="206" uly="725" xml:id="zone_14898158-b27d-11e8-9616-acde48001122" /><zone lrx="469" lry="799" ulx="364" uly="725" xml:id="zone_1489829a-b27d-11e8-92e2-acde48001122" /><zone lrx="586" lry="799" ulx="491" uly="725" xml:id="zone_148983d0-b27d-11e8-9138-acde48001122" /><zone lrx="619" lry="799" ulx="598" uly="725" xml:id="zone_14898510-b27d-11e8-9b54-acde48001122" /><zone lrx="250" lry="974" ulx="38" uly="825" xml:id="zone_14898646-b27d-11e8-8675-acde48001122" /><zone lrx="598" lry="974" ulx="341" uly="825" xml:id="zone_14898782-b27d-11e8-9af0-acde48001122" /><zone lrx="581" lry="1000" ulx="564" uly="990" xml:id="zone_148988c2-b27d-11e8-a371-acde48001122" /><zone lrx="601" lry="1000" ulx="588" uly="990" xml:id="zone_148989f8-b27d-11e8-92a3-acde48001122" /><zone lrx="604" lry="1000" ulx="602" uly="990" xml:id="zone_14898b3a-b27d-11e8-8955-acde48001122" /><zone lrx="616" lry="1000" ulx="605" uly="990" xml:id="zone_14898c70-b27d-11e8-80df-acde48001122" /><zone lrx="632" lry="1000" ulx="622" uly="990" xml:id="zone_14898dc2-b27d-11e8-8c6c-acde48001122" /><zone lrx="636" lry="1000" ulx="634" uly="990" xml:id="zone_14898f06-b27d-11e8-bf35-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_14896f38-b27d-11e8-8f35-acde48001122">G</span><span facs="#zone_148972e4-b27d-11e8-b3f5-acde48001122">.</span><span facs="#zone_148976fe-b27d-11e8-8eb1-acde48001122">Bye</span><span facs="#zone_14897a46-b27d-11e8-ad54-acde48001122">Mar</span><span facs="#zone_14897bfe-b27d-11e8-b068-acde48001122">THE</span><span facs="#zone_14897d66-b27d-11e8-8d31-acde48001122">PATRIOTIC</span><span facs="#zone_14897ec6-b27d-11e8-9cd8-acde48001122">FUND</span><span facs="#zone_1489800c-b27d-11e8-9c4d-acde48001122">WILL</span><span facs="#zone_14898158-b27d-11e8-9616-acde48001122">CARE</span><span facs="#zone_1489829a-b27d-11e8-92e2-acde48001122">FOR</span><span facs="#zone_148983d0-b27d-11e8-9138-acde48001122">YOU</span><span facs="#zone_14898510-b27d-11e8-9b54-acde48001122">"</span><span facs="#zone_14898646-b27d-11e8-8675-acde48001122">COMO</span><span facs="#zone_14898782-b27d-11e8-9af0-acde48001122">GIVE</span><span facs="#zone_148988c2-b27d-11e8-a371-acde48001122">HomЕЦ</span><span facs="#zone_148989f8-b27d-11e8-92a3-acde48001122">ОТНО</span><span facs="#zone_14898b3a-b27d-11e8-8955-acde48001122">.</span><span facs="#zone_14898c70-b27d-11e8-80df-acde48001122">НАН</span><span facs="#zone_14898dc2-b27d-11e8-8c6c-acde48001122">том</span><span facs="#zone_14898f06-b27d-11e8-bf35-acde48001122">.</span></p></body>
+    </text>
+</TEI>
