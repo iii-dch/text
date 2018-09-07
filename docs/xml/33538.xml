@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>海の戦士になろう∽193</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33538">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33538</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/18626/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/18626/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/18626/1332747872432.jpg" /><zone lrx="105" lry="186" ulx="71" uly="69" xml:id="zone_72b547f8-b27d-11e8-a741-acde48001122" /><zone lrx="152" lry="186" ulx="118" uly="69" xml:id="zone_72b54a12-b27d-11e8-be25-acde48001122" /><zone lrx="187" lry="186" ulx="153" uly="69" xml:id="zone_72b54b48-b27d-11e8-bd79-acde48001122" /><zone lrx="235" lry="186" ulx="201" uly="69" xml:id="zone_72b54c50-b27d-11e8-aebd-acde48001122" /><zone lrx="282" lry="186" ulx="248" uly="69" xml:id="zone_72b54d66-b27d-11e8-bf91-acde48001122" /><zone lrx="608" lry="186" ulx="347" uly="69" xml:id="zone_72b54e74-b27d-11e8-ba49-acde48001122" /><zone lrx="520" lry="772" ulx="466" uly="722" xml:id="zone_72b54f6e-b27d-11e8-9e21-acde48001122" /><zone lrx="561" lry="772" ulx="547" uly="722" xml:id="zone_72b55070-b27d-11e8-9ced-acde48001122" /><zone lrx="400" lry="851" ulx="326" uly="777" xml:id="zone_72b55180-b27d-11e8-8a29-acde48001122" /><zone lrx="607" lry="851" ulx="431" uly="777" xml:id="zone_72b5529a-b27d-11e8-8d2a-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_72b547f8-b27d-11e8-a741-acde48001122">U</span><span facs="#zone_72b54a12-b27d-11e8-be25-acde48001122">.</span><span facs="#zone_72b54b48-b27d-11e8-bd79-acde48001122">S</span><span facs="#zone_72b54c50-b27d-11e8-aebd-acde48001122">.</span><span facs="#zone_72b54d66-b27d-11e8-bf91-acde48001122">M</span><span facs="#zone_72b54e74-b27d-11e8-ba49-acde48001122">ARINE</span><span facs="#zone_72b54f6e-b27d-11e8-9e21-acde48001122">BE</span><span facs="#zone_72b55070-b27d-11e8-9ced-acde48001122">A</span><span facs="#zone_72b55180-b27d-11e8-8a29-acde48001122">SEA</span><span facs="#zone_72b5529a-b27d-11e8-8d2a-acde48001122">SOLDIER</span></p></body>
+    </text>
+</TEI>

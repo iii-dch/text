@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>白頭鷲に応えよう　∽595</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/34073">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/34073</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/26552/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/26552/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/26552/1332748119361.jpg" /><zone lrx="449" lry="804" ulx="424" uly="797" xml:id="zone_ce817cf0-b27d-11e8-a0d6-acde48001122" /><zone lrx="509" lry="804" ulx="450" uly="797" xml:id="zone_ce817ed0-b27d-11e8-825c-acde48001122" /><zone lrx="132" lry="876" ulx="32" uly="813" xml:id="zone_ce817fe8-b27d-11e8-b215-acde48001122" /><zone lrx="241" lry="875" ulx="160" uly="812" xml:id="zone_ce8180e2-b27d-11e8-9277-acde48001122" /><zone lrx="390" lry="875" ulx="259" uly="812" xml:id="zone_ce8181d2-b27d-11e8-b017-acde48001122" /><zone lrx="410" lry="875" ulx="392" uly="812" xml:id="zone_ce8182c2-b27d-11e8-a28e-acde48001122" /><zone lrx="423" lry="875" ulx="405" uly="812" xml:id="zone_ce818380-b27d-11e8-adbd-acde48001122" /><zone lrx="620" lry="875" ulx="446" uly="812" xml:id="zone_ce818402-b27d-11e8-bad6-acde48001122" /><zone lrx="302" lry="948" ulx="76" uly="863" xml:id="zone_ce818478-b27d-11e8-bbfb-acde48001122" /><zone lrx="577" lry="947" ulx="358" uly="862" xml:id="zone_ce818506-b27d-11e8-97d0-acde48001122" /><zone lrx="85" lry="971" ulx="24" uly="953" xml:id="zone_ce81858a-b27d-11e8-bbdf-acde48001122" /><zone lrx="157" lry="971" ulx="96" uly="953" xml:id="zone_ce818600-b27d-11e8-865e-acde48001122" /><zone lrx="242" lry="970" ulx="166" uly="951" xml:id="zone_ce818678-b27d-11e8-b045-acde48001122" /><zone lrx="305" lry="969" ulx="253" uly="951" xml:id="zone_ce818722-b27d-11e8-ab20-acde48001122" /><zone lrx="453" lry="969" ulx="354" uly="950" xml:id="zone_ce818864-b27d-11e8-a826-acde48001122" /><zone lrx="510" lry="969" ulx="461" uly="950" xml:id="zone_ce818a1a-b27d-11e8-9f7d-acde48001122" /><zone lrx="632" lry="968" ulx="518" uly="949" xml:id="zone_ce818b34-b27d-11e8-aff0-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_ce817cf0-b27d-11e8-a0d6-acde48001122">JAMES</span><span facs="#zone_ce817ed0-b27d-11e8-825c-acde48001122">HAUSNERI</span><span facs="#zone_ce817fe8-b27d-11e8-b215-acde48001122">SEND</span><span facs="#zone_ce8180e2-b27d-11e8-9277-acde48001122">THE</span><span facs="#zone_ce8181d2-b27d-11e8-b017-acde48001122">EAGLE</span><span facs="#zone_ce8182c2-b27d-11e8-a28e-acde48001122">'</span><span facs="#zone_ce818380-b27d-11e8-adbd-acde48001122">S</span><span facs="#zone_ce818402-b27d-11e8-bad6-acde48001122">ANSWER</span><span facs="#zone_ce818478-b27d-11e8-bbfb-acde48001122">MORE</span><span facs="#zone_ce818506-b27d-11e8-97d0-acde48001122">SHIPS</span><span facs="#zone_ce81858a-b27d-11e8-bbdf-acde48001122">UNITED</span><span facs="#zone_ce818600-b27d-11e8-865e-acde48001122">STATES</span><span facs="#zone_ce818678-b27d-11e8-b045-acde48001122">SHIPPING</span><span facs="#zone_ce818722-b27d-11e8-ab20-acde48001122">BOARD</span><span facs="#zone_ce818864-b27d-11e8-a826-acde48001122">EMERGENCY</span><span facs="#zone_ce818a1a-b27d-11e8-9f7d-acde48001122">FLEET</span><span facs="#zone_ce818b34-b27d-11e8-aff0-acde48001122">CORPORATION</span></p></body>
+    </text>
+</TEI>

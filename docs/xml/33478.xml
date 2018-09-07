@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>子どもたちのために∽512</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33478">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33478</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/25226/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/25226/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/25226/1332747844300.jpg" /><zone lrx="220" lry="99" ulx="83" uly="30" xml:id="zone_b9f63610-b27d-11e8-9787-acde48001122" /><zone lrx="482" lry="99" ulx="279" uly="30" xml:id="zone_b9f63898-b27d-11e8-91d9-acde48001122" /><zone lrx="897" lry="98" ulx="528" uly="28" xml:id="zone_b9f63a1e-b27d-11e8-8b00-acde48001122" /><zone lrx="180" lry="612" ulx="92" uly="561" xml:id="zone_b9f63b88-b27d-11e8-bc6d-acde48001122" /><zone lrx="304" lry="612" ulx="195" uly="561" xml:id="zone_b9f63cda-b27d-11e8-9ba1-acde48001122" /><zone lrx="538" lry="611" ulx="334" uly="559" xml:id="zone_b9f63e24-b27d-11e8-806b-acde48001122" /><zone lrx="911" lry="611" ulx="561" uly="559" xml:id="zone_b9f63f78-b27d-11e8-a763-acde48001122" /><zone lrx="239" lry="656" ulx="173" uly="613" xml:id="zone_b9f640d4-b27d-11e8-b939-acde48001122" /><zone lrx="357" lry="656" ulx="270" uly="613" xml:id="zone_b9f6422c-b27d-11e8-a4e0-acde48001122" /><zone lrx="453" lry="655" ulx="378" uly="612" xml:id="zone_b9f64374-b27d-11e8-8023-acde48001122" /><zone lrx="551" lry="655" ulx="476" uly="612" xml:id="zone_b9f644b4-b27d-11e8-b3aa-acde48001122" /><zone lrx="609" lry="655" ulx="578" uly="612" xml:id="zone_b9f64608-b27d-11e8-bbbd-acde48001122" /><zone lrx="738" lry="655" ulx="645" uly="612" xml:id="zone_b9f6475c-b27d-11e8-873c-acde48001122" /><zone lrx="833" lry="654" ulx="765" uly="611" xml:id="zone_b9f648a6-b27d-11e8-bc91-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_b9f63610-b27d-11e8-9787-acde48001122">FOR</span><span facs="#zone_b9f63898-b27d-11e8-91d9-acde48001122">YOUR</span><span facs="#zone_b9f63a1e-b27d-11e8-8b00-acde48001122">CHILDREN</span><span facs="#zone_b9f63b88-b27d-11e8-bc6d-acde48001122">BUY</span><span facs="#zone_b9f63cda-b27d-11e8-9ba1-acde48001122">WAR</span><span facs="#zone_b9f63e24-b27d-11e8-806b-acde48001122">SAVINGS</span><span facs="#zone_b9f63f78-b27d-11e8-a763-acde48001122">CERTIFICATES</span><span facs="#zone_b9f640d4-b27d-11e8-b939-acde48001122">and</span><span facs="#zone_b9f6422c-b27d-11e8-a4e0-acde48001122">they</span><span facs="#zone_b9f64374-b27d-11e8-8023-acde48001122">will</span><span facs="#zone_b9f644b4-b27d-11e8-b3aa-acde48001122">live</span><span facs="#zone_b9f64608-b27d-11e8-bbbd-acde48001122">to</span><span facs="#zone_b9f6475c-b27d-11e8-873c-acde48001122">thank</span><span facs="#zone_b9f648a6-b27d-11e8-bc91-acde48001122">you</span></p></body>
+    </text>
+</TEI>

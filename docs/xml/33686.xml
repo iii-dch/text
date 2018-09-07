@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>カナダへの信頼∽500</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33686">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33686</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/19449/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/19449/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/19449/1332747939976.jpg" /><zone lrx="179" lry="135" ulx="76" uly="88" xml:id="zone_7c7bd95a-b27d-11e8-ad3e-acde48001122" /><zone lrx="241" lry="135" ulx="206" uly="88" xml:id="zone_7c7bde78-b27d-11e8-9ca3-acde48001122" /><zone lrx="436" lry="135" ulx="271" uly="88" xml:id="zone_7c7be85a-b27d-11e8-80a9-acde48001122" /><zone lrx="204" lry="472" ulx="155" uly="437" xml:id="zone_7c7beaee-b27d-11e8-87a5-acde48001122" /><zone lrx="96" lry="728" ulx="79" uly="666" xml:id="zone_7c7becec-b27d-11e8-9a62-acde48001122" /><zone lrx="211" lry="728" ulx="123" uly="666" xml:id="zone_7c7beeae-b27d-11e8-9b97-acde48001122" /><zone lrx="275" lry="728" ulx="241" uly="666" xml:id="zone_7c7bf000-b27d-11e8-8ba3-acde48001122" /><zone lrx="378" lry="728" ulx="290" uly="666" xml:id="zone_7c7bf14c-b27d-11e8-b43d-acde48001122" /><zone lrx="503" lry="728" ulx="414" uly="666" xml:id="zone_7c7bf294-b27d-11e8-8ff4-acde48001122" /><zone lrx="575" lry="842" ulx="41" uly="733" xml:id="zone_7c7bf3e2-b27d-11e8-aff8-acde48001122" /><zone lrx="513" lry="937" ulx="110" uly="849" xml:id="zone_7c7bf534-b27d-11e8-ad97-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_7c7bd95a-b27d-11e8-ad3e-acde48001122">FAITH</span><span facs="#zone_7c7bde78-b27d-11e8-9ca3-acde48001122">IN</span><span facs="#zone_7c7be85a-b27d-11e8-80a9-acde48001122">CANADA</span><span facs="#zone_7c7beaee-b27d-11e8-87a5-acde48001122">az</span><span facs="#zone_7c7becec-b27d-11e8-9a62-acde48001122">|</span><span facs="#zone_7c7beeae-b27d-11e8-9b97-acde48001122">USE</span><span facs="#zone_7c7bf000-b27d-11e8-8ba3-acde48001122">IT</span><span facs="#zone_7c7bf14c-b27d-11e8-b43d-acde48001122">ALL</span><span facs="#zone_7c7bf294-b27d-11e8-8ff4-acde48001122">FOR</span><span facs="#zone_7c7bf3e2-b27d-11e8-aff8-acde48001122">VICTORY</span><span facs="#zone_7c7bf534-b27d-11e8-ad97-acde48001122">BONDS</span></p></body>
+    </text>
+</TEI>

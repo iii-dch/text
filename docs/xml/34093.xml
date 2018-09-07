@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>カナダがあなたの保障です∽490</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/34093">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/34093</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/28470/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/28470/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/28470/1332748129959.jpg" /><zone lrx="264" lry="166" ulx="117" uly="73" xml:id="zone_e4071064-b27d-11e8-ab73-acde48001122" /><zone lrx="638" lry="166" ulx="311" uly="73" xml:id="zone_e4071242-b27d-11e8-9c3e-acde48001122" /><zone lrx="267" lry="237" ulx="120" uly="161" xml:id="zone_e407133e-b27d-11e8-9100-acde48001122" /><zone lrx="655" lry="237" ulx="287" uly="161" xml:id="zone_e40714a4-b27d-11e8-b6bc-acde48001122" /><zone lrx="764" lry="361" ulx="757" uly="341" xml:id="zone_e407158a-b27d-11e8-807e-acde48001122" /><zone lrx="764" lry="381" ulx="757" uly="367" xml:id="zone_e407167a-b27d-11e8-b11d-acde48001122" /><zone lrx="764" lry="405" ulx="757" uly="384" xml:id="zone_e407175e-b27d-11e8-8ebe-acde48001122" /><zone lrx="767" lry="506" ulx="759" uly="482" xml:id="zone_e4071850-b27d-11e8-8ca1-acde48001122" /><zone lrx="765" lry="527" ulx="754" uly="523" xml:id="zone_e4071940-b27d-11e8-9838-acde48001122" /><zone lrx="270" lry="379" ulx="180" uly="309" xml:id="zone_e4071a2e-b27d-11e8-9130-acde48001122" /><zone lrx="382" lry="379" ulx="303" uly="309" xml:id="zone_e4071b28-b27d-11e8-b84f-acde48001122" /><zone lrx="526" lry="379" ulx="410" uly="309" xml:id="zone_e4071c24-b27d-11e8-95b5-acde48001122" /><zone lrx="274" lry="451" ulx="168" uly="377" xml:id="zone_e4071d08-b27d-11e8-b5df-acde48001122" /><zone lrx="493" lry="451" ulx="311" uly="377" xml:id="zone_e4071e02-b27d-11e8-9b62-acde48001122" /><zone lrx="589" lry="451" ulx="521" uly="377" xml:id="zone_e4071ef4-b27d-11e8-8337-acde48001122" /><zone lrx="363" lry="518" ulx="164" uly="453" xml:id="zone_e4071fda-b27d-11e8-9e93-acde48001122" /><zone lrx="619" lry="518" ulx="389" uly="453" xml:id="zone_e40720b6-b27d-11e8-938c-acde48001122" /><zone lrx="204" lry="591" ulx="164" uly="521" xml:id="zone_e4072188-b27d-11e8-b30a-acde48001122" /><zone lrx="400" lry="591" ulx="219" uly="521" xml:id="zone_e407225a-b27d-11e8-8d5a-acde48001122" /><zone lrx="612" lry="591" ulx="445" uly="521" xml:id="zone_e4072336-b27d-11e8-9d28-acde48001122" /><zone lrx="398" lry="667" ulx="168" uly="597" xml:id="zone_e407241c-b27d-11e8-8464-acde48001122" /><zone lrx="490" lry="667" ulx="437" uly="597" xml:id="zone_e4072502-b27d-11e8-a6fa-acde48001122" /><zone lrx="624" lry="805" ulx="163" uly="709" xml:id="zone_e40725fa-b27d-11e8-8223-acde48001122" /><zone lrx="607" lry="906" ulx="151" uly="795" xml:id="zone_e40726e2-b27d-11e8-b31b-acde48001122" /><zone lrx="768" lry="566" ulx="755" uly="539" xml:id="zone_e40727d2-b27d-11e8-8798-acde48001122" /><zone lrx="769" lry="588" ulx="756" uly="570" xml:id="zone_e40728c2-b27d-11e8-96b8-acde48001122" /><zone lrx="770" lry="610" ulx="758" uly="592" xml:id="zone_e40729be-b27d-11e8-b22f-acde48001122" /><zone lrx="770" lry="623" ulx="759" uly="621" xml:id="zone_e4072aac-b27d-11e8-a7a8-acde48001122" /><zone lrx="771" lry="651" ulx="760" uly="649" xml:id="zone_e4072bae-b27d-11e8-bd37-acde48001122" /><zone lrx="775" lry="714" ulx="763" uly="691" xml:id="zone_e4072ca8-b27d-11e8-a896-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_e4071064-b27d-11e8-ab73-acde48001122">ALL</span><span facs="#zone_e4071242-b27d-11e8-9c3e-acde48001122">CANADA</span><span facs="#zone_e407133e-b27d-11e8-9100-acde48001122">your</span><span facs="#zone_e40714a4-b27d-11e8-b6bc-acde48001122">SECURITY</span><span facs="#zone_e407158a-b27d-11e8-807e-acde48001122">KODAK</span><span facs="#zone_e407167a-b27d-11e8-b11d-acde48001122">Color</span><span facs="#zone_e407175e-b27d-11e8-8ebe-acde48001122">Control</span><span facs="#zone_e4071850-b27d-11e8-8ca1-acde48001122">Kodak</span><span facs="#zone_e4071940-b27d-11e8-9838-acde48001122">-</span><span facs="#zone_e4071a2e-b27d-11e8-9130-acde48001122">The</span><span facs="#zone_e4071b28-b27d-11e8-b84f-acde48001122">full</span><span facs="#zone_e4071c24-b27d-11e8-95b5-acde48001122">faith</span><span facs="#zone_e4071d08-b27d-11e8-b5df-acde48001122">and</span><span facs="#zone_e4071e02-b27d-11e8-9b62-acde48001122">Credit</span><span facs="#zone_e4071ef4-b27d-11e8-8337-acde48001122">of</span><span facs="#zone_e4071fda-b27d-11e8-9e93-acde48001122">EVERY</span><span facs="#zone_e40720b6-b27d-11e8-938c-acde48001122">Canadian</span><span facs="#zone_e4072188-b27d-11e8-b30a-acde48001122">is</span><span facs="#zone_e407225a-b27d-11e8-8d5a-acde48001122">behind</span><span facs="#zone_e4072336-b27d-11e8-9d28-acde48001122">YOUR</span><span facs="#zone_e407241c-b27d-11e8-8464-acde48001122">purchase</span><span facs="#zone_e4072502-b27d-11e8-a6fa-acde48001122">of</span><span facs="#zone_e40725fa-b27d-11e8-8223-acde48001122">VICTORY</span><span facs="#zone_e40726e2-b27d-11e8-b31b-acde48001122">BONDS</span><span facs="#zone_e40727d2-b27d-11e8-8798-acde48001122">KODAK</span><span facs="#zone_e40728c2-b27d-11e8-96b8-acde48001122">Gray</span><span facs="#zone_e40729be-b27d-11e8-b22f-acde48001122">Scale</span><span facs="#zone_e4072aac-b27d-11e8-a7a8-acde48001122">C</span><span facs="#zone_e4072bae-b27d-11e8-bd37-acde48001122">M</span><span facs="#zone_e4072ca8-b27d-11e8-a896-acde48001122">Kodak</span></p></body>
+    </text>
+</TEI>

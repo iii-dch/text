@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>女性のみなさん、目を覚ましましょう！祖国があなたを必要としているのです∽278</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33910">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33910</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/19952/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/19952/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/19952/1332748043222.jpg" /><zone lrx="156" lry="784" ulx="11" uly="722" xml:id="zone_83438c10-b27d-11e8-a919-acde48001122" /><zone lrx="322" lry="784" ulx="186" uly="722" xml:id="zone_83439142-b27d-11e8-9c0b-acde48001122" /><zone lrx="345" lry="784" ulx="328" uly="722" xml:id="zone_834392c8-b27d-11e8-b937-acde48001122" /><zone lrx="114" lry="825" ulx="42" uly="784" xml:id="zone_834393e8-b27d-11e8-aa9e-acde48001122" /><zone lrx="226" lry="824" ulx="116" uly="781" xml:id="zone_834394e4-b27d-11e8-85be-acde48001122" /><zone lrx="229" lry="867" ulx="139" uly="816" xml:id="zone_834395de-b27d-11e8-b37f-acde48001122" /><zone lrx="284" lry="867" ulx="240" uly="816" xml:id="zone_834396c6-b27d-11e8-9192-acde48001122" /><zone lrx="308" lry="867" ulx="294" uly="816" xml:id="zone_8343978c-b27d-11e8-8dc8-acde48001122" /><zone lrx="673" lry="889" ulx="618" uly="876" xml:id="zone_8343985e-b27d-11e8-b44b-acde48001122" /><zone lrx="675" lry="888" ulx="673" uly="877" xml:id="zone_8343993a-b27d-11e8-9258-acde48001122" /><zone lrx="677" lry="888" ulx="675" uly="877" xml:id="zone_83439a0c-b27d-11e8-a690-acde48001122" /><zone lrx="694" lry="889" ulx="682" uly="878" xml:id="zone_83439ade-b27d-11e8-8351-acde48001122" /><zone lrx="143" lry="967" ulx="100" uly="916" xml:id="zone_83439ba6-b27d-11e8-b7f7-acde48001122" /><zone lrx="169" lry="967" ulx="150" uly="916" xml:id="zone_83439c78-b27d-11e8-b8c2-acde48001122" /><zone lrx="197" lry="967" ulx="169" uly="916" xml:id="zone_83439d40-b27d-11e8-9919-acde48001122" /><zone lrx="215" lry="967" ulx="197" uly="916" xml:id="zone_83439e08-b27d-11e8-9a93-acde48001122" /><zone lrx="304" lry="967" ulx="221" uly="916" xml:id="zone_83439eda-b27d-11e8-8c1c-acde48001122" /><zone lrx="382" lry="967" ulx="308" uly="916" xml:id="zone_83439f9a-b27d-11e8-bf38-acde48001122" /><zone lrx="400" lry="967" ulx="386" uly="916" xml:id="zone_8343a05e-b27d-11e8-8a94-acde48001122" /><zone lrx="444" lry="967" ulx="417" uly="916" xml:id="zone_8343a134-b27d-11e8-b49d-acde48001122" /><zone lrx="486" lry="967" ulx="452" uly="916" xml:id="zone_8343a1f8-b27d-11e8-8aa7-acde48001122" /><zone lrx="545" lry="967" ulx="490" uly="916" xml:id="zone_8343a2d8-b27d-11e8-91c3-acde48001122" /><zone lrx="628" lry="967" ulx="556" uly="916" xml:id="zone_8343a3c6-b27d-11e8-a9f6-acde48001122" /><zone lrx="151" lry="997" ulx="115" uly="963" xml:id="zone_8343a706-b27d-11e8-b7d2-acde48001122" /><zone lrx="184" lry="996" ulx="160" uly="962" xml:id="zone_8343a812-b27d-11e8-95b4-acde48001122" /><zone lrx="240" lry="996" ulx="191" uly="962" xml:id="zone_8343a900-b27d-11e8-bc82-acde48001122" /><zone lrx="258" lry="996" ulx="249" uly="962" xml:id="zone_8343a9e8-b27d-11e8-936b-acde48001122" /><zone lrx="302" lry="995" ulx="265" uly="961" xml:id="zone_8343aac2-b27d-11e8-99f2-acde48001122" /><zone lrx="415" lry="995" ulx="309" uly="960" xml:id="zone_8343abb4-b27d-11e8-add3-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_83438c10-b27d-11e8-a919-acde48001122">Women</span><span facs="#zone_83439142-b27d-11e8-9c0b-acde48001122">Awake</span><span facs="#zone_834392c8-b27d-11e8-b937-acde48001122">!</span><span facs="#zone_834393e8-b27d-11e8-aa9e-acde48001122">Your</span><span facs="#zone_834394e4-b27d-11e8-85be-acde48001122">Country</span><span facs="#zone_834395de-b27d-11e8-b37f-acde48001122">Needs</span><span facs="#zone_834396c6-b27d-11e8-9192-acde48001122">you</span><span facs="#zone_8343978c-b27d-11e8-8dc8-acde48001122">.</span><span facs="#zone_8343985e-b27d-11e8-b44b-acde48001122">Hazeltoberl</span><span facs="#zone_8343993a-b27d-11e8-9258-acde48001122">'</span><span facs="#zone_83439a0c-b27d-11e8-a690-acde48001122">s</span><span facs="#zone_83439ade-b27d-11e8-8351-acde48001122">1916</span><span facs="#zone_83439ba6-b27d-11e8-b7f7-acde48001122">Searn</span><span facs="#zone_83439c78-b27d-11e8-b8c2-acde48001122">to</span><span facs="#zone_83439d40-b27d-11e8-9919-acde48001122">be</span><span facs="#zone_83439e08-b27d-11e8-9a93-acde48001122">of</span><span facs="#zone_83439eda-b27d-11e8-8c1c-acde48001122">National</span><span facs="#zone_83439f9a-b27d-11e8-bf38-acde48001122">Service</span><span facs="#zone_8343a05e-b27d-11e8-8a94-acde48001122">-</span><span facs="#zone_8343a134-b27d-11e8-b49d-acde48001122">Tom</span><span facs="#zone_8343a1f8-b27d-11e8-8aa7-acde48001122">the</span><span facs="#zone_8343a2d8-b27d-11e8-91c3-acde48001122">Navy</span><span facs="#zone_8343a3c6-b27d-11e8-a9f6-acde48001122">League</span><span facs="#zone_8343a706-b27d-11e8-b7d2-acde48001122">Help</span><span facs="#zone_8343a812-b27d-11e8-95b4-acde48001122">the</span><span facs="#zone_8343a900-b27d-11e8-bc82-acde48001122">Navy</span><span facs="#zone_8343a9e8-b27d-11e8-936b-acde48001122">-</span><span facs="#zone_8343aac2-b27d-11e8-99f2-acde48001122">focal</span><span facs="#zone_8343abb4-b27d-11e8-add3-acde48001122">Headquarters</span></p></body>
+    </text>
+</TEI>

@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>すべての戦士の後ろには女性労働者∽340</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33579">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33579</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/26745/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/26745/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/26745/1332747890937.jpg" /><zone lrx="129" lry="149" ulx="38" uly="114" xml:id="zone_d022f75c-b27d-11e8-a620-acde48001122" /><zone lrx="541" lry="589" ulx="487" uly="554" xml:id="zone_d022faac-b27d-11e8-a431-acde48001122" /><zone lrx="598" lry="625" ulx="429" uly="594" xml:id="zone_d022fbf8-b27d-11e8-9c5c-acde48001122" /><zone lrx="593" lry="665" ulx="432" uly="632" xml:id="zone_d022fd10-b27d-11e8-98f7-acde48001122" /><zone lrx="598" lry="727" ulx="430" uly="680" xml:id="zone_d022fe08-b27d-11e8-b964-acde48001122" /><zone lrx="602" lry="766" ulx="430" uly="734" xml:id="zone_d022fee4-b27d-11e8-9e94-acde48001122" /><zone lrx="227" lry="699" ulx="203" uly="687" xml:id="zone_d022ffd4-b27d-11e8-9d59-acde48001122" /><zone lrx="235" lry="714" ulx="202" uly="700" xml:id="zone_d02300b8-b27d-11e8-8700-acde48001122" /><zone lrx="207" lry="822" ulx="37" uly="755" xml:id="zone_d02301be-b27d-11e8-b725-acde48001122" /><zone lrx="291" lry="829" ulx="272" uly="779" xml:id="zone_d02302ae-b27d-11e8-ac2c-acde48001122" /><zone lrx="545" lry="796" ulx="481" uly="781" xml:id="zone_d023038a-b27d-11e8-bf6e-acde48001122" /><zone lrx="547" lry="814" ulx="478" uly="798" xml:id="zone_d023047a-b27d-11e8-a062-acde48001122" /><zone lrx="542" lry="834" ulx="480" uly="816" xml:id="zone_d023056c-b27d-11e8-b138-acde48001122" /><zone lrx="547" lry="852" ulx="481" uly="837" xml:id="zone_d0230664-b27d-11e8-96df-acde48001122" /><zone lrx="141" lry="834" ulx="92" uly="810" xml:id="zone_d023075c-b27d-11e8-a913-acde48001122" /><zone lrx="124" lry="875" ulx="112" uly="835" xml:id="zone_d0230858-b27d-11e8-9402-acde48001122" /><zone lrx="63" lry="874" ulx="51" uly="834" xml:id="zone_d0230952-b27d-11e8-b433-acde48001122" /><zone lrx="190" lry="877" ulx="178" uly="837" xml:id="zone_d0230a42-b27d-11e8-aa26-acde48001122" /><zone lrx="185" lry="948" ulx="53" uly="876" xml:id="zone_d0230b3a-b27d-11e8-a051-acde48001122" /><zone lrx="288" lry="948" ulx="206" uly="876" xml:id="zone_d0230c1a-b27d-11e8-85b9-acde48001122" /><zone lrx="588" lry="948" ulx="288" uly="876" xml:id="zone_d0230d12-b27d-11e8-a5d2-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_d022f75c-b27d-11e8-a620-acde48001122">TE</span><span facs="#zone_d022faac-b27d-11e8-a431-acde48001122">For</span><span facs="#zone_d022fbf8-b27d-11e8-9c5c-acde48001122">EVERY</span><span facs="#zone_d022fd10-b27d-11e8-98f7-acde48001122">FIGHTER</span><span facs="#zone_d022fe08-b27d-11e8-b964-acde48001122">WOMAN</span><span facs="#zone_d022fee4-b27d-11e8-9e94-acde48001122">WORKER</span><span facs="#zone_d022ffd4-b27d-11e8-9d59-acde48001122">wart</span><span facs="#zone_d02300b8-b27d-11e8-8700-acde48001122">TOER</span><span facs="#zone_d02301be-b27d-11e8-b725-acde48001122">CARE</span><span facs="#zone_d02302ae-b27d-11e8-ac2c-acde48001122">A</span><span facs="#zone_d023038a-b27d-11e8-bf6e-acde48001122">UNITED</span><span facs="#zone_d023047a-b27d-11e8-a062-acde48001122">WAR</span><span facs="#zone_d023056c-b27d-11e8-b138-acde48001122">WORK</span><span facs="#zone_d0230664-b27d-11e8-96df-acde48001122">CAMPAIGN</span><span facs="#zone_d023075c-b27d-11e8-a913-acde48001122">for</span><span facs="#zone_d0230858-b27d-11e8-9402-acde48001122">E</span><span facs="#zone_d0230952-b27d-11e8-b433-acde48001122">H</span><span facs="#zone_d0230a42-b27d-11e8-aa26-acde48001122">R</span><span facs="#zone_d0230b3a-b27d-11e8-a051-acde48001122">through</span><span facs="#zone_d0230c1a-b27d-11e8-85b9-acde48001122">The</span><span facs="#zone_d0230d12-b27d-11e8-a5d2-acde48001122">YWCA</span></p></body>
+    </text>
+</TEI>

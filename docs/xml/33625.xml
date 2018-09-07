@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>警告！∽600</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33625">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33625</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/19868/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/19868/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/19868/1332747912558.jpg" /><zone lrx="585" lry="149" ulx="40" uly="1" xml:id="zone_81dd244c-b27d-11e8-8b81-acde48001122" /><zone lrx="660" lry="149" ulx="617" uly="1" xml:id="zone_81dd2f5c-b27d-11e8-873c-acde48001122" /><zone lrx="383" lry="452" ulx="328" uly="361" xml:id="zone_81dd32e2-b27d-11e8-8cef-acde48001122" /><zone lrx="261" lry="893" ulx="33" uly="856" xml:id="zone_81dd3592-b27d-11e8-b686-acde48001122" /><zone lrx="378" lry="891" ulx="293" uly="855" xml:id="zone_81dd37e8-b27d-11e8-a090-acde48001122" /><zone lrx="640" lry="891" ulx="402" uly="853" xml:id="zone_81dd3a2e-b27d-11e8-931c-acde48001122" /><zone lrx="375" lry="933" ulx="33" uly="898" xml:id="zone_81dd3c74-b27d-11e8-81a9-acde48001122" /><zone lrx="432" lry="933" ulx="400" uly="898" xml:id="zone_81dd3ea2-b27d-11e8-a657-acde48001122" /><zone lrx="530" lry="933" ulx="460" uly="898" xml:id="zone_81dd40da-b27d-11e8-9d02-acde48001122" /><zone lrx="638" lry="933" ulx="553" uly="898" xml:id="zone_81dd4318-b27d-11e8-8b7b-acde48001122" /><zone lrx="260" lry="978" ulx="31" uly="936" xml:id="zone_81dd4552-b27d-11e8-9f28-acde48001122" /><zone lrx="320" lry="978" ulx="290" uly="936" xml:id="zone_81dd4776-b27d-11e8-86ee-acde48001122" /><zone lrx="475" lry="978" ulx="361" uly="936" xml:id="zone_81dd49ba-b27d-11e8-a382-acde48001122" /><zone lrx="637" lry="978" ulx="500" uly="936" xml:id="zone_81dd4bd8-b27d-11e8-a75a-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_81dd244c-b27d-11e8-8b81-acde48001122">Warning</span><span facs="#zone_81dd2f5c-b27d-11e8-873c-acde48001122">!</span><span facs="#zone_81dd32e2-b27d-11e8-8cef-acde48001122">343</span><span facs="#zone_81dd3592-b27d-11e8-b686-acde48001122">CONSIDER</span><span facs="#zone_81dd37e8-b27d-11e8-a090-acde48001122">THE</span><span facs="#zone_81dd3a2e-b27d-11e8-931c-acde48001122">POSSIBLE</span><span facs="#zone_81dd3c74-b27d-11e8-81a9-acde48001122">CONSEQUENCES</span><span facs="#zone_81dd3ea2-b27d-11e8-a657-acde48001122">IF</span><span facs="#zone_81dd40da-b27d-11e8-9d02-acde48001122">YOU</span><span facs="#zone_81dd4318-b27d-11e8-8b7b-acde48001122">ARE</span><span facs="#zone_81dd4552-b27d-11e8-9f28-acde48001122">CARELESS</span><span facs="#zone_81dd4776-b27d-11e8-86ee-acde48001122">IN</span><span facs="#zone_81dd49ba-b27d-11e8-a382-acde48001122">YOUR</span><span facs="#zone_81dd4bd8-b27d-11e8-a75a-acde48001122">WORK</span></p></body>
+    </text>
+</TEI>

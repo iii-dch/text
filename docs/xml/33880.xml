@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>あなたの子どもを、独裁と貧困から救いましょう∽369</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33880">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33880</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/23385/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/23385/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/23385/1332748029645.jpg" /><zone lrx="204" lry="128" ulx="39" uly="67" xml:id="zone_a8c9145a-b27d-11e8-af39-acde48001122" /><zone lrx="406" lry="124" ulx="240" uly="62" xml:id="zone_a8c9189c-b27d-11e8-8f00-acde48001122" /><zone lrx="609" lry="121" ulx="423" uly="58" xml:id="zone_a8c91a24-b27d-11e8-8c0c-acde48001122" /><zone lrx="181" lry="167" ulx="36" uly="129" xml:id="zone_a8c91b6c-b27d-11e8-9f44-acde48001122" /><zone lrx="390" lry="165" ulx="232" uly="126" xml:id="zone_a8c91ca2-b27d-11e8-9f22-acde48001122" /><zone lrx="624" lry="163" ulx="404" uly="125" xml:id="zone_a8c91de2-b27d-11e8-92d2-acde48001122" /><zone lrx="210" lry="207" ulx="78" uly="170" xml:id="zone_a8c91f0c-b27d-11e8-a10b-acde48001122" /><zone lrx="324" lry="205" ulx="242" uly="169" xml:id="zone_a8c92030-b27d-11e8-a0f8-acde48001122" /><zone lrx="356" lry="203" ulx="347" uly="169" xml:id="zone_a8c92166-b27d-11e8-a1e3-acde48001122" /><zone lrx="466" lry="203" ulx="378" uly="167" xml:id="zone_a8c92292-b27d-11e8-afd1-acde48001122" /><zone lrx="567" lry="201" ulx="479" uly="166" xml:id="zone_a8c923c0-b27d-11e8-846e-acde48001122" /><zone lrx="325" lry="736" ulx="107" uly="659" xml:id="zone_a8c924de-b27d-11e8-9546-acde48001122" /><zone lrx="223" lry="853" ulx="38" uly="757" xml:id="zone_a8c9260c-b27d-11e8-a069-acde48001122" /><zone lrx="623" lry="861" ulx="272" uly="763" xml:id="zone_a8c92738-b27d-11e8-9141-acde48001122" /><zone lrx="397" lry="960" ulx="37" uly="854" xml:id="zone_a8c92850-b27d-11e8-8aea-acde48001122" /><zone lrx="592" lry="942" ulx="495" uly="845" xml:id="zone_a8c9297a-b27d-11e8-99c4-acde48001122" /><zone lrx="598" lry="939" ulx="568" uly="846" xml:id="zone_a8c92aa8-b27d-11e8-bf6e-acde48001122" /><zone lrx="616" lry="938" ulx="586" uly="845" xml:id="zone_a8c92bd4-b27d-11e8-92ff-acde48001122" /><zone lrx="626" lry="938" ulx="596" uly="845" xml:id="zone_a8c92d00-b27d-11e8-90ce-acde48001122" /><zone lrx="533" lry="916" ulx="515" uly="908" xml:id="zone_a8c92e18-b27d-11e8-9c1a-acde48001122" /><zone lrx="573" lry="916" ulx="538" uly="907" xml:id="zone_a8c92f46-b27d-11e8-9553-acde48001122" /><zone lrx="606" lry="915" ulx="575" uly="907" xml:id="zone_a8c93064-b27d-11e8-b136-acde48001122" /><zone lrx="558" lry="925" ulx="530" uly="917" xml:id="zone_a8c93192-b27d-11e8-a70e-acde48001122" /><zone lrx="570" lry="925" ulx="562" uly="917" xml:id="zone_a8c932b4-b27d-11e8-8720-acde48001122" /><zone lrx="591" lry="925" ulx="576" uly="917" xml:id="zone_a8c933e2-b27d-11e8-bc4a-acde48001122" /><zone lrx="560" lry="934" ulx="521" uly="927" xml:id="zone_a8c9350c-b27d-11e8-8c2d-acde48001122" /><zone lrx="600" lry="933" ulx="566" uly="926" xml:id="zone_a8c93636-b27d-11e8-94bb-acde48001122" /><zone lrx="596" lry="946" ulx="525" uly="935" xml:id="zone_a8c9375a-b27d-11e8-946b-acde48001122" /><zone lrx="198" lry="978" ulx="135" uly="959" xml:id="zone_a8c9387e-b27d-11e8-ab7c-acde48001122" /><zone lrx="276" lry="978" ulx="211" uly="959" xml:id="zone_a8c93a18-b27d-11e8-8012-acde48001122" /><zone lrx="383" lry="978" ulx="290" uly="959" xml:id="zone_a8c93b4c-b27d-11e8-b269-acde48001122" /><zone lrx="517" lry="978" ulx="393" uly="959" xml:id="zone_a8c93d70-b27d-11e8-9cf5-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_a8c9145a-b27d-11e8-af39-acde48001122">Save</span><span facs="#zone_a8c9189c-b27d-11e8-8f00-acde48001122">your</span><span facs="#zone_a8c91a24-b27d-11e8-8c0c-acde48001122">Child</span><span facs="#zone_a8c91b6c-b27d-11e8-9f44-acde48001122">FROM</span><span facs="#zone_a8c91ca2-b27d-11e8-9f22-acde48001122">AUTO</span><span facs="#zone_a8c91de2-b27d-11e8-92d2-acde48001122">CRACY</span><span facs="#zone_a8c91f0c-b27d-11e8-a10b-acde48001122">AND</span><span facs="#zone_a8c92030-b27d-11e8-a0f8-acde48001122">PO</span><span facs="#zone_a8c92166-b27d-11e8-a1e3-acde48001122">V</span><span facs="#zone_a8c92292-b27d-11e8-afd1-acde48001122">FR</span><span facs="#zone_a8c923c0-b27d-11e8-846e-acde48001122">TY</span><span facs="#zone_a8c924de-b27d-11e8-9546-acde48001122">BUY</span><span facs="#zone_a8c9260c-b27d-11e8-a069-acde48001122">War</span><span facs="#zone_a8c92738-b27d-11e8-9141-acde48001122">Savings</span><span facs="#zone_a8c92850-b27d-11e8-8aea-acde48001122">Stamps</span><span facs="#zone_a8c9297a-b27d-11e8-99c4-acde48001122">°WS</span><span facs="#zone_a8c92aa8-b27d-11e8-bf6e-acde48001122">.</span><span facs="#zone_a8c92bd4-b27d-11e8-92ff-acde48001122">S</span><span facs="#zone_a8c92d00-b27d-11e8-90ce-acde48001122">.</span><span facs="#zone_a8c92e18-b27d-11e8-9c1a-acde48001122">WAR</span><span facs="#zone_a8c92f46-b27d-11e8-9553-acde48001122">SAVINGS</span><span facs="#zone_a8c93064-b27d-11e8-b136-acde48001122">STAMPS</span><span facs="#zone_a8c93192-b27d-11e8-a70e-acde48001122">ISSUED</span><span facs="#zone_a8c932b4-b27d-11e8-8720-acde48001122">BY</span><span facs="#zone_a8c933e2-b27d-11e8-bc4a-acde48001122">THE</span><span facs="#zone_a8c9350c-b27d-11e8-8c2d-acde48001122">UNITED</span><span facs="#zone_a8c93636-b27d-11e8-94bb-acde48001122">STATES</span><span facs="#zone_a8c9375a-b27d-11e8-946b-acde48001122">GOVERNMENT</span><span facs="#zone_a8c9387e-b27d-11e8-ab7c-acde48001122">UNITED</span><span facs="#zone_a8c93a18-b27d-11e8-8012-acde48001122">STATES</span><span facs="#zone_a8c93b4c-b27d-11e8-b269-acde48001122">TREASURY</span><span facs="#zone_a8c93d70-b27d-11e8-9cf5-acde48001122">DEPARTMENT</span></p></body>
+    </text>
+</TEI>

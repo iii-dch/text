@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>戦時公債に申し込んで、我が国の産物の販売を促進しよう∽578</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33707">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33707</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/20877/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/20877/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/20877/1332747949460.jpg" /><zone lrx="325" lry="822" ulx="151" uly="782" xml:id="zone_8c480ca2-b27d-11e8-bf81-acde48001122" /><zone lrx="363" lry="822" ulx="334" uly="782" xml:id="zone_8c480fb6-b27d-11e8-ad94-acde48001122" /><zone lrx="468" lry="822" ulx="377" uly="782" xml:id="zone_8c4811a2-b27d-11e8-81c8-acde48001122" /><zone lrx="117" lry="862" ulx="81" uly="822" xml:id="zone_8c48138a-b27d-11e8-bbfb-acde48001122" /><zone lrx="184" lry="862" ulx="126" uly="822" xml:id="zone_8c481542-b27d-11e8-991a-acde48001122" /><zone lrx="311" lry="862" ulx="193" uly="822" xml:id="zone_8c4816f0-b27d-11e8-a602-acde48001122" /><zone lrx="354" lry="862" ulx="324" uly="822" xml:id="zone_8c48188a-b27d-11e8-af08-acde48001122" /><zone lrx="557" lry="862" ulx="365" uly="822" xml:id="zone_8c481aa4-b27d-11e8-aad9-acde48001122" /><zone lrx="80" lry="944" ulx="58" uly="866" xml:id="zone_8c481c4a-b27d-11e8-a696-acde48001122" /><zone lrx="96" lry="944" ulx="74" uly="866" xml:id="zone_8c481df8-b27d-11e8-976f-acde48001122" /><zone lrx="311" lry="944" ulx="98" uly="866" xml:id="zone_8c481f9c-b27d-11e8-b818-acde48001122" /><zone lrx="352" lry="944" ulx="323" uly="866" xml:id="zone_8c482148-b27d-11e8-960a-acde48001122" /><zone lrx="575" lry="944" ulx="356" uly="866" xml:id="zone_8c4822e4-b27d-11e8-a84f-acde48001122" /><zone lrx="22" lry="987" ulx="20" uly="977" xml:id="zone_8c482492-b27d-11e8-bf7b-acde48001122" /><zone lrx="27" lry="987" ulx="25" uly="977" xml:id="zone_8c482636-b27d-11e8-9a38-acde48001122" /><zone lrx="30" lry="987" ulx="28" uly="977" xml:id="zone_8c4827f8-b27d-11e8-a258-acde48001122" /><zone lrx="33" lry="987" ulx="31" uly="977" xml:id="zone_8c4829c6-b27d-11e8-a3f7-acde48001122" /><zone lrx="40" lry="987" ulx="35" uly="977" xml:id="zone_8c482b86-b27d-11e8-9003-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_8c480ca2-b27d-11e8-bf81-acde48001122">Facilitons</span><span facs="#zone_8c480fb6-b27d-11e8-ad94-acde48001122">la</span><span facs="#zone_8c4811a2-b27d-11e8-81c8-acde48001122">vente</span><span facs="#zone_8c48138a-b27d-11e8-bbfb-acde48001122">de</span><span facs="#zone_8c481542-b27d-11e8-991a-acde48001122">nos</span><span facs="#zone_8c4816f0-b27d-11e8-a602-acde48001122">Produits</span><span facs="#zone_8c48188a-b27d-11e8-af08-acde48001122">en</span><span facs="#zone_8c481aa4-b27d-11e8-aad9-acde48001122">Souscrivantà</span><span facs="#zone_8c481c4a-b27d-11e8-a696-acde48001122">L</span><span facs="#zone_8c481df8-b27d-11e8-976f-acde48001122">'</span><span facs="#zone_8c481f9c-b27d-11e8-b818-acde48001122">EMPRUNT</span><span facs="#zone_8c482148-b27d-11e8-960a-acde48001122">DE</span><span facs="#zone_8c4822e4-b27d-11e8-a84f-acde48001122">VICTOIRE</span><span facs="#zone_8c482492-b27d-11e8-bf7b-acde48001122">W</span><span facs="#zone_8c482636-b27d-11e8-9a38-acde48001122">.</span><span facs="#zone_8c4827f8-b27d-11e8-a258-acde48001122">P</span><span facs="#zone_8c4829c6-b27d-11e8-a3f7-acde48001122">.</span><span facs="#zone_8c482b86-b27d-11e8-9003-acde48001122">11</span></p></body>
+    </text>
+</TEI>

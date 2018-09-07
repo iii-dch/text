@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>エリンによるアメリカへの訴え∽143</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33881">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33881</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/22875/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/22875/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/22875/1332748030055.jpg" /><zone lrx="115" lry="84" ulx="36" uly="24" xml:id="zone_a2ef891a-b27d-11e8-bda6-acde48001122" /><zone lrx="140" lry="82" ulx="123" uly="24" xml:id="zone_a2ef8b06-b27d-11e8-9524-acde48001122" /><zone lrx="152" lry="82" ulx="135" uly="24" xml:id="zone_a2ef8c26-b27d-11e8-8239-acde48001122" /><zone lrx="312" lry="82" ulx="168" uly="21" xml:id="zone_a2ef8d2c-b27d-11e8-bc6f-acde48001122" /><zone lrx="371" lry="80" ulx="328" uly="20" xml:id="zone_a2ef8e26-b27d-11e8-9602-acde48001122" /><zone lrx="589" lry="79" ulx="402" uly="17" xml:id="zone_a2ef8f0a-b27d-11e8-a295-acde48001122" /><zone lrx="152" lry="136" ulx="48" uly="74" xml:id="zone_a2ef8fee-b27d-11e8-8dba-acde48001122" /><zone lrx="246" lry="136" ulx="177" uly="74" xml:id="zone_a2ef90d8-b27d-11e8-b85e-acde48001122" /><zone lrx="382" lry="136" ulx="267" uly="74" xml:id="zone_a2ef91c8-b27d-11e8-9e41-acde48001122" /><zone lrx="312" lry="192" ulx="92" uly="134" xml:id="zone_a2ef92a2-b27d-11e8-a094-acde48001122" /><zone lrx="385" lry="956" ulx="32" uly="916" xml:id="zone_a2ef9388-b27d-11e8-87ea-acde48001122" /><zone lrx="589" lry="956" ulx="426" uly="916" xml:id="zone_a2ef9478-b27d-11e8-934e-acde48001122" /><zone lrx="83" lry="995" ulx="37" uly="955" xml:id="zone_a2ef955c-b27d-11e8-8747-acde48001122" /><zone lrx="253" lry="995" ulx="97" uly="955" xml:id="zone_a2ef9646-b27d-11e8-9993-acde48001122" /><zone lrx="325" lry="995" ulx="268" uly="955" xml:id="zone_a2ef9728-b27d-11e8-9fae-acde48001122" /><zone lrx="344" lry="995" ulx="333" uly="955" xml:id="zone_a2ef9810-b27d-11e8-8f2a-acde48001122" /><zone lrx="413" lry="995" ulx="344" uly="955" xml:id="zone_a2ef98f6-b27d-11e8-ad00-acde48001122" /><zone lrx="511" lry="995" ulx="432" uly="955" xml:id="zone_a2ef99e6-b27d-11e8-a772-acde48001122" /><zone lrx="597" lry="995" ulx="528" uly="955" xml:id="zone_a2ef9ac2-b27d-11e8-a741-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_a2ef891a-b27d-11e8-bda6-acde48001122">ERIN</span><span facs="#zone_a2ef8b06-b27d-11e8-9524-acde48001122">'</span><span facs="#zone_a2ef8c26-b27d-11e8-8239-acde48001122">S</span><span facs="#zone_a2ef8d2c-b27d-11e8-bc6f-acde48001122">APPEAL</span><span facs="#zone_a2ef8e26-b27d-11e8-9602-acde48001122">TO</span><span facs="#zone_a2ef8f0a-b27d-11e8-a295-acde48001122">AMERICA</span><span facs="#zone_a2ef8fee-b27d-11e8-8dba-acde48001122">HELP</span><span facs="#zone_a2ef90d8-b27d-11e8-b85e-acde48001122">MY</span><span facs="#zone_a2ef91c8-b27d-11e8-9e41-acde48001122">IRISH</span><span facs="#zone_a2ef92a2-b27d-11e8-a094-acde48001122">DISABLED</span><span facs="#zone_a2ef9388-b27d-11e8-87ea-acde48001122">SHAMROCK</span><span facs="#zone_a2ef9478-b27d-11e8-934e-acde48001122">FUND</span><span facs="#zone_a2ef955c-b27d-11e8-8747-acde48001122">185</span><span facs="#zone_a2ef9646-b27d-11e8-9993-acde48001122">MADISON</span><span facs="#zone_a2ef9728-b27d-11e8-9fae-acde48001122">AVE</span><span facs="#zone_a2ef9810-b27d-11e8-8f2a-acde48001122">.</span><span facs="#zone_a2ef98f6-b27d-11e8-ad00-acde48001122">NEW</span><span facs="#zone_a2ef99e6-b27d-11e8-a772-acde48001122">YORK</span><span facs="#zone_a2ef9ac2-b27d-11e8-a741-acde48001122">CITY</span></p></body>
+    </text>
+</TEI>

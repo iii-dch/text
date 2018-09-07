@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>セルビアはあなたの助けを必要としている∽357</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33928">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33928</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/26298/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/26298/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/26298/1332748051725.jpg" /><zone lrx="618" lry="801" ulx="561" uly="754" xml:id="zone_cc2c97d2-b27d-11e8-9f7f-acde48001122" /><zone lrx="688" lry="824" ulx="611" uly="772" xml:id="zone_cc2c9be2-b27d-11e8-8cd4-acde48001122" /><zone lrx="439" lry="891" ulx="196" uly="811" xml:id="zone_cc2c9d54-b27d-11e8-b875-acde48001122" /><zone lrx="246" lry="984" ulx="28" uly="907" xml:id="zone_cc2c9e94-b27d-11e8-86e9-acde48001122" /><zone lrx="440" lry="984" ulx="276" uly="907" xml:id="zone_cc2c9fd4-b27d-11e8-bbd1-acde48001122" /><zone lrx="628" lry="984" ulx="460" uly="907" xml:id="zone_cc2ca100-b27d-11e8-b0c9-acde48001122" /><zone lrx="646" lry="984" ulx="624" uly="907" xml:id="zone_cc2ca22c-b27d-11e8-9387-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_cc2c97d2-b27d-11e8-9f7f-acde48001122">Malvina</span><span facs="#zone_cc2c9be2-b27d-11e8-8cd4-acde48001122">HTMAN</span><span facs="#zone_cc2c9d54-b27d-11e8-b875-acde48001122">SERBIA</span><span facs="#zone_cc2c9e94-b27d-11e8-86e9-acde48001122">NEEDS</span><span facs="#zone_cc2c9fd4-b27d-11e8-bbd1-acde48001122">YOUR</span><span facs="#zone_cc2ca100-b27d-11e8-b0c9-acde48001122">HELP</span><span facs="#zone_cc2ca22c-b27d-11e8-9387-acde48001122">.</span></p></body>
+    </text>
+</TEI>

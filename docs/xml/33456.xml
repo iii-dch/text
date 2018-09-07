@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>兵士たちの戦闘に力を貸そう∽25</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33456">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33456</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/21223/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/21223/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/21223/1332747833926.jpg" /><zone lrx="496" lry="186" ulx="70" uly="45" xml:id="zone_90305d66-b27d-11e8-9181-acde48001122" /><zone lrx="254" lry="306" ulx="154" uly="189" xml:id="zone_90305ffa-b27d-11e8-9e40-acde48001122" /><zone lrx="410" lry="306" ulx="275" uly="189" xml:id="zone_90306134-b27d-11e8-8f8b-acde48001122" /><zone lrx="583" lry="306" ulx="434" uly="189" xml:id="zone_90306240-b27d-11e8-8b01-acde48001122" /><zone lrx="648" lry="457" ulx="322" uly="294" xml:id="zone_90306342-b27d-11e8-bb96-acde48001122" /><zone lrx="402" lry="553" ulx="206" uly="428" xml:id="zone_90306448-b27d-11e8-887e-acde48001122" /><zone lrx="348" lry="718" ulx="47" uly="528" xml:id="zone_90306542-b27d-11e8-bbf1-acde48001122" /><zone lrx="662" lry="718" ulx="383" uly="528" xml:id="zone_9030663a-b27d-11e8-ad91-acde48001122" /><zone lrx="564" lry="950" ulx="106" uly="801" xml:id="zone_90306736-b27d-11e8-9551-acde48001122" /><zone lrx="261" lry="807" ulx="197" uly="720" xml:id="zone_90306826-b27d-11e8-b268-acde48001122" /><zone lrx="517" lry="807" ulx="304" uly="720" xml:id="zone_9030693e-b27d-11e8-9ea4-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_90305d66-b27d-11e8-9181-acde48001122">Lend</span><span facs="#zone_90305ffa-b27d-11e8-9e40-acde48001122">the</span><span facs="#zone_90306134-b27d-11e8-8f8b-acde48001122">way</span><span facs="#zone_90306240-b27d-11e8-8b01-acde48001122">they</span><span facs="#zone_90306342-b27d-11e8-bb96-acde48001122">Fight</span><span facs="#zone_90306448-b27d-11e8-887e-acde48001122">Buy</span><span facs="#zone_90306542-b27d-11e8-bbf1-acde48001122">Liberty</span><span facs="#zone_9030663a-b27d-11e8-ad91-acde48001122">Bonds</span><span facs="#zone_90306736-b27d-11e8-9551-acde48001122">UTMOST</span><span facs="#zone_90306826-b27d-11e8-b268-acde48001122">to</span><span facs="#zone_9030693e-b27d-11e8-9ea4-acde48001122">your</span></p></body>
+    </text>
+</TEI>

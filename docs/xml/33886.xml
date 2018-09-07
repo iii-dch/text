@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>祖国の旗を守ろう∽207</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33886">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33886</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/21544/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/21544/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/21544/1332748032210.jpg" /><zone lrx="512" lry="164" ulx="506" uly="12" xml:id="zone_92867c9e-b27d-11e8-9f3f-acde48001122" /><zone lrx="465" lry="110" ulx="351" uly="91" xml:id="zone_92867e08-b27d-11e8-b27b-acde48001122" /><zone lrx="473" lry="129" ulx="359" uly="112" xml:id="zone_92867ea6-b27d-11e8-9330-acde48001122" /><zone lrx="367" lry="147" ulx="363" uly="130" xml:id="zone_92867f2c-b27d-11e8-b6dd-acde48001122" /><zone lrx="382" lry="147" ulx="378" uly="130" xml:id="zone_92867fac-b27d-11e8-ad39-acde48001122" /><zone lrx="395" lry="148" ulx="391" uly="131" xml:id="zone_9286802e-b27d-11e8-8638-acde48001122" /><zone lrx="411" lry="148" ulx="407" uly="131" xml:id="zone_928680a6-b27d-11e8-ba18-acde48001122" /><zone lrx="425" lry="148" ulx="421" uly="131" xml:id="zone_9286a518-b27d-11e8-8714-acde48001122" /><zone lrx="442" lry="149" ulx="438" uly="132" xml:id="zone_9286a734-b27d-11e8-bbe7-acde48001122" /><zone lrx="454" lry="150" ulx="450" uly="133" xml:id="zone_9286a824-b27d-11e8-94c0-acde48001122" /><zone lrx="469" lry="150" ulx="465" uly="133" xml:id="zone_9286a8ec-b27d-11e8-b6e6-acde48001122" /><zone lrx="141" lry="349" ulx="136" uly="335" xml:id="zone_9286a9a2-b27d-11e8-b4dd-acde48001122" /><zone lrx="149" lry="350" ulx="144" uly="336" xml:id="zone_9286aa68-b27d-11e8-98e4-acde48001122" /><zone lrx="155" lry="351" ulx="150" uly="337" xml:id="zone_9286ab26-b27d-11e8-b8cc-acde48001122" /><zone lrx="165" lry="352" ulx="160" uly="338" xml:id="zone_9286abe4-b27d-11e8-bc7a-acde48001122" /><zone lrx="171" lry="352" ulx="166" uly="338" xml:id="zone_9286ac9a-b27d-11e8-bc39-acde48001122" /><zone lrx="177" lry="353" ulx="172" uly="339" xml:id="zone_9286ad4c-b27d-11e8-ae80-acde48001122" /><zone lrx="210" lry="358" ulx="177" uly="339" xml:id="zone_9286ae0a-b27d-11e8-aae9-acde48001122" /><zone lrx="868" lry="357" ulx="815" uly="341" xml:id="zone_9286aebe-b27d-11e8-a37b-acde48001122" /><zone lrx="692" lry="365" ulx="314" uly="299" xml:id="zone_9286af74-b27d-11e8-8430-acde48001122" /><zone lrx="608" lry="431" ulx="397" uly="371" xml:id="zone_9286b024-b27d-11e8-ac87-acde48001122" /><zone lrx="627" lry="512" ulx="360" uly="440" xml:id="zone_9286b0da-b27d-11e8-a1e3-acde48001122" /><zone lrx="434" lry="597" ulx="325" uly="520" xml:id="zone_9286b18c-b27d-11e8-b575-acde48001122" /><zone lrx="596" lry="598" ulx="447" uly="521" xml:id="zone_9286b24c-b27d-11e8-95b2-acde48001122" /><zone lrx="677" lry="598" ulx="612" uly="522" xml:id="zone_9286b2f6-b27d-11e8-8cbc-acde48001122" /><zone lrx="151" lry="659" ulx="28" uly="612" xml:id="zone_9286b3be-b27d-11e8-9174-acde48001122" /><zone lrx="423" lry="661" ulx="169" uly="613" xml:id="zone_9286b474-b27d-11e8-aff1-acde48001122" /><zone lrx="609" lry="662" ulx="444" uly="615" xml:id="zone_9286b51c-b27d-11e8-8735-acde48001122" /><zone lrx="679" lry="662" ulx="629" uly="616" xml:id="zone_9286b5d2-b27d-11e8-9a8f-acde48001122" /><zone lrx="797" lry="663" ulx="694" uly="616" xml:id="zone_9286b68c-b27d-11e8-9233-acde48001122" /><zone lrx="959" lry="664" ulx="809" uly="617" xml:id="zone_9286b74c-b27d-11e8-a09e-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_92867c9e-b27d-11e8-9f3f-acde48001122">NE</span><span facs="#zone_92867e08-b27d-11e8-b27b-acde48001122">事事事事事喜事享</span><span facs="#zone_92867ea6-b27d-11e8-9330-acde48001122">事事事車事事事事</span><span facs="#zone_92867f2c-b27d-11e8-b6dd-acde48001122">*</span><span facs="#zone_92867fac-b27d-11e8-ad39-acde48001122">*</span><span facs="#zone_9286802e-b27d-11e8-8638-acde48001122">*</span><span facs="#zone_928680a6-b27d-11e8-ba18-acde48001122">*</span><span facs="#zone_9286a518-b27d-11e8-8714-acde48001122">*</span><span facs="#zone_9286a734-b27d-11e8-bbe7-acde48001122">*</span><span facs="#zone_9286a824-b27d-11e8-94c0-acde48001122">*</span><span facs="#zone_9286a8ec-b27d-11e8-b6e6-acde48001122">*</span><span facs="#zone_9286a9a2-b27d-11e8-b4dd-acde48001122">H</span><span facs="#zone_9286aa68-b27d-11e8-98e4-acde48001122">.</span><span facs="#zone_9286ab26-b27d-11e8-b8cc-acde48001122">M</span><span facs="#zone_9286abe4-b27d-11e8-bc7a-acde48001122">.</span><span facs="#zone_9286ac9a-b27d-11e8-bc39-acde48001122">S</span><span facs="#zone_9286ad4c-b27d-11e8-ae80-acde48001122">.</span><span facs="#zone_9286ae0a-b27d-11e8-aae9-acde48001122">ENT</span><span facs="#zone_9286aebe-b27d-11e8-a37b-acde48001122">FRANCE</span><span facs="#zone_9286af74-b27d-11e8-8430-acde48001122">PROTECT</span><span facs="#zone_9286b024-b27d-11e8-ac87-acde48001122">YOUR</span><span facs="#zone_9286b0da-b27d-11e8-a1e3-acde48001122">FLAG</span><span facs="#zone_9286b18c-b27d-11e8-b575-acde48001122">NAVY</span><span facs="#zone_9286b24c-b27d-11e8-95b2-acde48001122">NEEDS</span><span facs="#zone_9286b2f6-b27d-11e8-8cbc-acde48001122">YOU</span><span facs="#zone_9286b3be-b27d-11e8-9174-acde48001122">APPLY</span><span facs="#zone_9286b474-b27d-11e8-aff1-acde48001122">RECRUITING</span><span facs="#zone_9286b51c-b27d-11e8-8735-acde48001122">STATION</span><span facs="#zone_9286b5d2-b27d-11e8-9a8f-acde48001122">OR</span><span facs="#zone_9286b68c-b27d-11e8-9233-acde48001122">NAVY</span><span facs="#zone_9286b74c-b27d-11e8-a09e-acde48001122">LEAGUE</span></p></body>
+    </text>
+</TEI>

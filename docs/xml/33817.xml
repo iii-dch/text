@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>名誉の名簿∽322</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33817">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33817</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/27770/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/27770/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/27770/1332748000464.jpg" /><zone lrx="388" lry="130" ulx="90" uly="17" xml:id="zone_dceef75e-b27d-11e8-8719-acde48001122" /><zone lrx="643" lry="134" ulx="435" uly="22" xml:id="zone_dceef948-b27d-11e8-8672-acde48001122" /><zone lrx="430" lry="374" ulx="362" uly="154" xml:id="zone_dceefa62-b27d-11e8-96af-acde48001122" /><zone lrx="128" lry="491" ulx="81" uly="454" xml:id="zone_dceefb64-b27d-11e8-8cee-acde48001122" /><zone lrx="279" lry="493" ulx="140" uly="455" xml:id="zone_dceefc5c-b27d-11e8-8c78-acde48001122" /><zone lrx="422" lry="495" ulx="295" uly="457" xml:id="zone_dceefd4c-b27d-11e8-bed6-acde48001122" /><zone lrx="478" lry="496" ulx="431" uly="459" xml:id="zone_dceefe3e-b27d-11e8-80ea-acde48001122" /><zone lrx="539" lry="497" ulx="491" uly="460" xml:id="zone_dceeff9c-b27d-11e8-8b69-acde48001122" /><zone lrx="643" lry="498" ulx="549" uly="461" xml:id="zone_dcef0094-b27d-11e8-b3c5-acde48001122" /><zone lrx="94" lry="525" ulx="76" uly="494" xml:id="zone_dcef017e-b27d-11e8-8cb9-acde48001122" /><zone lrx="160" lry="526" ulx="114" uly="494" xml:id="zone_dcef0246-b27d-11e8-a4e5-acde48001122" /><zone lrx="350" lry="528" ulx="177" uly="495" xml:id="zone_dcef030c-b27d-11e8-b261-acde48001122" /><zone lrx="426" lry="530" ulx="360" uly="498" xml:id="zone_dcef03de-b27d-11e8-b848-acde48001122" /><zone lrx="550" lry="532" ulx="438" uly="499" xml:id="zone_dcef04c2-b27d-11e8-b71e-acde48001122" /><zone lrx="583" lry="532" ulx="566" uly="501" xml:id="zone_dcef05ac-b27d-11e8-a1bf-acde48001122" /><zone lrx="644" lry="533" ulx="600" uly="501" xml:id="zone_dcef0686-b27d-11e8-8690-acde48001122" /><zone lrx="254" lry="627" ulx="50" uly="533" xml:id="zone_dcef0776-b27d-11e8-b8cc-acde48001122" /><zone lrx="501" lry="630" ulx="301" uly="536" xml:id="zone_dcef085c-b27d-11e8-bad8-acde48001122" /><zone lrx="682" lry="633" ulx="552" uly="540" xml:id="zone_dcef0942-b27d-11e8-abc9-acde48001122" /><zone lrx="305" lry="701" ulx="290" uly="698" xml:id="zone_dcef0a28-b27d-11e8-8817-acde48001122" /><zone lrx="305" lry="753" ulx="290" uly="740" xml:id="zone_dcef0b1a-b27d-11e8-9dd4-acde48001122" /><zone lrx="302" lry="979" ulx="286" uly="914" xml:id="zone_dcef1070-b27d-11e8-b712-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_dceef75e-b27d-11e8-8719-acde48001122">HONOR</span><span facs="#zone_dceef948-b27d-11e8-8672-acde48001122">ROLL</span><span facs="#zone_dceefa62-b27d-11e8-96af-acde48001122">W</span><span facs="#zone_dceefb64-b27d-11e8-8cee-acde48001122">THE</span><span facs="#zone_dceefc5c-b27d-11e8-8c78-acde48001122">FOLLOWING</span><span facs="#zone_dceefd4c-b27d-11e8-bed6-acde48001122">PATRIOTIC</span><span facs="#zone_dceefe3e-b27d-11e8-80ea-acde48001122">MEN</span><span facs="#zone_dceeff9c-b27d-11e8-8b69-acde48001122">AND</span><span facs="#zone_dcef0094-b27d-11e8-b3c5-acde48001122">WOMEN</span><span facs="#zone_dcef017e-b27d-11e8-8cb9-acde48001122">IN</span><span facs="#zone_dcef0246-b27d-11e8-a4e5-acde48001122">THIS</span><span facs="#zone_dcef030c-b27d-11e8-b261-acde48001122">ORGANIZATION</span><span facs="#zone_dcef03de-b27d-11e8-b848-acde48001122">HAVE</span><span facs="#zone_dcef04c2-b27d-11e8-b71e-acde48001122">INVESTED</span><span facs="#zone_dcef05ac-b27d-11e8-a1bf-acde48001122">IN</span><span facs="#zone_dcef0686-b27d-11e8-8690-acde48001122">THE</span><span facs="#zone_dcef0776-b27d-11e8-b8cc-acde48001122">VICTORY</span><span facs="#zone_dcef085c-b27d-11e8-bad8-acde48001122">LIBERTY</span><span facs="#zone_dcef0942-b27d-11e8-abc9-acde48001122">LOAN</span><span facs="#zone_dcef0a28-b27d-11e8-8817-acde48001122">-</span><span facs="#zone_dcef0b1a-b27d-11e8-9dd4-acde48001122">S</span><span facs="#zone_dcef1070-b27d-11e8-b712-acde48001122">SS</span></p></body>
+    </text>
+</TEI>

@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>我々のお得意様は、しかし－∽460</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33695">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33695</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/28739/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/28739/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/28739/1332747943940.jpg" /><zone lrx="497" lry="666" ulx="403" uly="618" xml:id="zone_e6306488-b27d-11e8-8b5c-acde48001122" /><zone lrx="606" lry="665" ulx="509" uly="617" xml:id="zone_e6306780-b27d-11e8-9c27-acde48001122" /><zone lrx="616" lry="714" ulx="402" uly="661" xml:id="zone_e63068ac-b27d-11e8-94c6-acde48001122" /><zone lrx="623" lry="712" ulx="609" uly="661" xml:id="zone_e630699c-b27d-11e8-85ea-acde48001122" /><zone lrx="551" lry="753" ulx="464" uly="712" xml:id="zone_e6306a94-b27d-11e8-9c39-acde48001122" /><zone lrx="152" lry="851" ulx="139" uly="805" xml:id="zone_e6306b7e-b27d-11e8-8bf3-acde48001122" /><zone lrx="367" lry="850" ulx="176" uly="802" xml:id="zone_e6306c58-b27d-11e8-aba5-acde48001122" /><zone lrx="575" lry="848" ulx="385" uly="800" xml:id="zone_e6306d28-b27d-11e8-ab1a-acde48001122" /><zone lrx="612" lry="846" ulx="599" uly="800" xml:id="zone_e6306eb0-b27d-11e8-a77e-acde48001122" /><zone lrx="340" lry="992" ulx="27" uly="897" xml:id="zone_e6306fac-b27d-11e8-a413-acde48001122" /><zone lrx="638" lry="989" ulx="354" uly="894" xml:id="zone_e630709a-b27d-11e8-9066-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_e6306488-b27d-11e8-8b5c-acde48001122">Our</span><span facs="#zone_e6306780-b27d-11e8-9c27-acde48001122">Best</span><span facs="#zone_e63068ac-b27d-11e8-94c6-acde48001122">Customer</span><span facs="#zone_e630699c-b27d-11e8-85ea-acde48001122">,</span><span facs="#zone_e6306a94-b27d-11e8-9c39-acde48001122">But</span><span facs="#zone_e6306b7e-b27d-11e8-8bf3-acde48001122">e</span><span facs="#zone_e6306c58-b27d-11e8-aba5-acde48001122">needs</span><span facs="#zone_e6306d28-b27d-11e8-ab1a-acde48001122">credit</span><span facs="#zone_e6306eb0-b27d-11e8-a77e-acde48001122">!</span><span facs="#zone_e6306fac-b27d-11e8-a413-acde48001122">Victory</span><span facs="#zone_e630709a-b27d-11e8-9066-acde48001122">Bonds</span></p></body>
+    </text>
+</TEI>

@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>さあ、金利4％の自由公債を購入しよう∽475</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33483">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33483</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/23850/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/23850/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/23850/1332747846545.jpg" /><zone lrx="404" lry="133" ulx="41" uly="41" xml:id="zone_adaa5808-b27d-11e8-bb2c-acde48001122" /><zone lrx="628" lry="133" ulx="438" uly="41" xml:id="zone_adaa5c66-b27d-11e8-8185-acde48001122" /><zone lrx="66" lry="239" ulx="37" uly="140" xml:id="zone_adaa5ea2-b27d-11e8-87a9-acde48001122" /><zone lrx="100" lry="239" ulx="63" uly="140" xml:id="zone_adaa6050-b27d-11e8-bb21-acde48001122" /><zone lrx="166" lry="239" ulx="137" uly="140" xml:id="zone_adaa61f4-b27d-11e8-8b14-acde48001122" /><zone lrx="414" lry="239" ulx="179" uly="140" xml:id="zone_adaa6390-b27d-11e8-8772-acde48001122" /><zone lrx="624" lry="239" ulx="435" uly="140" xml:id="zone_adaa6500-b27d-11e8-a944-acde48001122" /><zone lrx="591" lry="336" ulx="398" uly="316" xml:id="zone_adaa6690-b27d-11e8-9820-acde48001122" /><zone lrx="515" lry="357" ulx="448" uly="339" xml:id="zone_adaa67ee-b27d-11e8-beb6-acde48001122" /><zone lrx="277" lry="364" ulx="265" uly="343" xml:id="zone_adaa6974-b27d-11e8-be96-acde48001122" /><zone lrx="247" lry="375" ulx="235" uly="354" xml:id="zone_adaa6af0-b27d-11e8-ac69-acde48001122" /><zone lrx="68" lry="619" ulx="37" uly="601" xml:id="zone_adaa6c62-b27d-11e8-972a-acde48001122" /><zone lrx="92" lry="623" ulx="67" uly="605" xml:id="zone_adaa6dde-b27d-11e8-ae84-acde48001122" /><zone lrx="41" lry="629" ulx="15" uly="606" xml:id="zone_adaa6f50-b27d-11e8-bdde-acde48001122" /><zone lrx="59" lry="621" ulx="38" uly="601" xml:id="zone_adaa70c2-b27d-11e8-bac1-acde48001122" /><zone lrx="87" lry="674" ulx="54" uly="661" xml:id="zone_adaa736c-b27d-11e8-bb18-acde48001122" /><zone lrx="172" lry="809" ulx="41" uly="717" xml:id="zone_adaa7518-b27d-11e8-ab47-acde48001122" /><zone lrx="285" lry="809" ulx="194" uly="717" xml:id="zone_adaa7664-b27d-11e8-8bf4-acde48001122" /><zone lrx="428" lry="809" ulx="311" uly="717" xml:id="zone_adaa779a-b27d-11e8-89fd-acde48001122" /><zone lrx="614" lry="809" ulx="457" uly="717" xml:id="zone_adaa7934-b27d-11e8-b6d9-acde48001122" /><zone lrx="329" lry="918" ulx="176" uly="817" xml:id="zone_adaa7a4a-b27d-11e8-8e6f-acde48001122" /><zone lrx="468" lry="918" ulx="368" uly="817" xml:id="zone_adaa7b62-b27d-11e8-a2ea-acde48001122" /><zone lrx="511" lry="918" ulx="482" uly="817" xml:id="zone_adaa7c70-b27d-11e8-8c8a-acde48001122" /><zone lrx="89" lry="971" ulx="47" uly="925" xml:id="zone_adaa7d88-b27d-11e8-8950-acde48001122" /><zone lrx="204" lry="971" ulx="103" uly="923" xml:id="zone_adaa7eac-b27d-11e8-971b-acde48001122" /><zone lrx="409" lry="969" ulx="224" uly="921" xml:id="zone_adaa7fca-b27d-11e8-b3f5-acde48001122" /><zone lrx="437" lry="967" ulx="412" uly="921" xml:id="zone_adaa80e4-b27d-11e8-83d1-acde48001122" /><zone lrx="512" lry="967" ulx="459" uly="919" xml:id="zone_adaa8206-b27d-11e8-b7ae-acde48001122" /><zone lrx="623" lry="966" ulx="521" uly="918" xml:id="zone_adaa8314-b27d-11e8-aa91-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_adaa5808-b27d-11e8-bb2c-acde48001122">SUBSCRIBE</span><span facs="#zone_adaa5c66-b27d-11e8-8185-acde48001122">TODAY</span><span facs="#zone_adaa5ea2-b27d-11e8-87a9-acde48001122">"</span><span facs="#zone_adaa6050-b27d-11e8-bb21-acde48001122">24</span><span facs="#zone_adaa61f4-b27d-11e8-8b14-acde48001122">%</span><span facs="#zone_adaa6390-b27d-11e8-8772-acde48001122">LIBERTY</span><span facs="#zone_adaa6500-b27d-11e8-a944-acde48001122">BONDS</span><span facs="#zone_adaa6690-b27d-11e8-9820-acde48001122">SUBSCRIPTIONS</span><span facs="#zone_adaa67ee-b27d-11e8-beb6-acde48001122">BEGIN</span><span facs="#zone_adaa6974-b27d-11e8-be96-acde48001122">*</span><span facs="#zone_adaa6af0-b27d-11e8-ac69-acde48001122">*</span><span facs="#zone_adaa6c62-b27d-11e8-972a-acde48001122">SR</span><span facs="#zone_adaa6dde-b27d-11e8-ae84-acde48001122">STORES</span><span facs="#zone_adaa6f50-b27d-11e8-bdde-acde48001122">WINTED</span><span facs="#zone_adaa70c2-b27d-11e8-bac1-acde48001122">CW</span><span facs="#zone_adaa736c-b27d-11e8-bb18-acde48001122">old</span><span facs="#zone_adaa7518-b27d-11e8-ab47-acde48001122">AND</span><span facs="#zone_adaa7664-b27d-11e8-8bf4-acde48001122">YOU</span><span facs="#zone_adaa779a-b27d-11e8-89fd-acde48001122">ARE</span><span facs="#zone_adaa7934-b27d-11e8-b6d9-acde48001122">DOING</span><span facs="#zone_adaa7a4a-b27d-11e8-8e6f-acde48001122">YOUR</span><span facs="#zone_adaa7b62-b27d-11e8-a2ea-acde48001122">BIT</span><span facs="#zone_adaa7c70-b27d-11e8-8c8a-acde48001122">!</span><span facs="#zone_adaa7d88-b27d-11e8-8950-acde48001122">NO</span><span facs="#zone_adaa7eac-b27d-11e8-971b-acde48001122">SAFER</span><span facs="#zone_adaa7fca-b27d-11e8-b3f5-acde48001122">INVESTMENT</span><span facs="#zone_adaa80e4-b27d-11e8-83d1-acde48001122">IN</span><span facs="#zone_adaa8206-b27d-11e8-b7ae-acde48001122">THE</span><span facs="#zone_adaa8314-b27d-11e8-aa91-acde48001122">WORLD</span></p></body>
+    </text>
+</TEI>

@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>もしあなたが戦えなくても、資金援助することは出来る∽518</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/34039">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/34039</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/27974/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/27974/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/27974/1332748103653.jpg" /><zone lrx="110" lry="155" ulx="71" uly="52" xml:id="zone_dfd6e526-b27d-11e8-ae98-acde48001122" /><zone lrx="228" lry="155" ulx="140" uly="52" xml:id="zone_dfd6e850-b27d-11e8-9086-acde48001122" /><zone lrx="369" lry="155" ulx="250" uly="52" xml:id="zone_dfd6e9a4-b27d-11e8-9b0b-acde48001122" /><zone lrx="397" lry="155" ulx="367" uly="52" xml:id="zone_dfd6ead0-b27d-11e8-a94e-acde48001122" /><zone lrx="428" lry="155" ulx="398" uly="52" xml:id="zone_dfd6ebde-b27d-11e8-a0f5-acde48001122" /><zone lrx="617" lry="155" ulx="452" uly="52" xml:id="zone_dfd6ecec-b27d-11e8-9afa-acde48001122" /><zone lrx="220" lry="356" ulx="80" uly="162" xml:id="zone_dfd6edee-b27d-11e8-8455-acde48001122" /><zone lrx="423" lry="356" ulx="256" uly="162" xml:id="zone_dfd6ef00-b27d-11e8-a721-acde48001122" /><zone lrx="617" lry="356" ulx="479" uly="162" xml:id="zone_dfd6f00c-b27d-11e8-8b4e-acde48001122" /><zone lrx="122" lry="464" ulx="107" uly="410" xml:id="zone_dfd6f124-b27d-11e8-990d-acde48001122" /><zone lrx="242" lry="464" ulx="144" uly="410" xml:id="zone_dfd6f23e-b27d-11e8-81c9-acde48001122" /><zone lrx="401" lry="464" ulx="269" uly="410" xml:id="zone_dfd6f34a-b27d-11e8-810a-acde48001122" /><zone lrx="533" lry="464" ulx="436" uly="410" xml:id="zone_dfd6f458-b27d-11e8-a472-acde48001122" /><zone lrx="207" lry="552" ulx="63" uly="467" xml:id="zone_dfd6f570-b27d-11e8-92a5-acde48001122" /><zone lrx="358" lry="552" ulx="239" uly="467" xml:id="zone_dfd6f688-b27d-11e8-be02-acde48001122" /><zone lrx="616" lry="552" ulx="394" uly="467" xml:id="zone_dfd6f7a2-b27d-11e8-aa3d-acde48001122" /><zone lrx="165" lry="646" ulx="56" uly="552" xml:id="zone_dfd6f8b8-b27d-11e8-b547-acde48001122" /><zone lrx="257" lry="646" ulx="203" uly="552" xml:id="zone_dfd6f9d0-b27d-11e8-bf3b-acde48001122" /><zone lrx="465" lry="646" ulx="277" uly="552" xml:id="zone_dfd6fade-b27d-11e8-ad0c-acde48001122" /><zone lrx="616" lry="646" ulx="502" uly="552" xml:id="zone_dfd6fbec-b27d-11e8-ba64-acde48001122" /><zone lrx="655" lry="646" ulx="628" uly="552" xml:id="zone_dfd6fcfa-b27d-11e8-a684-acde48001122" /><zone lrx="137" lry="827" ulx="61" uly="696" xml:id="zone_dfd6fe1c-b27d-11e8-abb1-acde48001122" /><zone lrx="254" lry="830" ulx="157" uly="698" xml:id="zone_dfd6ff34-b27d-11e8-b4f0-acde48001122" /><zone lrx="313" lry="831" ulx="261" uly="701" xml:id="zone_dfd70040-b27d-11e8-95d2-acde48001122" /><zone lrx="436" lry="835" ulx="321" uly="703" xml:id="zone_dfd70152-b27d-11e8-9d33-acde48001122" /><zone lrx="649" lry="841" ulx="456" uly="707" xml:id="zone_dfd70266-b27d-11e8-9d5f-acde48001122" /><zone lrx="164" lry="935" ulx="60" uly="887" xml:id="zone_dfd70376-b27d-11e8-b9af-acde48001122" /><zone lrx="221" lry="936" ulx="181" uly="889" xml:id="zone_dfd70490-b27d-11e8-89d2-acde48001122" /><zone lrx="270" lry="936" ulx="244" uly="890" xml:id="zone_dfd705a6-b27d-11e8-8066-acde48001122" /><zone lrx="322" lry="938" ulx="281" uly="890" xml:id="zone_dfd706c8-b27d-11e8-b9f8-acde48001122" /><zone lrx="434" lry="939" ulx="334" uly="891" xml:id="zone_dfd707d4-b27d-11e8-8168-acde48001122" /><zone lrx="550" lry="940" ulx="451" uly="892" xml:id="zone_dfd708ee-b27d-11e8-be36-acde48001122" /><zone lrx="618" lry="942" ulx="569" uly="894" xml:id="zone_dfd70a10-b27d-11e8-9f0d-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_dfd6e526-b27d-11e8-ae98-acde48001122">IF</span><span facs="#zone_dfd6e850-b27d-11e8-9086-acde48001122">YOU</span><span facs="#zone_dfd6e9a4-b27d-11e8-9b0b-acde48001122">CAN</span><span facs="#zone_dfd6ead0-b27d-11e8-a94e-acde48001122">'</span><span facs="#zone_dfd6ebde-b27d-11e8-a0f5-acde48001122">T</span><span facs="#zone_dfd6ecec-b27d-11e8-9afa-acde48001122">FIGHT</span><span facs="#zone_dfd6edee-b27d-11e8-8455-acde48001122">YOU</span><span facs="#zone_dfd6ef00-b27d-11e8-a721-acde48001122">CAN</span><span facs="#zone_dfd6f00c-b27d-11e8-8b4e-acde48001122">PAY</span><span facs="#zone_dfd6f124-b27d-11e8-990d-acde48001122">·</span><span facs="#zone_dfd6f23e-b27d-11e8-81c9-acde48001122">YOUR</span><span facs="#zone_dfd6f34a-b27d-11e8-810a-acde48001122">LOYAL</span><span facs="#zone_dfd6f458-b27d-11e8-a472-acde48001122">TALK</span><span facs="#zone_dfd6f570-b27d-11e8-92a5-acde48001122">WONT</span><span facs="#zone_dfd6f688-b27d-11e8-be02-acde48001122">BEAT</span><span facs="#zone_dfd6f7a2-b27d-11e8-aa3d-acde48001122">GERMANY</span><span facs="#zone_dfd6f8b8-b27d-11e8-b547-acde48001122">MEN</span><span facs="#zone_dfd6f9d0-b27d-11e8-bf3b-acde48001122">AND</span><span facs="#zone_dfd6fade-b27d-11e8-ad0c-acde48001122">MONEY</span><span facs="#zone_dfd6fbec-b27d-11e8-ba64-acde48001122">WILL</span><span facs="#zone_dfd6fcfa-b27d-11e8-a684-acde48001122">!</span><span facs="#zone_dfd6fe1c-b27d-11e8-abb1-acde48001122">EN</span><span facs="#zone_dfd6ff34-b27d-11e8-b4f0-acde48001122">IST</span><span facs="#zone_dfd70040-b27d-11e8-95d2-acde48001122">OR</span><span facs="#zone_dfd70152-b27d-11e8-9d33-acde48001122">PAY</span><span facs="#zone_dfd70266-b27d-11e8-9d5f-acde48001122">TODAY</span><span facs="#zone_dfd70376-b27d-11e8-b9af-acde48001122">Subscribe</span><span facs="#zone_dfd70490-b27d-11e8-89d2-acde48001122">Now</span><span facs="#zone_dfd705a6-b27d-11e8-8066-acde48001122">to</span><span facs="#zone_dfd706c8-b27d-11e8-b9f8-acde48001122">the</span><span facs="#zone_dfd707d4-b27d-11e8-8168-acde48001122">Canadian</span><span facs="#zone_dfd708ee-b27d-11e8-be36-acde48001122">Patriotic</span><span facs="#zone_dfd70a10-b27d-11e8-9f0d-acde48001122">Fund</span></p></body>
+    </text>
+</TEI>

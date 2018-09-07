@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>あなたは彼に任せているのです∽274</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33918">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33918</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/23309/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/23309/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/23309/1332748046995.jpg" /><zone lrx="479" lry="120" ulx="380" uly="62" xml:id="zone_a85e8236-b27d-11e8-a859-acde48001122" /><zone lrx="606" lry="120" ulx="501" uly="62" xml:id="zone_a85e84ac-b27d-11e8-9f41-acde48001122" /><zone lrx="454" lry="176" ulx="385" uly="122" xml:id="zone_a85e8626-b27d-11e8-a812-acde48001122" /><zone lrx="577" lry="176" ulx="476" uly="122" xml:id="zone_a85e8a02-b27d-11e8-af1a-acde48001122" /><zone lrx="635" lry="429" ulx="601" uly="406" xml:id="zone_a85e8ba8-b27d-11e8-bf37-acde48001122" /><zone lrx="90" lry="502" ulx="37" uly="469" xml:id="zone_a85e8cfa-b27d-11e8-91f5-acde48001122" /><zone lrx="182" lry="732" ulx="92" uly="674" xml:id="zone_a85e9008-b27d-11e8-b01f-acde48001122" /><zone lrx="286" lry="732" ulx="210" uly="674" xml:id="zone_a85e9402-b27d-11e8-b4f7-acde48001122" /><zone lrx="403" lry="732" ulx="298" uly="674" xml:id="zone_a85e9758-b27d-11e8-8275-acde48001122" /><zone lrx="487" lry="732" ulx="435" uly="674" xml:id="zone_a85e989e-b27d-11e8-b69b-acde48001122" /><zone lrx="619" lry="732" ulx="511" uly="674" xml:id="zone_a85e99fe-b27d-11e8-bb93-acde48001122" /><zone lrx="135" lry="788" ulx="118" uly="726" xml:id="zone_a85e9b70-b27d-11e8-86e1-acde48001122" /><zone lrx="154" lry="788" ulx="137" uly="726" xml:id="zone_a85e9cc6-b27d-11e8-8214-acde48001122" /><zone lrx="179" lry="788" ulx="162" uly="726" xml:id="zone_a85e9e40-b27d-11e8-a68e-acde48001122" /><zone lrx="231" lry="788" ulx="185" uly="726" xml:id="zone_a85e9f80-b27d-11e8-9ad0-acde48001122" /><zone lrx="505" lry="788" ulx="260" uly="726" xml:id="zone_a85ea214-b27d-11e8-8674-acde48001122" /><zone lrx="538" lry="788" ulx="521" uly="726" xml:id="zone_a85ea4e4-b27d-11e8-aed7-acde48001122" /><zone lrx="563" lry="788" ulx="546" uly="726" xml:id="zone_a85ea6d0-b27d-11e8-8e69-acde48001122" /><zone lrx="589" lry="788" ulx="572" uly="726" xml:id="zone_a85ead90-b27d-11e8-be43-acde48001122" /><zone lrx="620" lry="788" ulx="603" uly="726" xml:id="zone_a85ec7da-b27d-11e8-9ca9-acde48001122" /><zone lrx="204" lry="852" ulx="91" uly="780" xml:id="zone_a85ec9b0-b27d-11e8-b046-acde48001122" /><zone lrx="613" lry="852" ulx="239" uly="780" xml:id="zone_a85ed1e4-b27d-11e8-976d-acde48001122" /><zone lrx="640" lry="852" ulx="620" uly="780" xml:id="zone_a85ed4e6-b27d-11e8-bd11-acde48001122" /><zone lrx="387" lry="932" ulx="73" uly="851" xml:id="zone_a85edce8-b27d-11e8-a52d-acde48001122" /><zone lrx="598" lry="932" ulx="403" uly="851" xml:id="zone_a85ede64-b27d-11e8-b372-acde48001122" /><zone lrx="650" lry="932" ulx="627" uly="851" xml:id="zone_a85ee1fa-b27d-11e8-8ed2-acde48001122" /><zone lrx="304" lry="975" ulx="204" uly="932" xml:id="zone_a85ee470-b27d-11e8-a45a-acde48001122" /><zone lrx="313" lry="975" ulx="301" uly="932" xml:id="zone_a85ee6a2-b27d-11e8-9ee4-acde48001122" /><zone lrx="343" lry="975" ulx="331" uly="932" xml:id="zone_a85ee80a-b27d-11e8-89a4-acde48001122" /><zone lrx="365" lry="975" ulx="353" uly="932" xml:id="zone_a85ee954-b27d-11e8-ac1a-acde48001122" /><zone lrx="417" lry="975" ulx="394" uly="932" xml:id="zone_a85eea76-b27d-11e8-884f-acde48001122" /><zone lrx="477" lry="975" ulx="435" uly="932" xml:id="zone_a85eeba2-b27d-11e8-bb8a-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_a85e8236-b27d-11e8-a859-acde48001122">You</span><span facs="#zone_a85e84ac-b27d-11e8-9f41-acde48001122">rely</span><span facs="#zone_a85e8626-b27d-11e8-a812-acde48001122">on</span><span facs="#zone_a85e8a02-b27d-11e8-af1a-acde48001122">him</span><span facs="#zone_a85e8ba8-b27d-11e8-bf37-acde48001122">wo</span><span facs="#zone_a85e8cfa-b27d-11e8-91f5-acde48001122">Wit</span><span facs="#zone_a85e9008-b27d-11e8-b01f-acde48001122">Can</span><span facs="#zone_a85e9402-b27d-11e8-b4f7-acde48001122">ke</span><span facs="#zone_a85e9758-b27d-11e8-8275-acde48001122">rely</span><span facs="#zone_a85e989e-b27d-11e8-b69b-acde48001122">on</span><span facs="#zone_a85e99fe-b27d-11e8-bb93-acde48001122">you</span><span facs="#zone_a85e9b70-b27d-11e8-86e1-acde48001122">.</span><span facs="#zone_a85e9cc6-b27d-11e8-8214-acde48001122">.</span><span facs="#zone_a85e9e40-b27d-11e8-a68e-acde48001122">.</span><span facs="#zone_a85e9f80-b27d-11e8-9ad0-acde48001122">to</span><span facs="#zone_a85ea214-b27d-11e8-8674-acde48001122">protect</span><span facs="#zone_a85ea4e4-b27d-11e8-aed7-acde48001122">.</span><span facs="#zone_a85ea6d0-b27d-11e8-8e69-acde48001122">.</span><span facs="#zone_a85ead90-b27d-11e8-be43-acde48001122">.</span><span facs="#zone_a85ec7da-b27d-11e8-9ca9-acde48001122">.</span><span facs="#zone_a85ec9b0-b27d-11e8-b046-acde48001122">his</span><span facs="#zone_a85ed1e4-b27d-11e8-976d-acde48001122">dependents</span><span facs="#zone_a85ed4e6-b27d-11e8-bd11-acde48001122">?</span><span facs="#zone_a85edce8-b27d-11e8-a52d-acde48001122">SAILORS</span><span facs="#zone_a85ede64-b27d-11e8-b372-acde48001122">WEEK</span><span facs="#zone_a85ee1fa-b27d-11e8-8ed2-acde48001122">"</span><span facs="#zone_a85ee470-b27d-11e8-a45a-acde48001122">Sept</span><span facs="#zone_a85ee6a2-b27d-11e8-9ee4-acde48001122">.</span><span facs="#zone_a85ee80a-b27d-11e8-89a4-acde48001122">i</span><span facs="#zone_a85ee954-b27d-11e8-ac1a-acde48001122">*</span><span facs="#zone_a85eea76-b27d-11e8-884f-acde48001122">to</span><span facs="#zone_a85eeba2-b27d-11e8-bb8a-acde48001122">7th</span></p></body>
+    </text>
+</TEI>

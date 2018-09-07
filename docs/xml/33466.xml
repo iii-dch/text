@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>こうなってもいいのかー∽410</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33466">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33466</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/25356/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/25356/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/25356/1332747838836.jpg" /><zone lrx="137" lry="124" ulx="103" uly="62" xml:id="zone_bc514fba-b27d-11e8-90d7-acde48001122" /><zone lrx="403" lry="124" ulx="167" uly="62" xml:id="zone_bc515370-b27d-11e8-9a40-acde48001122" /><zone lrx="522" lry="124" ulx="421" uly="62" xml:id="zone_bc515564-b27d-11e8-8bc0-acde48001122" /><zone lrx="566" lry="124" ulx="549" uly="62" xml:id="zone_bc51571c-b27d-11e8-8b63-acde48001122" /><zone lrx="558" lry="463" ulx="503" uly="434" xml:id="zone_bc515a14-b27d-11e8-bfca-acde48001122" /><zone lrx="373" lry="750" ulx="286" uly="718" xml:id="zone_bc515c08-b27d-11e8-8e60-acde48001122" /><zone lrx="231" lry="815" ulx="71" uly="745" xml:id="zone_bc5161e4-b27d-11e8-8fe5-acde48001122" /><zone lrx="579" lry="815" ulx="266" uly="745" xml:id="zone_bc51641e-b27d-11e8-9a08-acde48001122" /><zone lrx="574" lry="879" ulx="85" uly="805" xml:id="zone_bc5165d8-b27d-11e8-9fc0-acde48001122" /><zone lrx="363" lry="905" ulx="282" uly="870" xml:id="zone_bc516770-b27d-11e8-b10c-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_bc514fba-b27d-11e8-90d7-acde48001122">To</span><span facs="#zone_bc515370-b27d-11e8-9a40-acde48001122">prevent</span><span facs="#zone_bc515564-b27d-11e8-8bc0-acde48001122">this</span><span facs="#zone_bc51571c-b27d-11e8-8b63-acde48001122">-</span><span facs="#zone_bc515a14-b27d-11e8-bfca-acde48001122">LET</span><span facs="#zone_bc515c08-b27d-11e8-8e60-acde48001122">BUY</span><span facs="#zone_bc5161e4-b27d-11e8-8fe5-acde48001122">WAR</span><span facs="#zone_bc51641e-b27d-11e8-9a08-acde48001122">SAVINGS</span><span facs="#zone_bc5165d8-b27d-11e8-9fc0-acde48001122">CERTIFICATES</span><span facs="#zone_bc516770-b27d-11e8-b10c-acde48001122">NOW</span></p></body>
+    </text>
+</TEI>

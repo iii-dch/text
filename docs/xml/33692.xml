@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>カナダがあなたの保障です∽504</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33692">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33692</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/24993/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/24993/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/24993/1332747942640.jpg" /><zone lrx="197" lry="125" ulx="34" uly="37" xml:id="zone_b6b3b5d4-b27d-11e8-912c-acde48001122" /><zone lrx="592" lry="125" ulx="246" uly="37" xml:id="zone_b6b40066-b27d-11e8-a8e9-acde48001122" /><zone lrx="196" lry="215" ulx="41" uly="131" xml:id="zone_b6b40412-b27d-11e8-a3ac-acde48001122" /><zone lrx="600" lry="215" ulx="221" uly="131" xml:id="zone_b6b405c0-b27d-11e8-a040-acde48001122" /><zone lrx="197" lry="368" ulx="110" uly="291" xml:id="zone_b6b40734-b27d-11e8-8586-acde48001122" /><zone lrx="324" lry="368" ulx="238" uly="291" xml:id="zone_b6b41178-b27d-11e8-b87f-acde48001122" /><zone lrx="472" lry="368" ulx="344" uly="291" xml:id="zone_b6b4145c-b27d-11e8-a376-acde48001122" /><zone lrx="209" lry="438" ulx="86" uly="363" xml:id="zone_b6b41628-b27d-11e8-86e5-acde48001122" /><zone lrx="434" lry="442" ulx="238" uly="366" xml:id="zone_b6b417d4-b27d-11e8-81fa-acde48001122" /><zone lrx="528" lry="443" ulx="461" uly="370" xml:id="zone_b6b4196e-b27d-11e8-abc5-acde48001122" /><zone lrx="294" lry="521" ulx="85" uly="447" xml:id="zone_b6b41aec-b27d-11e8-a7f6-acde48001122" /><zone lrx="566" lry="521" ulx="328" uly="447" xml:id="zone_b6b41c5e-b27d-11e8-945b-acde48001122" /><zone lrx="134" lry="603" ulx="92" uly="530" xml:id="zone_b6b41dd0-b27d-11e8-a289-acde48001122" /><zone lrx="337" lry="601" ulx="153" uly="522" xml:id="zone_b6b41f38-b27d-11e8-b6ce-acde48001122" /><zone lrx="565" lry="594" ulx="379" uly="515" xml:id="zone_b6b420b4-b27d-11e8-8488-acde48001122" /><zone lrx="328" lry="687" ulx="88" uly="603" xml:id="zone_b6b4221c-b27d-11e8-9d19-acde48001122" /><zone lrx="435" lry="687" ulx="371" uly="603" xml:id="zone_b6b42382-b27d-11e8-8140-acde48001122" /><zone lrx="558" lry="842" ulx="93" uly="733" xml:id="zone_b6b424ec-b27d-11e8-a3b4-acde48001122" /><zone lrx="547" lry="937" ulx="79" uly="849" xml:id="zone_b6b4264a-b27d-11e8-b42b-acde48001122" /><zone lrx="46" lry="993" ulx="18" uly="986" xml:id="zone_b6b427b0-b27d-11e8-9be6-acde48001122" /><zone lrx="57" lry="993" ulx="49" uly="986" xml:id="zone_b6b42910-b27d-11e8-a169-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_b6b3b5d4-b27d-11e8-912c-acde48001122">ALL</span><span facs="#zone_b6b40066-b27d-11e8-a8e9-acde48001122">CANADA</span><span facs="#zone_b6b40412-b27d-11e8-a3ac-acde48001122">YOUR</span><span facs="#zone_b6b405c0-b27d-11e8-a040-acde48001122">SECURITY</span><span facs="#zone_b6b40734-b27d-11e8-8586-acde48001122">The</span><span facs="#zone_b6b41178-b27d-11e8-b87f-acde48001122">full</span><span facs="#zone_b6b4145c-b27d-11e8-a376-acde48001122">faith</span><span facs="#zone_b6b41628-b27d-11e8-86e5-acde48001122">and</span><span facs="#zone_b6b417d4-b27d-11e8-81fa-acde48001122">Credit</span><span facs="#zone_b6b4196e-b27d-11e8-abc5-acde48001122">of</span><span facs="#zone_b6b41aec-b27d-11e8-a7f6-acde48001122">EVERY</span><span facs="#zone_b6b41c5e-b27d-11e8-945b-acde48001122">Canadian</span><span facs="#zone_b6b41dd0-b27d-11e8-a289-acde48001122">is</span><span facs="#zone_b6b41f38-b27d-11e8-b6ce-acde48001122">behind</span><span facs="#zone_b6b420b4-b27d-11e8-8488-acde48001122">YOUR</span><span facs="#zone_b6b4221c-b27d-11e8-9d19-acde48001122">purchase</span><span facs="#zone_b6b42382-b27d-11e8-8140-acde48001122">of</span><span facs="#zone_b6b424ec-b27d-11e8-a3b4-acde48001122">VICTORY</span><span facs="#zone_b6b4264a-b27d-11e8-b42b-acde48001122">BONDS</span><span facs="#zone_b6b427b0-b27d-11e8-9be6-acde48001122">WP</span><span facs="#zone_b6b42910-b27d-11e8-a169-acde48001122">12</span></p></body>
+    </text>
+</TEI>

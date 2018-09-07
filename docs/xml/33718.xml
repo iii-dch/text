@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>クレディ・リヨネ∽634</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33718">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33718</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/18342/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/18342/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/18342/1332747954601.jpg" /><zone lrx="453" lry="46" ulx="315" uly="3" xml:id="zone_712b83d4-b27d-11e8-b033-acde48001122" /><zone lrx="676" lry="49" ulx="477" uly="6" xml:id="zone_712b87ba-b27d-11e8-b4c3-acde48001122" /><zone lrx="314" lry="658" ulx="27" uly="618" xml:id="zone_712b8a82-b27d-11e8-ae38-acde48001122" /><zone lrx="392" lry="658" ulx="333" uly="618" xml:id="zone_712b8d0c-b27d-11e8-ade2-acde48001122" /><zone lrx="438" lry="658" ulx="427" uly="618" xml:id="zone_712b8f5a-b27d-11e8-a6e5-acde48001122" /><zone lrx="699" lry="658" ulx="485" uly="618" xml:id="zone_712b918a-b27d-11e8-af29-acde48001122" /><zone lrx="978" lry="658" ulx="724" uly="618" xml:id="zone_712b93ba-b27d-11e8-b085-acde48001122" /><zone lrx="864" lry="669" ulx="803" uly="657" xml:id="zone_712b9522-b27d-11e8-b4e5-acde48001122" /><zone lrx="868" lry="669" ulx="866" uly="657" xml:id="zone_712b9676-b27d-11e8-a64a-acde48001122" /><zone lrx="905" lry="669" ulx="873" uly="657" xml:id="zone_712b98a6-b27d-11e8-88dd-acde48001122" /><zone lrx="913" lry="669" ulx="911" uly="657" xml:id="zone_712b9ad4-b27d-11e8-9ae1-acde48001122" /><zone lrx="941" lry="669" ulx="916" uly="657" xml:id="zone_712b9d10-b27d-11e8-ac4d-acde48001122" /><zone lrx="952" lry="669" ulx="949" uly="657" xml:id="zone_712b9f5e-b27d-11e8-aadd-acde48001122" /><zone lrx="958" lry="669" ulx="956" uly="657" xml:id="zone_712ba166-b27d-11e8-bccf-acde48001122" /><zone lrx="976" lry="669" ulx="959" uly="657" xml:id="zone_712ba2ae-b27d-11e8-8a54-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_712b83d4-b27d-11e8-b033-acde48001122">CRÉDIT</span><span facs="#zone_712b87ba-b27d-11e8-b4c3-acde48001122">LYONNAIS</span><span facs="#zone_712b8a82-b27d-11e8-ae38-acde48001122">SOVSCRIVEZ</span><span facs="#zone_712b8d0c-b27d-11e8-ade2-acde48001122">AV</span><span facs="#zone_712b8f5a-b27d-11e8-a6e5-acde48001122">4</span><span facs="#zone_712b918a-b27d-11e8-af29-acde48001122">EMPRVNT</span><span facs="#zone_712b93ba-b27d-11e8-b085-acde48001122">NATIONAL</span><span facs="#zone_712b9522-b27d-11e8-b4e5-acde48001122">DEVAMBEZ</span><span facs="#zone_712b9676-b27d-11e8-a64a-acde48001122">.</span><span facs="#zone_712b98a6-b27d-11e8-88dd-acde48001122">PARIS</span><span facs="#zone_712b9ad4-b27d-11e8-9ae1-acde48001122">-</span><span facs="#zone_712b9d10-b27d-11e8-ac4d-acde48001122">VISA</span><span facs="#zone_712b9f5e-b27d-11e8-aadd-acde48001122">13</span><span facs="#zone_712ba166-b27d-11e8-bccf-acde48001122">.</span><span facs="#zone_712ba2ae-b27d-11e8-8a54-acde48001122">098</span></p></body>
+    </text>
+</TEI>

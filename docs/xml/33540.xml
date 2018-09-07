@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>アメリカ海兵隊「海の戦士」∽163</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33540">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33540</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/20510/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/20510/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/20510/1332747873300.jpg" /><zone lrx="613" lry="177" ulx="594" uly="170" xml:id="zone_87f030ba-b27d-11e8-8afb-acde48001122" /><zone lrx="658" lry="177" ulx="619" uly="170" xml:id="zone_87f03326-b27d-11e8-83c5-acde48001122" /><zone lrx="234" lry="271" ulx="213" uly="197" xml:id="zone_87f03434-b27d-11e8-ba1f-acde48001122" /><zone lrx="271" lry="271" ulx="250" uly="197" xml:id="zone_87f03510-b27d-11e8-941f-acde48001122" /><zone lrx="309" lry="271" ulx="288" uly="197" xml:id="zone_87f035e2-b27d-11e8-8d93-acde48001122" /><zone lrx="346" lry="271" ulx="325" uly="197" xml:id="zone_87f036a8-b27d-11e8-be42-acde48001122" /><zone lrx="669" lry="271" ulx="349" uly="197" xml:id="zone_87f0377a-b27d-11e8-82c2-acde48001122" /><zone lrx="318" lry="318" ulx="312" uly="294" xml:id="zone_87f03842-b27d-11e8-bf03-acde48001122" /><zone lrx="408" lry="318" ulx="322" uly="294" xml:id="zone_87f03914-b27d-11e8-878c-acde48001122" /><zone lrx="438" lry="318" ulx="416" uly="294" xml:id="zone_87f039d4-b27d-11e8-be70-acde48001122" /><zone lrx="480" lry="318" ulx="449" uly="294" xml:id="zone_87f03a8a-b27d-11e8-b63e-acde48001122" /><zone lrx="520" lry="318" ulx="489" uly="294" xml:id="zone_87f03b3a-b27d-11e8-afd9-acde48001122" /><zone lrx="330" lry="887" ulx="194" uly="841" xml:id="zone_87f03bf0-b27d-11e8-a1ff-acde48001122" /><zone lrx="405" lry="887" ulx="347" uly="841" xml:id="zone_87f03cae-b27d-11e8-8213-acde48001122" /><zone lrx="425" lry="887" ulx="412" uly="841" xml:id="zone_87f03d64-b27d-11e8-81e3-acde48001122" /><zone lrx="491" lry="887" ulx="437" uly="841" xml:id="zone_87f03e0c-b27d-11e8-b488-acde48001122" /><zone lrx="556" lry="887" ulx="502" uly="841" xml:id="zone_87f03ed4-b27d-11e8-a053-acde48001122" /><zone lrx="603" lry="887" ulx="563" uly="841" xml:id="zone_87f03f7e-b27d-11e8-8ba3-acde48001122" /><zone lrx="650" lry="887" ulx="617" uly="841" xml:id="zone_87f04034-b27d-11e8-bea7-acde48001122" /><zone lrx="431" lry="928" ulx="376" uly="909" xml:id="zone_87f040fa-b27d-11e8-85f1-acde48001122" /><zone lrx="465" lry="928" ulx="440" uly="909" xml:id="zone_87f041a4-b27d-11e8-9f28-acde48001122" /><zone lrx="267" lry="966" ulx="228" uly="932" xml:id="zone_87f04258-b27d-11e8-a9aa-acde48001122" /><zone lrx="319" lry="966" ulx="277" uly="932" xml:id="zone_87f0430c-b27d-11e8-b248-acde48001122" /><zone lrx="406" lry="966" ulx="330" uly="932" xml:id="zone_87f043c0-b27d-11e8-a2a9-acde48001122" /><zone lrx="417" lry="966" ulx="408" uly="932" xml:id="zone_87f0446c-b27d-11e8-9bfc-acde48001122" /><zone lrx="539" lry="966" ulx="425" uly="932" xml:id="zone_87f04526-b27d-11e8-8e96-acde48001122" /><zone lrx="550" lry="966" ulx="541" uly="932" xml:id="zone_87f045e6-b27d-11e8-b617-acde48001122" /><zone lrx="571" lry="966" ulx="562" uly="932" xml:id="zone_87f0469c-b27d-11e8-b849-acde48001122" /><zone lrx="585" lry="966" ulx="576" uly="932" xml:id="zone_87f04758-b27d-11e8-b628-acde48001122" /><zone lrx="602" lry="966" ulx="593" uly="932" xml:id="zone_87f04802-b27d-11e8-9765-acde48001122" /><zone lrx="616" lry="966" ulx="607" uly="932" xml:id="zone_87f048b6-b27d-11e8-9f23-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_87f030ba-b27d-11e8-8afb-acde48001122">AXEL</span><span facs="#zone_87f03326-b27d-11e8-83c5-acde48001122">TORNROSE</span><span facs="#zone_87f03434-b27d-11e8-ba1f-acde48001122">U</span><span facs="#zone_87f03510-b27d-11e8-941f-acde48001122">.</span><span facs="#zone_87f035e2-b27d-11e8-8d93-acde48001122">S</span><span facs="#zone_87f036a8-b27d-11e8-be42-acde48001122">.</span><span facs="#zone_87f0377a-b27d-11e8-82c2-acde48001122">MARINES</span><span facs="#zone_87f03842-b27d-11e8-bf03-acde48001122">"</span><span facs="#zone_87f03914-b27d-11e8-878c-acde48001122">SOLDIERS</span><span facs="#zone_87f039d4-b27d-11e8-be70-acde48001122">OF</span><span facs="#zone_87f03a8a-b27d-11e8-b63e-acde48001122">THE</span><span facs="#zone_87f03b3a-b27d-11e8-afd9-acde48001122">SEA</span><span facs="#zone_87f03bf0-b27d-11e8-a1ff-acde48001122">INTERESTING</span><span facs="#zone_87f03cae-b27d-11e8-8213-acde48001122">DUTY</span><span facs="#zone_87f03d64-b27d-11e8-81e3-acde48001122">-</span><span facs="#zone_87f03e0c-b27d-11e8-b488-acde48001122">BOTH</span><span facs="#zone_87f03ed4-b27d-11e8-a053-acde48001122">LAND</span><span facs="#zone_87f03f7e-b27d-11e8-8ba3-acde48001122">AND</span><span facs="#zone_87f04034-b27d-11e8-bea7-acde48001122">SEA</span><span facs="#zone_87f040fa-b27d-11e8-85f1-acde48001122">ENLIST</span><span facs="#zone_87f041a4-b27d-11e8-9f28-acde48001122">AT</span><span facs="#zone_87f04258-b27d-11e8-a9aa-acde48001122">407</span><span facs="#zone_87f0430c-b27d-11e8-b248-acde48001122">Star</span><span facs="#zone_87f043c0-b27d-11e8-a2a9-acde48001122">Building</span><span facs="#zone_87f0446c-b27d-11e8-9bfc-acde48001122">,</span><span facs="#zone_87f04526-b27d-11e8-8e96-acde48001122">Washington</span><span facs="#zone_87f045e6-b27d-11e8-b617-acde48001122">,</span><span facs="#zone_87f0469c-b27d-11e8-b849-acde48001122">D</span><span facs="#zone_87f04758-b27d-11e8-b628-acde48001122">.</span><span facs="#zone_87f04802-b27d-11e8-9765-acde48001122">C</span><span facs="#zone_87f048b6-b27d-11e8-9f23-acde48001122">.</span></p></body>
+    </text>
+</TEI>

@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>食料の節約を止めないで∽263</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33983">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33983</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/20360/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/20360/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/20360/1332748077328.jpg" /><zone lrx="665" lry="424" ulx="69" uly="70" xml:id="zone_867b9ada-b27d-11e8-8548-acde48001122" /><zone lrx="452" lry="586" ulx="198" uly="422" xml:id="zone_867b9ecc-b27d-11e8-a832-acde48001122" /><zone lrx="565" lry="730" ulx="122" uly="558" xml:id="zone_867ba15e-b27d-11e8-8644-acde48001122" /><zone lrx="464" lry="865" ulx="200" uly="694" xml:id="zone_867ba3b8-b27d-11e8-bb2d-acde48001122" /><zone lrx="185" lry="944" ulx="102" uly="922" xml:id="zone_867ba5fa-b27d-11e8-b7fe-acde48001122" /><zone lrx="288" lry="944" ulx="201" uly="923" xml:id="zone_867ba84a-b27d-11e8-bdb7-acde48001122" /><zone lrx="362" lry="944" ulx="308" uly="923" xml:id="zone_867ba9f8-b27d-11e8-b48b-acde48001122" /><zone lrx="557" lry="945" ulx="379" uly="923" xml:id="zone_867bab42-b27d-11e8-9fb6-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_867b9ada-b27d-11e8-8548-acde48001122">dont</span><span facs="#zone_867b9ecc-b27d-11e8-a832-acde48001122">stop</span><span facs="#zone_867ba15e-b27d-11e8-8644-acde48001122">saving</span><span facs="#zone_867ba3b8-b27d-11e8-bb2d-acde48001122">food</span><span facs="#zone_867ba5fa-b27d-11e8-b7fe-acde48001122">UNITED</span><span facs="#zone_867ba84a-b27d-11e8-bdb7-acde48001122">STATES</span><span facs="#zone_867ba9f8-b27d-11e8-b48b-acde48001122">FOOD</span><span facs="#zone_867bab42-b27d-11e8-9fb6-acde48001122">ADMINISTRATION</span></p></body>
+    </text>
+</TEI>

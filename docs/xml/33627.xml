@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>フォー･ミニットメン[4分間演説の男たち]∽361</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33627">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33627</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/27068/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/27068/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/27068/1332747913454.jpg" /><zone lrx="587" lry="147" ulx="197" uly="39" xml:id="zone_d40b55e2-b27d-11e8-8c0a-acde48001122" /><zone lrx="582" lry="251" ulx="365" uly="123" xml:id="zone_d40b5b12-b27d-11e8-8f80-acde48001122" /><zone lrx="220" lry="325" ulx="126" uly="302" xml:id="zone_d40b5c54-b27d-11e8-9cfb-acde48001122" /><zone lrx="179" lry="363" ulx="129" uly="334" xml:id="zone_d40b5d4c-b27d-11e8-9d43-acde48001122" /><zone lrx="230" lry="397" ulx="127" uly="370" xml:id="zone_d40b5e3e-b27d-11e8-8837-acde48001122" /><zone lrx="588" lry="386" ulx="465" uly="343" xml:id="zone_d40b5f24-b27d-11e8-a20f-acde48001122" /><zone lrx="214" lry="537" ulx="156" uly="526" xml:id="zone_d40b600a-b27d-11e8-ae43-acde48001122" /><zone lrx="238" lry="536" ulx="236" uly="525" xml:id="zone_d40b60ee-b27d-11e8-a77e-acde48001122" /><zone lrx="255" lry="536" ulx="238" uly="525" xml:id="zone_d40b621c-b27d-11e8-8a3c-acde48001122" /><zone lrx="128" lry="731" ulx="62" uly="649" xml:id="zone_d40b631e-b27d-11e8-8618-acde48001122" /><zone lrx="370" lry="718" ulx="128" uly="601" xml:id="zone_d40b6410-b27d-11e8-b6eb-acde48001122" /><zone lrx="168" lry="773" ulx="82" uly="763" xml:id="zone_d40b64ec-b27d-11e8-a128-acde48001122" /><zone lrx="220" lry="775" ulx="175" uly="765" xml:id="zone_d40b65ca-b27d-11e8-aeb5-acde48001122" /><zone lrx="225" lry="773" ulx="224" uly="765" xml:id="zone_d40b669a-b27d-11e8-9e30-acde48001122" /><zone lrx="222" lry="956" ulx="51" uly="930" xml:id="zone_d40b678a-b27d-11e8-8762-acde48001122" /><zone lrx="275" lry="955" ulx="242" uly="930" xml:id="zone_d40b6870-b27d-11e8-8cf7-acde48001122" /><zone lrx="384" lry="955" ulx="296" uly="930" xml:id="zone_d40b694c-b27d-11e8-88ee-acde48001122" /><zone lrx="599" lry="955" ulx="413" uly="929" xml:id="zone_d40b6a34-b27d-11e8-a531-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_d40b55e2-b27d-11e8-8c0a-acde48001122">MINUTE</span><span facs="#zone_d40b5b12-b27d-11e8-8f80-acde48001122">MEN</span><span facs="#zone_d40b5c54-b27d-11e8-9cfb-acde48001122">MESSAGE</span><span facs="#zone_d40b5d4c-b27d-11e8-9d43-acde48001122">FROM</span><span facs="#zone_d40b5e3e-b27d-11e8-8837-acde48001122">WASHINGTON</span><span facs="#zone_d40b5f24-b27d-11e8-a20f-acde48001122">Win</span><span facs="#zone_d40b600a-b27d-11e8-ae43-acde48001122">MOB</span><span facs="#zone_d40b60ee-b27d-11e8-a77e-acde48001122">:</span><span facs="#zone_d40b621c-b27d-11e8-8a3c-acde48001122">04</span><span facs="#zone_d40b631e-b27d-11e8-8618-acde48001122">or</span><span facs="#zone_d40b6410-b27d-11e8-b6eb-acde48001122">2010</span><span facs="#zone_d40b64ec-b27d-11e8-a128-acde48001122">INDEPENDENCE</span><span facs="#zone_d40b65ca-b27d-11e8-aeb5-acde48001122">HALLO</span><span facs="#zone_d40b669a-b27d-11e8-9e30-acde48001122">,</span><span facs="#zone_d40b678a-b27d-11e8-8762-acde48001122">COMMITTEE</span><span facs="#zone_d40b6870-b27d-11e8-8cf7-acde48001122">ON</span><span facs="#zone_d40b694c-b27d-11e8-88ee-acde48001122">PUBLIC</span><span facs="#zone_d40b6a34-b27d-11e8-a531-acde48001122">INFORMATION</span></p></body>
+    </text>
+</TEI>

@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>彼らは我々が戦うことなどできないと思っていた∽370</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33453">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33453</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/22482/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/22482/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/22482/1332747832426.jpg" /><zone lrx="511" lry="153" ulx="444" uly="122" xml:id="zone_9ec69930-b27d-11e8-a882-acde48001122" /><zone lrx="624" lry="153" ulx="538" uly="122" xml:id="zone_9ec69c66-b27d-11e8-acab-acde48001122" /><zone lrx="583" lry="194" ulx="450" uly="158" xml:id="zone_9ec6a0c6-b27d-11e8-8334-acde48001122" /><zone lrx="633" lry="194" ulx="587" uly="158" xml:id="zone_9ec6a280-b27d-11e8-933d-acde48001122" /><zone lrx="593" lry="237" ulx="444" uly="199" xml:id="zone_9ec6a402-b27d-11e8-b594-acde48001122" /><zone lrx="611" lry="233" ulx="601" uly="198" xml:id="zone_9ec6a576-b27d-11e8-b6fc-acde48001122" /><zone lrx="629" lry="233" ulx="619" uly="198" xml:id="zone_9ec6a6dc-b27d-11e8-8602-acde48001122" /><zone lrx="633" lry="283" ulx="446" uly="241" xml:id="zone_9ec6a968-b27d-11e8-977e-acde48001122" /><zone lrx="622" lry="836" ulx="599" uly="824" xml:id="zone_9ec6ac9c-b27d-11e8-ac25-acde48001122" /><zone lrx="246" lry="956" ulx="47" uly="835" xml:id="zone_9ec6aec2-b27d-11e8-a687-acde48001122" /><zone lrx="490" lry="956" ulx="281" uly="835" xml:id="zone_9ec6b0ca-b27d-11e8-bd56-acde48001122" /><zone lrx="656" lry="956" ulx="510" uly="835" xml:id="zone_9ec6b298-b27d-11e8-808e-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_9ec69930-b27d-11e8-a882-acde48001122">AND</span><span facs="#zone_9ec69c66-b27d-11e8-acab-acde48001122">THEY</span><span facs="#zone_9ec6a0c6-b27d-11e8-8334-acde48001122">THOUGHT</span><span facs="#zone_9ec6a280-b27d-11e8-933d-acde48001122">WE</span><span facs="#zone_9ec6a402-b27d-11e8-b594-acde48001122">COULDN</span><span facs="#zone_9ec6a576-b27d-11e8-b6fc-acde48001122">'</span><span facs="#zone_9ec6a6dc-b27d-11e8-8602-acde48001122">T</span><span facs="#zone_9ec6a968-b27d-11e8-977e-acde48001122">FIGHT</span><span facs="#zone_9ec6ac9c-b27d-11e8-ac25-acde48001122">YDE</span><span facs="#zone_9ec6aec2-b27d-11e8-a687-acde48001122">VICTORY</span><span facs="#zone_9ec6b0ca-b27d-11e8-bd56-acde48001122">LIBERTY</span><span facs="#zone_9ec6b298-b27d-11e8-808e-acde48001122">LOAN</span></p></body>
+    </text>
+</TEI>

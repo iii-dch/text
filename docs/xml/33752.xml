@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>募債∽609</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33752">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33752</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/21265/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/21265/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/21265/1332747970460.jpg" /><zone lrx="365" lry="383" ulx="316" uly="292" xml:id="zone_905f8518-b27d-11e8-ae48-acde48001122" /><zone lrx="216" lry="617" ulx="25" uly="485" xml:id="zone_905f89a8-b27d-11e8-ac74-acde48001122" /><zone lrx="585" lry="649" ulx="275" uly="506" xml:id="zone_905f8ba6-b27d-11e8-8847-acde48001122" /><zone lrx="196" lry="739" ulx="53" uly="650" xml:id="zone_905f8d5e-b27d-11e8-b29d-acde48001122" /><zone lrx="379" lry="750" ulx="266" uly="662" xml:id="zone_905f8f22-b27d-11e8-8781-acde48001122" /><zone lrx="576" lry="761" ulx="393" uly="670" xml:id="zone_905f90cc-b27d-11e8-9bdb-acde48001122" /><zone lrx="179" lry="657" ulx="66" uly="581" xml:id="zone_905f927e-b27d-11e8-9dcb-acde48001122" /><zone lrx="189" lry="808" ulx="92" uly="723" xml:id="zone_905f9422-b27d-11e8-83c3-acde48001122" /><zone lrx="190" lry="888" ulx="54" uly="792" xml:id="zone_905f95e2-b27d-11e8-abd8-acde48001122" /><zone lrx="412" lry="873" ulx="309" uly="780" xml:id="zone_905f9826-b27d-11e8-af23-acde48001122" /><zone lrx="525" lry="867" ulx="424" uly="774" xml:id="zone_905f99c0-b27d-11e8-a723-acde48001122" /><zone lrx="570" lry="861" ulx="531" uly="771" xml:id="zone_905f9b50-b27d-11e8-9a2e-acde48001122" /><zone lrx="173" lry="959" ulx="71" uly="873" xml:id="zone_905f9c54-b27d-11e8-b33f-acde48001122" /><zone lrx="50" lry="970" ulx="49" uly="963" xml:id="zone_905f9d4c-b27d-11e8-9257-acde48001122" /><zone lrx="61" lry="970" ulx="56" uly="963" xml:id="zone_905f9e52-b27d-11e8-8c89-acde48001122" /><zone lrx="72" lry="970" ulx="71" uly="963" xml:id="zone_905f9f42-b27d-11e8-9d6f-acde48001122" /><zone lrx="77" lry="971" ulx="76" uly="964" xml:id="zone_905fa03a-b27d-11e8-a380-acde48001122" /><zone lrx="108" lry="971" ulx="82" uly="964" xml:id="zone_905fa12e-b27d-11e8-b0ba-acde48001122" /><zone lrx="116" lry="971" ulx="115" uly="964" xml:id="zone_905fa21c-b27d-11e8-99d8-acde48001122" /><zone lrx="119" lry="971" ulx="118" uly="964" xml:id="zone_905fa30c-b27d-11e8-bab5-acde48001122" /><zone lrx="126" lry="971" ulx="125" uly="964" xml:id="zone_905fa3fe-b27d-11e8-9b1f-acde48001122" /><zone lrx="132" lry="972" ulx="131" uly="965" xml:id="zone_905fa500-b27d-11e8-8072-acde48001122" /><zone lrx="138" lry="972" ulx="137" uly="965" xml:id="zone_905fa5ee-b27d-11e8-87e6-acde48001122" /><zone lrx="144" lry="972" ulx="143" uly="965" xml:id="zone_905fa6e2-b27d-11e8-85a2-acde48001122" /><zone lrx="148" lry="972" ulx="147" uly="965" xml:id="zone_905fa7d2-b27d-11e8-b2c4-acde48001122" /><zone lrx="152" lry="972" ulx="151" uly="965" xml:id="zone_905fa8c8-b27d-11e8-9f59-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_905f8518-b27d-11e8-ae48-acde48001122">DONT</span><span facs="#zone_905f89a8-b27d-11e8-ac74-acde48001122">તમારાથી</span><span facs="#zone_905f8ba6-b27d-11e8-8847-acde48001122">વારલાન</span><span facs="#zone_905f8d5e-b27d-11e8-b29d-acde48001122">રોકાય</span><span facs="#zone_905f8f22-b27d-11e8-8781-acde48001122">૧૪મી</span><span facs="#zone_905f90cc-b27d-11e8-9bdb-acde48001122">સપટેબરે</span><span facs="#zone_905f927e-b27d-11e8-9dcb-acde48001122">નાણું</span><span facs="#zone_905f9422-b27d-11e8-83c3-acde48001122">એટલું</span><span facs="#zone_905f95e2-b27d-11e8-abd8-acde48001122">જલદી</span><span facs="#zone_905f9826-b27d-11e8-af23-acde48001122">બંધ</span><span facs="#zone_905f99c0-b27d-11e8-a723-acde48001122">થશે</span><span facs="#zone_905f9b50-b27d-11e8-9a2e-acde48001122">.</span><span facs="#zone_905f9c54-b27d-11e8-b33f-acde48001122">રોકો</span><span facs="#zone_905f9d4c-b27d-11e8-9257-acde48001122">-</span><span facs="#zone_905f9e52-b27d-11e8-8c89-acde48001122">શાક</span><span facs="#zone_905f9f42-b27d-11e8-9d6f-acde48001122">મા</span><span facs="#zone_905fa03a-b27d-11e8-a380-acde48001122">જ</span><span facs="#zone_905fa12e-b27d-11e8-b0ba-acde48001122">કામકાજ</span><span facs="#zone_905fa21c-b27d-11e8-99d8-acde48001122">*</span><span facs="#zone_905fa30c-b27d-11e8-bab5-acde48001122">*</span><span facs="#zone_905fa3fe-b27d-11e8-9b1f-acde48001122">*</span><span facs="#zone_905fa500-b27d-11e8-8072-acde48001122">*</span><span facs="#zone_905fa5ee-b27d-11e8-87e6-acde48001122">*</span><span facs="#zone_905fa6e2-b27d-11e8-85a2-acde48001122">*</span><span facs="#zone_905fa7d2-b27d-11e8-b2c4-acde48001122">*</span><span facs="#zone_905fa8c8-b27d-11e8-9f59-acde48001122">*</span></p></body>
+    </text>
+</TEI>

@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>工業発展のために∽536</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33654">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33654</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/28492/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/28492/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/28492/1332747925390.jpg" /><zone lrx="539" lry="732" ulx="451" uly="700" xml:id="zone_e4277968-b27d-11e8-a388-acde48001122" /><zone lrx="595" lry="775" ulx="390" uly="733" xml:id="zone_e4277b66-b27d-11e8-8aba-acde48001122" /><zone lrx="405" lry="813" ulx="394" uly="773" xml:id="zone_e4277c8a-b27d-11e8-8f27-acde48001122" /><zone lrx="418" lry="813" ulx="407" uly="773" xml:id="zone_e4277d7a-b27d-11e8-bd74-acde48001122" /><zone lrx="595" lry="813" ulx="420" uly="773" xml:id="zone_e4277e68-b27d-11e8-b414-acde48001122" /><zone lrx="265" lry="860" ulx="58" uly="798" xml:id="zone_e4277f50-b27d-11e8-8fd6-acde48001122" /><zone lrx="303" lry="860" ulx="286" uly="798" xml:id="zone_e4278054-b27d-11e8-b98e-acde48001122" /><zone lrx="83" lry="940" ulx="61" uly="864" xml:id="zone_e4278146-b27d-11e8-af81-acde48001122" /><zone lrx="90" lry="940" ulx="68" uly="864" xml:id="zone_e4278234-b27d-11e8-a8b4-acde48001122" /><zone lrx="326" lry="940" ulx="91" uly="864" xml:id="zone_e4278324-b27d-11e8-941b-acde48001122" /><zone lrx="363" lry="940" ulx="335" uly="864" xml:id="zone_e4278400-b27d-11e8-80bc-acde48001122" /><zone lrx="600" lry="940" ulx="383" uly="864" xml:id="zone_e42784e6-b27d-11e8-833d-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_e4277968-b27d-11e8-a388-acde48001122">POUR</span><span facs="#zone_e4277b66-b27d-11e8-8aba-acde48001122">DÉVELOPPER</span><span facs="#zone_e4277c8a-b27d-11e8-8f27-acde48001122">L</span><span facs="#zone_e4277d7a-b27d-11e8-bd74-acde48001122">'</span><span facs="#zone_e4277e68-b27d-11e8-b414-acde48001122">INDUSTRIE</span><span facs="#zone_e4277f50-b27d-11e8-8fd6-acde48001122">Souscrivez</span><span facs="#zone_e4278054-b27d-11e8-b98e-acde48001122">à</span><span facs="#zone_e4278146-b27d-11e8-af81-acde48001122">L</span><span facs="#zone_e4278234-b27d-11e8-a8b4-acde48001122">'</span><span facs="#zone_e4278324-b27d-11e8-941b-acde48001122">EMPRUNT</span><span facs="#zone_e4278400-b27d-11e8-80bc-acde48001122">PA</span><span facs="#zone_e42784e6-b27d-11e8-833d-acde48001122">VICTOIRE</span></p></body>
+    </text>
+</TEI>

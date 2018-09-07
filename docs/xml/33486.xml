@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>もう勝利公債を購入しましたか？∽484</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33486">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33486</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/26379/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/26379/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/26379/1332747847853.jpg" /><zone lrx="445" lry="149" ulx="211" uly="41" xml:id="zone_cd54d1d8-b27d-11e8-b3d8-acde48001122" /><zone lrx="404" lry="276" ulx="81" uly="122" xml:id="zone_cd54d480-b27d-11e8-aa04-acde48001122" /><zone lrx="595" lry="254" ulx="548" uly="113" xml:id="zone_cd54d888-b27d-11e8-ab0e-acde48001122" /><zone lrx="501" lry="375" ulx="183" uly="296" xml:id="zone_cd54dad4-b27d-11e8-abd0-acde48001122" /><zone lrx="452" lry="472" ulx="230" uly="386" xml:id="zone_cd54dcc8-b27d-11e8-874b-acde48001122" /><zone lrx="548" lry="737" ulx="49" uly="502" xml:id="zone_cd54de80-b27d-11e8-b33b-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_cd54d1d8-b27d-11e8-b3d8-acde48001122">HAVE</span><span facs="#zone_cd54d480-b27d-11e8-aa04-acde48001122">you</span><span facs="#zone_cd54d888-b27d-11e8-ab0e-acde48001122">?</span><span facs="#zone_cd54dad4-b27d-11e8-abd0-acde48001122">BOUGHT</span><span facs="#zone_cd54dcc8-b27d-11e8-874b-acde48001122">YOUR</span><span facs="#zone_cd54de80-b27d-11e8-b33b-acde48001122">Victor</span></p></body>
+    </text>
+</TEI>

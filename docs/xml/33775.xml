@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[アラスの戦いにてドイツ軍退却]∽436</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33775">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33775</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/29286/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/29286/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/29286/1332747980918.jpg" /><zone lrx="382" lry="276" ulx="136" uly="276" xml:id="zone_ebaed3e8-b27d-11e8-a91e-acde48001122" /><zone lrx="957" lry="276" ulx="447" uly="276" xml:id="zone_ebaed7b4-b27d-11e8-9d78-acde48001122" /><zone lrx="356" lry="609" ulx="136" uly="284" xml:id="zone_ebaedc78-b27d-11e8-bad8-acde48001122" /><zone lrx="990" lry="609" ulx="448" uly="284" xml:id="zone_ebaeddde-b27d-11e8-82f6-acde48001122" /><zone lrx="967" lry="640" ulx="821" uly="586" xml:id="zone_ebaedee4-b27d-11e8-b8cd-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_ebaed3e8-b27d-11e8-a91e-acde48001122">THE</span><span facs="#zone_ebaed7b4-b27d-11e8-9d78-acde48001122">RETREAT</span><span facs="#zone_ebaedc78-b27d-11e8-bad8-acde48001122">THE</span><span facs="#zone_ebaeddde-b27d-11e8-82f6-acde48001122">BATTLE</span><span facs="#zone_ebaedee4-b27d-11e8-b8cd-acde48001122">SHO</span></p></body>
+    </text>
+</TEI>

@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>なんとまあ、女の子じゃないか！∽317</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33564">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33564</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/19540/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/19540/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/19540/1332747884058.jpg" /><zone lrx="433" lry="91" ulx="348" uly="24" xml:id="zone_7e6277b8-b27d-11e8-a8ae-acde48001122" /><zone lrx="464" lry="91" ulx="445" uly="24" xml:id="zone_7e627a58-b27d-11e8-8611-acde48001122" /><zone lrx="603" lry="91" ulx="469" uly="24" xml:id="zone_7e627be8-b27d-11e8-b19a-acde48001122" /><zone lrx="634" lry="91" ulx="615" uly="24" xml:id="zone_7e627d46-b27d-11e8-94c2-acde48001122" /><zone lrx="421" lry="131" ulx="339" uly="84" xml:id="zone_7e627eae-b27d-11e8-9b91-acde48001122" /><zone lrx="432" lry="131" ulx="419" uly="84" xml:id="zone_7e628000-b27d-11e8-9ab2-acde48001122" /><zone lrx="442" lry="131" ulx="429" uly="84" xml:id="zone_7e628142-b27d-11e8-b470-acde48001122" /><zone lrx="552" lry="131" ulx="539" uly="84" xml:id="zone_7e6282a2-b27d-11e8-96b4-acde48001122" /><zone lrx="467" lry="171" ulx="381" uly="108" xml:id="zone_7e6283e8-b27d-11e8-8fcb-acde48001122" /><zone lrx="615" lry="165" ulx="473" uly="98" xml:id="zone_7e6284c6-b27d-11e8-96ed-acde48001122" /><zone lrx="636" lry="157" ulx="617" uly="98" xml:id="zone_7e628624-b27d-11e8-90be-acde48001122" /><zone lrx="554" lry="313" ulx="451" uly="273" xml:id="zone_7e62878c-b27d-11e8-86d7-acde48001122" /><zone lrx="603" lry="373" ulx="332" uly="323" xml:id="zone_7e6288d4-b27d-11e8-9700-acde48001122" /><zone lrx="613" lry="425" ulx="444" uly="377" xml:id="zone_7e6289a6-b27d-11e8-a3d3-acde48001122" /><zone lrx="609" lry="475" ulx="425" uly="429" xml:id="zone_7e628a6e-b27d-11e8-98c6-acde48001122" /><zone lrx="555" lry="517" ulx="491" uly="486" xml:id="zone_7e628b38-b27d-11e8-bfaf-acde48001122" /><zone lrx="612" lry="517" ulx="567" uly="486" xml:id="zone_7e628c0a-b27d-11e8-8178-acde48001122" /><zone lrx="561" lry="554" ulx="536" uly="520" xml:id="zone_7e628cd2-b27d-11e8-96e0-acde48001122" /><zone lrx="615" lry="554" ulx="576" uly="520" xml:id="zone_7e628d90-b27d-11e8-9d3b-acde48001122" /><zone lrx="611" lry="589" ulx="571" uly="554" xml:id="zone_7e628e5a-b27d-11e8-a0d0-acde48001122" /><zone lrx="551" lry="787" ulx="485" uly="741" xml:id="zone_7e628f22-b27d-11e8-bcf9-acde48001122" /><zone lrx="562" lry="787" ulx="549" uly="741" xml:id="zone_7e628fdc-b27d-11e8-8842-acde48001122" /><zone lrx="589" lry="787" ulx="564" uly="741" xml:id="zone_7e62909c-b27d-11e8-b1e1-acde48001122" /><zone lrx="600" lry="787" ulx="587" uly="741" xml:id="zone_7e62915a-b27d-11e8-b1a2-acde48001122" /><zone lrx="627" lry="787" ulx="602" uly="741" xml:id="zone_7e629218-b27d-11e8-b496-acde48001122" /><zone lrx="642" lry="787" ulx="629" uly="741" xml:id="zone_7e6292d4-b27d-11e8-bcec-acde48001122" /><zone lrx="589" lry="818" ulx="528" uly="786" xml:id="zone_7e629394-b27d-11e8-a716-acde48001122" /><zone lrx="75" lry="800" ulx="47" uly="790" xml:id="zone_7e62945c-b27d-11e8-b639-acde48001122" /><zone lrx="199" lry="971" ulx="56" uly="923" xml:id="zone_7e629524-b27d-11e8-b653-acde48001122" /><zone lrx="292" lry="971" ulx="217" uly="923" xml:id="zone_7e6295e2-b27d-11e8-9831-acde48001122" /><zone lrx="421" lry="971" ulx="313" uly="923" xml:id="zone_7e6296a2-b27d-11e8-9716-acde48001122" /><zone lrx="632" lry="971" ulx="442" uly="923" xml:id="zone_7e629768-b27d-11e8-8686-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_7e6277b8-b27d-11e8-a8ae-acde48001122">Oh</span><span facs="#zone_7e627a58-b27d-11e8-8611-acde48001122">,</span><span facs="#zone_7e627be8-b27d-11e8-b19a-acde48001122">Boy</span><span facs="#zone_7e627d46-b27d-11e8-94c2-acde48001122">!</span><span facs="#zone_7e627eae-b27d-11e8-9b91-acde48001122">that</span><span facs="#zone_7e628000-b27d-11e8-9ab2-acde48001122">'</span><span facs="#zone_7e628142-b27d-11e8-b470-acde48001122">s</span><span facs="#zone_7e6282a2-b27d-11e8-96b4-acde48001122">.</span><span facs="#zone_7e6283e8-b27d-11e8-8fcb-acde48001122">the</span><span facs="#zone_7e6284c6-b27d-11e8-96ed-acde48001122">Girl</span><span facs="#zone_7e628624-b27d-11e8-90be-acde48001122">!</span><span facs="#zone_7e62878c-b27d-11e8-86d7-acde48001122">THE</span><span facs="#zone_7e6288d4-b27d-11e8-9700-acde48001122">SALVATION</span><span facs="#zone_7e6289a6-b27d-11e8-a3d3-acde48001122">ARMY</span><span facs="#zone_7e628a6e-b27d-11e8-98c6-acde48001122">LASSIE</span><span facs="#zone_7e628b38-b27d-11e8-bfaf-acde48001122">Keep</span><span facs="#zone_7e628c0a-b27d-11e8-8178-acde48001122">Her</span><span facs="#zone_7e628cd2-b27d-11e8-96e0-acde48001122">on</span><span facs="#zone_7e628d90-b27d-11e8-9d3b-acde48001122">the</span><span facs="#zone_7e628e5a-b27d-11e8-a0d0-acde48001122">Job</span><span facs="#zone_7e628f22-b27d-11e8-bcf9-acde48001122">NOV</span><span facs="#zone_7e628fdc-b27d-11e8-8842-acde48001122">.</span><span facs="#zone_7e62909c-b27d-11e8-b1e1-acde48001122">11</span><span facs="#zone_7e62915a-b27d-11e8-b1a2-acde48001122">-</span><span facs="#zone_7e629218-b27d-11e8-b496-acde48001122">18</span><span facs="#zone_7e6292d4-b27d-11e8-bcec-acde48001122">"</span><span facs="#zone_7e629394-b27d-11e8-a716-acde48001122">1918</span><span facs="#zone_7e62945c-b27d-11e8-b639-acde48001122">RICHARD</span><span facs="#zone_7e629524-b27d-11e8-b653-acde48001122">UNITED</span><span facs="#zone_7e6295e2-b27d-11e8-9831-acde48001122">WAR</span><span facs="#zone_7e6296a2-b27d-11e8-9716-acde48001122">WORK</span><span facs="#zone_7e629768-b27d-11e8-8686-acde48001122">CAMPAIGN</span></p></body>
+    </text>
+</TEI>

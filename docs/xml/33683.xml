@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>後方支援を行おう∽577</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33683">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33683</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/24424/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/24424/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/24424/1332747938729.jpg" /><zone lrx="232" lry="106" ulx="63" uly="41" xml:id="zone_b054ae78-b27d-11e8-996d-acde48001122" /><zone lrx="440" lry="106" ulx="285" uly="41" xml:id="zone_b054b094-b27d-11e8-92c8-acde48001122" /><zone lrx="581" lry="106" ulx="498" uly="41" xml:id="zone_b054b1ca-b27d-11e8-9a10-acde48001122" /><zone lrx="559" lry="427" ulx="530" uly="391" xml:id="zone_b054b2d0-b27d-11e8-a651-acde48001122" /><zone lrx="440" lry="648" ulx="371" uly="594" xml:id="zone_b054b3d2-b27d-11e8-b3e5-acde48001122" /><zone lrx="592" lry="648" ulx="461" uly="594" xml:id="zone_b054b4e2-b27d-11e8-b844-acde48001122" /><zone lrx="288" lry="780" ulx="174" uly="740" xml:id="zone_b054b5e4-b27d-11e8-a556-acde48001122" /><zone lrx="361" lry="780" ulx="316" uly="740" xml:id="zone_b054b6d4-b27d-11e8-b168-acde48001122" /><zone lrx="465" lry="780" ulx="396" uly="740" xml:id="zone_b054b7da-b27d-11e8-80ca-acde48001122" /><zone lrx="506" lry="835" ulx="130" uly="787" xml:id="zone_b054b8f0-b27d-11e8-84a3-acde48001122" /><zone lrx="536" lry="892" ulx="83" uly="834" xml:id="zone_b054b9fe-b27d-11e8-9a9f-acde48001122" /><zone lrx="416" lry="949" ulx="211" uly="890" xml:id="zone_b054bae4-b27d-11e8-825c-acde48001122" /><zone lrx="523" lry="994" ulx="504" uly="984" xml:id="zone_b054bbe8-b27d-11e8-8849-acde48001122" /><zone lrx="532" lry="994" ulx="530" uly="984" xml:id="zone_b054bce4-b27d-11e8-a452-acde48001122" /><zone lrx="542" lry="994" ulx="540" uly="984" xml:id="zone_b054be7e-b27d-11e8-a670-acde48001122" /><zone lrx="566" lry="994" ulx="543" uly="984" xml:id="zone_b054c028-b27d-11e8-86ac-acde48001122" /><zone lrx="605" lry="994" ulx="572" uly="984" xml:id="zone_b054c138-b27d-11e8-b92e-acde48001122" /><zone lrx="622" lry="994" ulx="612" uly="984" xml:id="zone_b054c230-b27d-11e8-b019-acde48001122" /><zone lrx="626" lry="994" ulx="624" uly="984" xml:id="zone_b054c31a-b27d-11e8-ba44-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_b054ae78-b27d-11e8-996d-acde48001122">BACK</span><span facs="#zone_b054b094-b27d-11e8-92c8-acde48001122">THEM</span><span facs="#zone_b054b1ca-b27d-11e8-9a10-acde48001122">UP</span><span facs="#zone_b054b2d0-b27d-11e8-a651-acde48001122">21</span><span facs="#zone_b054b3d2-b27d-11e8-b3e5-acde48001122">MY</span><span facs="#zone_b054b4e2-b27d-11e8-b844-acde48001122">DUTY</span><span facs="#zone_b054b5e4-b27d-11e8-a556-acde48001122">GIVE</span><span facs="#zone_b054b6d4-b27d-11e8-b168-acde48001122">TO</span><span facs="#zone_b054b7da-b27d-11e8-80ca-acde48001122">THE</span><span facs="#zone_b054b8f0-b27d-11e8-84a3-acde48001122">CANADIAN</span><span facs="#zone_b054b9fe-b27d-11e8-9a9f-acde48001122">PATRIOTIC</span><span facs="#zone_b054bae4-b27d-11e8-825c-acde48001122">FUND</span><span facs="#zone_b054bbe8-b27d-11e8-8849-acde48001122">Mowe</span><span facs="#zone_b054bce4-b27d-11e8-a452-acde48001122">L</span><span facs="#zone_b054be7e-b27d-11e8-a670-acde48001122">.</span><span facs="#zone_b054c028-b27d-11e8-86ac-acde48001122">COURI</span><span facs="#zone_b054c138-b27d-11e8-b92e-acde48001122">HAMILTON</span><span facs="#zone_b054c230-b27d-11e8-b019-acde48001122">CAN</span><span facs="#zone_b054c31a-b27d-11e8-ba44-acde48001122">.</span></p></body>
+    </text>
+</TEI>

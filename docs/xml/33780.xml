@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>「彼を市民生活に復帰させるために、勝利公債に申し込みを」∽441</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33780">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33780</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/19466/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/19466/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/19466/1332747983074.jpg" /><zone lrx="34" lry="111" ulx="8" uly="30" xml:id="zone_7e00e1a8-b27d-11e8-9bc5-acde48001122" /><zone lrx="196" lry="111" ulx="35" uly="25" xml:id="zone_7e00e482-b27d-11e8-8d7b-acde48001122" /><zone lrx="628" lry="105" ulx="216" uly="11" xml:id="zone_7e00e61c-b27d-11e8-bc5c-acde48001122" /><zone lrx="243" lry="135" ulx="140" uly="98" xml:id="zone_7e00e78c-b27d-11e8-ad91-acde48001122" /><zone lrx="283" lry="134" ulx="257" uly="98" xml:id="zone_7e00ea06-b27d-11e8-8ec0-acde48001122" /><zone lrx="364" lry="133" ulx="313" uly="96" xml:id="zone_7e00eb0a-b27d-11e8-ba64-acde48001122" /><zone lrx="521" lry="132" ulx="398" uly="95" xml:id="zone_7e00ebda-b27d-11e8-be94-acde48001122" /><zone lrx="129" lry="518" ulx="77" uly="498" xml:id="zone_7e00ec8c-b27d-11e8-b376-acde48001122" /><zone lrx="40" lry="595" ulx="15" uly="443" xml:id="zone_7e00ed4c-b27d-11e8-9b77-acde48001122" /><zone lrx="77" lry="585" ulx="46" uly="447" xml:id="zone_7e00edf6-b27d-11e8-bf34-acde48001122" /><zone lrx="478" lry="889" ulx="119" uly="829" xml:id="zone_7e00eebe-b27d-11e8-a741-acde48001122" /><zone lrx="524" lry="889" ulx="507" uly="829" xml:id="zone_7e00ef66-b27d-11e8-9165-acde48001122" /><zone lrx="43" lry="972" ulx="18" uly="885" xml:id="zone_7e00f012-b27d-11e8-aa0f-acde48001122" /><zone lrx="52" lry="972" ulx="27" uly="885" xml:id="zone_7e00f0be-b27d-11e8-ad57-acde48001122" /><zone lrx="316" lry="972" ulx="52" uly="885" xml:id="zone_7e00f15c-b27d-11e8-b4d9-acde48001122" /><zone lrx="348" lry="972" ulx="317" uly="885" xml:id="zone_7e00f49a-b27d-11e8-8278-acde48001122" /><zone lrx="394" lry="972" ulx="361" uly="885" xml:id="zone_7e00f774-b27d-11e8-9635-acde48001122" /><zone lrx="632" lry="972" ulx="390" uly="885" xml:id="zone_7e00f898-b27d-11e8-8781-acde48001122" /><zone lrx="656" lry="972" ulx="631" uly="885" xml:id="zone_7e00f968-b27d-11e8-b7e4-acde48001122" /><zone lrx="43" lry="1002" ulx="43" uly="987" xml:id="zone_7e00fa12-b27d-11e8-b62c-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_7e00e1a8-b27d-11e8-9bc5-acde48001122">"</span><span facs="#zone_7e00e482-b27d-11e8-8d7b-acde48001122">Pourle</span><span facs="#zone_7e00e61c-b27d-11e8-bc5c-acde48001122">REINTEGRER</span><span facs="#zone_7e00e78c-b27d-11e8-ad91-acde48001122">Dans</span><span facs="#zone_7e00ea06-b27d-11e8-8ec0-acde48001122">la</span><span facs="#zone_7e00eb0a-b27d-11e8-ba64-acde48001122">Vie</span><span facs="#zone_7e00ebda-b27d-11e8-be94-acde48001122">Civile</span><span facs="#zone_7e00ec8c-b27d-11e8-b376-acde48001122">RS</span><span facs="#zone_7e00ed4c-b27d-11e8-9b77-acde48001122">EDIT</span><span facs="#zone_7e00edf6-b27d-11e8-bf34-acde48001122">REBEE</span><span facs="#zone_7e00eebe-b27d-11e8-a741-acde48001122">SOUSCRIVONS</span><span facs="#zone_7e00ef66-b27d-11e8-9165-acde48001122">A</span><span facs="#zone_7e00f012-b27d-11e8-aa0f-acde48001122">L</span><span facs="#zone_7e00f0be-b27d-11e8-ad57-acde48001122">'</span><span facs="#zone_7e00f15c-b27d-11e8-b4d9-acde48001122">EMPRUNT</span><span facs="#zone_7e00f49a-b27d-11e8-8278-acde48001122">de</span><span facs="#zone_7e00f774-b27d-11e8-9635-acde48001122">la</span><span facs="#zone_7e00f898-b27d-11e8-8781-acde48001122">VICTOIRE</span><span facs="#zone_7e00f968-b27d-11e8-b7e4-acde48001122">"</span><span facs="#zone_7e00fa12-b27d-11e8-b62c-acde48001122">WPIO</span></p></body>
+    </text>
+</TEI>

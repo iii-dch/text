@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>彼がやり遂げるまで助けよう∽307</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33946">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33946</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/20337/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/20337/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/20337/1332748060209.jpg" /><zone lrx="142" lry="110" ulx="47" uly="27" xml:id="zone_8659b7ba-b27d-11e8-a2bc-acde48001122" /><zone lrx="251" lry="107" ulx="167" uly="25" xml:id="zone_8659b94c-b27d-11e8-8466-acde48001122" /><zone lrx="587" lry="104" ulx="319" uly="19" xml:id="zone_8659bb2c-b27d-11e8-b902-acde48001122" /><zone lrx="115" lry="770" ulx="74" uly="750" xml:id="zone_8659bcb4-b27d-11e8-a1c5-acde48001122" /><zone lrx="349" lry="745" ulx="244" uly="695" xml:id="zone_8659bda4-b27d-11e8-83d9-acde48001122" /><zone lrx="434" lry="745" ulx="371" uly="695" xml:id="zone_8659be54-b27d-11e8-9eb5-acde48001122" /><zone lrx="500" lry="745" ulx="462" uly="695" xml:id="zone_8659bf0a-b27d-11e8-8282-acde48001122" /><zone lrx="291" lry="804" ulx="178" uly="750" xml:id="zone_8659bfb4-b27d-11e8-8efc-acde48001122" /><zone lrx="419" lry="804" ulx="334" uly="750" xml:id="zone_8659c05c-b27d-11e8-8a8d-acde48001122" /><zone lrx="566" lry="804" ulx="450" uly="750" xml:id="zone_8659c0fe-b27d-11e8-b351-acde48001122" /><zone lrx="62" lry="782" ulx="53" uly="771" xml:id="zone_8659c1a8-b27d-11e8-832c-acde48001122" /><zone lrx="93" lry="779" ulx="58" uly="749" xml:id="zone_8659c248-b27d-11e8-9917-acde48001122" /><zone lrx="155" lry="851" ulx="125" uly="800" xml:id="zone_8659c2f0-b27d-11e8-adeb-acde48001122" /><zone lrx="275" lry="869" ulx="152" uly="838" xml:id="zone_8659c392-b27d-11e8-a32c-acde48001122" /><zone lrx="395" lry="869" ulx="285" uly="838" xml:id="zone_8659c430-b27d-11e8-8ca1-acde48001122" /><zone lrx="461" lry="869" ulx="407" uly="838" xml:id="zone_8659c4d2-b27d-11e8-bd13-acde48001122" /><zone lrx="585" lry="869" ulx="475" uly="838" xml:id="zone_8659c57e-b27d-11e8-a610-acde48001122" /><zone lrx="299" lry="898" ulx="177" uly="867" xml:id="zone_8659c61c-b27d-11e8-bfd7-acde48001122" /><zone lrx="363" lry="898" ulx="326" uly="869" xml:id="zone_8659c6c6-b27d-11e8-ac2a-acde48001122" /><zone lrx="576" lry="901" ulx="392" uly="869" xml:id="zone_8659c766-b27d-11e8-8fc4-acde48001122" /><zone lrx="92" lry="958" ulx="39" uly="937" xml:id="zone_8659c806-b27d-11e8-a0ca-acde48001122" /><zone lrx="139" lry="958" ulx="105" uly="938" xml:id="zone_8659c8a4-b27d-11e8-9636-acde48001122" /><zone lrx="192" lry="958" ulx="146" uly="938" xml:id="zone_8659c948-b27d-11e8-85d2-acde48001122" /><zone lrx="292" lry="960" ulx="208" uly="938" xml:id="zone_8659c9e6-b27d-11e8-b08b-acde48001122" /><zone lrx="310" lry="959" ulx="305" uly="939" xml:id="zone_8659ca90-b27d-11e8-8424-acde48001122" /><zone lrx="370" lry="960" ulx="319" uly="940" xml:id="zone_8659cb30-b27d-11e8-bb82-acde48001122" /><zone lrx="407" lry="960" ulx="388" uly="940" xml:id="zone_8659cbda-b27d-11e8-80f3-acde48001122" /><zone lrx="517" lry="962" ulx="416" uly="940" xml:id="zone_8659cc86-b27d-11e8-b351-acde48001122" /><zone lrx="546" lry="962" ulx="532" uly="941" xml:id="zone_8659cd2e-b27d-11e8-bbc9-acde48001122" /><zone lrx="552" lry="962" ulx="547" uly="942" xml:id="zone_8659cdc6-b27d-11e8-b379-acde48001122" /><zone lrx="592" lry="962" ulx="558" uly="942" xml:id="zone_8659ce6e-b27d-11e8-aadb-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_8659b7ba-b27d-11e8-a2bc-acde48001122">SEE</span><span facs="#zone_8659b94c-b27d-11e8-8466-acde48001122">HIM</span><span facs="#zone_8659bb2c-b27d-11e8-b902-acde48001122">THROUGH</span><span facs="#zone_8659bcb4-b27d-11e8-a1c5-acde48001122">HOLIC</span><span facs="#zone_8659bda4-b27d-11e8-83d9-acde48001122">HELP</span><span facs="#zone_8659be54-b27d-11e8-9eb5-acde48001122">US</span><span facs="#zone_8659bf0a-b27d-11e8-8282-acde48001122">TO</span><span facs="#zone_8659bfb4-b27d-11e8-8efc-acde48001122">HELP</span><span facs="#zone_8659c05c-b27d-11e8-8a8d-acde48001122">THE</span><span facs="#zone_8659c0fe-b27d-11e8-b351-acde48001122">BOYS</span><span facs="#zone_8659c1a8-b27d-11e8-832c-acde48001122">-</span><span facs="#zone_8659c248-b27d-11e8-9917-acde48001122">ATHO</span><span facs="#zone_8659c2f0-b27d-11e8-adeb-acde48001122">OUNCIL</span><span facs="#zone_8659c392-b27d-11e8-a32c-acde48001122">NATIONAL</span><span facs="#zone_8659c430-b27d-11e8-8ca1-acde48001122">CATHOLIC</span><span facs="#zone_8659c4d2-b27d-11e8-bd13-acde48001122">WAR</span><span facs="#zone_8659c57e-b27d-11e8-a610-acde48001122">COUNCIL</span><span facs="#zone_8659c61c-b27d-11e8-bfd7-acde48001122">KNIGHTS</span><span facs="#zone_8659c6c6-b27d-11e8-ac2a-acde48001122">OF</span><span facs="#zone_8659c766-b27d-11e8-8fc4-acde48001122">COLUMBUS</span><span facs="#zone_8659c806-b27d-11e8-a0ca-acde48001122">United</span><span facs="#zone_8659c8a4-b27d-11e8-9636-acde48001122">War</span><span facs="#zone_8659c948-b27d-11e8-85d2-acde48001122">Work</span><span facs="#zone_8659c9e6-b27d-11e8-b08b-acde48001122">Campaign</span><span facs="#zone_8659ca90-b27d-11e8-8424-acde48001122">-</span><span facs="#zone_8659cb30-b27d-11e8-bb82-acde48001122">Week</span><span facs="#zone_8659cbda-b27d-11e8-80f3-acde48001122">of</span><span facs="#zone_8659cc86-b27d-11e8-b351-acde48001122">November</span><span facs="#zone_8659cd2e-b27d-11e8-bbc9-acde48001122">ll</span><span facs="#zone_8659cdc6-b27d-11e8-b379-acde48001122">.</span><span facs="#zone_8659ce6e-b27d-11e8-aadb-acde48001122">1918</span></p></body>
+    </text>
+</TEI>

@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>アメリカ海兵隊「海の戦士」∽170</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33559">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33559</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/27137/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/27137/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/27137/1332747881851.jpg" /><zone lrx="94" lry="139" ulx="73" uly="65" xml:id="zone_d600b8b0-b27d-11e8-88ac-acde48001122" /><zone lrx="131" lry="139" ulx="110" uly="65" xml:id="zone_d600baae-b27d-11e8-a0cc-acde48001122" /><zone lrx="191" lry="139" ulx="170" uly="65" xml:id="zone_d600bbd0-b27d-11e8-b769-acde48001122" /><zone lrx="221" lry="139" ulx="200" uly="65" xml:id="zone_d600bcca-b27d-11e8-bddd-acde48001122" /><zone lrx="589" lry="139" ulx="244" uly="65" xml:id="zone_d600bdba-b27d-11e8-a390-acde48001122" /><zone lrx="138" lry="177" ulx="129" uly="142" xml:id="zone_d600bea8-b27d-11e8-8bdf-acde48001122" /><zone lrx="300" lry="177" ulx="148" uly="140" xml:id="zone_d600bf9a-b27d-11e8-89b0-acde48001122" /><zone lrx="358" lry="175" ulx="319" uly="140" xml:id="zone_d600c09e-b27d-11e8-8428-acde48001122" /><zone lrx="433" lry="174" ulx="379" uly="139" xml:id="zone_d600c190-b27d-11e8-91b6-acde48001122" /><zone lrx="509" lry="174" ulx="454" uly="137" xml:id="zone_d600c27e-b27d-11e8-be16-acde48001122" /><zone lrx="527" lry="173" ulx="518" uly="138" xml:id="zone_d600c36e-b27d-11e8-91f1-acde48001122" /><zone lrx="203" lry="344" ulx="186" uly="282" xml:id="zone_d600c454-b27d-11e8-a370-acde48001122" /><zone lrx="222" lry="344" ulx="205" uly="282" xml:id="zone_d600c542-b27d-11e8-90a2-acde48001122" /><zone lrx="241" lry="344" ulx="224" uly="282" xml:id="zone_d600c62c-b27d-11e8-bbf0-acde48001122" /><zone lrx="266" lry="344" ulx="249" uly="282" xml:id="zone_d600c710-b27d-11e8-a63b-acde48001122" /><zone lrx="478" lry="344" ulx="280" uly="282" xml:id="zone_d600c800-b27d-11e8-b69e-acde48001122" /><zone lrx="615" lry="333" ulx="568" uly="282" xml:id="zone_d600c906-b27d-11e8-9ebc-acde48001122" /><zone lrx="233" lry="841" ulx="206" uly="817" xml:id="zone_d600c9de-b27d-11e8-98dc-acde48001122" /><zone lrx="280" lry="841" ulx="249" uly="817" xml:id="zone_d600cad0-b27d-11e8-a15a-acde48001122" /><zone lrx="386" lry="841" ulx="294" uly="817" xml:id="zone_d600cc38-b27d-11e8-9e37-acde48001122" /><zone lrx="450" lry="841" ulx="403" uly="817" xml:id="zone_d600cd34-b27d-11e8-a261-acde48001122" /><zone lrx="351" lry="900" ulx="46" uly="838" xml:id="zone_d600ce18-b27d-11e8-98ff-acde48001122" /><zone lrx="603" lry="900" ulx="388" uly="838" xml:id="zone_d600cef4-b27d-11e8-892a-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_d600b8b0-b27d-11e8-88ac-acde48001122">U</span><span facs="#zone_d600baae-b27d-11e8-a0cc-acde48001122">.</span><span facs="#zone_d600bbd0-b27d-11e8-b769-acde48001122">S</span><span facs="#zone_d600bcca-b27d-11e8-bddd-acde48001122">.</span><span facs="#zone_d600bdba-b27d-11e8-a390-acde48001122">MARINES</span><span facs="#zone_d600bea8-b27d-11e8-8bdf-acde48001122">"</span><span facs="#zone_d600bf9a-b27d-11e8-89b0-acde48001122">SOLDIERS</span><span facs="#zone_d600c09e-b27d-11e8-8428-acde48001122">OF</span><span facs="#zone_d600c190-b27d-11e8-91b6-acde48001122">THE</span><span facs="#zone_d600c27e-b27d-11e8-be16-acde48001122">SEA</span><span facs="#zone_d600c36e-b27d-11e8-91f1-acde48001122">"</span><span facs="#zone_d600c454-b27d-11e8-a370-acde48001122">U</span><span facs="#zone_d600c542-b27d-11e8-90a2-acde48001122">.</span><span facs="#zone_d600c62c-b27d-11e8-bbf0-acde48001122">S</span><span facs="#zone_d600c710-b27d-11e8-a63b-acde48001122">.</span><span facs="#zone_d600c800-b27d-11e8-b69e-acde48001122">MARINES</span><span facs="#zone_d600c906-b27d-11e8-9ebc-acde48001122">au</span><span facs="#zone_d600c9de-b27d-11e8-98dc-acde48001122">For</span><span facs="#zone_d600cad0-b27d-11e8-a15a-acde48001122">Full</span><span facs="#zone_d600cc38-b27d-11e8-9e37-acde48001122">Information</span><span facs="#zone_d600cd34-b27d-11e8-a261-acde48001122">Apply</span><span facs="#zone_d600ce18-b27d-11e8-98ff-acde48001122">RECRUITING</span><span facs="#zone_d600cef4-b27d-11e8-892a-acde48001122">STATION</span></p></body>
+    </text>
+</TEI>

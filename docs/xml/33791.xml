@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>彼は賢いので、可能ならば彼は購入するでしょう∽128</title>
+                <respStmt>
+                    <persName>Satoru Nakamura</persName>
+                    <resp>Text Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The University of Tokyo.</publisher>
+                <distributor>The University of Tokyo.</distributor>
+                <availability>
+                    <p>
+                        <ref target="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+                            Attribution 4.0
+                        </ref>
+                    </p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33791">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33791</ref></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/24243/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/24243/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/24243/1332747988220.jpg" /><zone lrx="429" lry="91" ulx="372" uly="47" xml:id="zone_af29521a-b27d-11e8-8afc-acde48001122" /><zone lrx="616" lry="91" ulx="441" uly="47" xml:id="zone_af2954a4-b27d-11e8-aff0-acde48001122" /><zone lrx="395" lry="143" ulx="363" uly="99" xml:id="zone_af2955f8-b27d-11e8-bd80-acde48001122" /><zone lrx="464" lry="143" ulx="407" uly="99" xml:id="zone_af29572e-b27d-11e8-b0a5-acde48001122" /><zone lrx="604" lry="143" ulx="472" uly="99" xml:id="zone_af295846-b27d-11e8-b6ed-acde48001122" /><zone lrx="429" lry="190" ulx="373" uly="147" xml:id="zone_af29595e-b27d-11e8-a20f-acde48001122" /><zone lrx="594" lry="190" ulx="440" uly="147" xml:id="zone_af295a80-b27d-11e8-aa74-acde48001122" /><zone lrx="236" lry="766" ulx="116" uly="689" xml:id="zone_af295b90-b27d-11e8-980c-acde48001122" /><zone lrx="297" lry="857" ulx="44" uly="758" xml:id="zone_af295cba-b27d-11e8-a3af-acde48001122" /><zone lrx="394" lry="967" ulx="30" uly="864" xml:id="zone_af295df0-b27d-11e8-bf91-acde48001122" /></surface></surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+
+        <p><span facs="#zone_af29521a-b27d-11e8-8afc-acde48001122">HE</span><span facs="#zone_af2954a4-b27d-11e8-aff0-acde48001122">ISWISE</span><span facs="#zone_af2955f8-b27d-11e8-bd80-acde48001122">IF</span><span facs="#zone_af29572e-b27d-11e8-b0a5-acde48001122">HE</span><span facs="#zone_af295846-b27d-11e8-b6ed-acde48001122">COULD</span><span facs="#zone_af29595e-b27d-11e8-a20f-acde48001122">HE</span><span facs="#zone_af295a80-b27d-11e8-aa74-acde48001122">WOULD</span><span facs="#zone_af295b90-b27d-11e8-980c-acde48001122">Buy</span><span facs="#zone_af295cba-b27d-11e8-a3af-acde48001122">Thrift</span><span facs="#zone_af295df0-b27d-11e8-bf91-acde48001122">Stamps</span></p></body>
+    </text>
+</TEI>
