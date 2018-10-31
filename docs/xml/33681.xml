@@ -20,11 +20,11 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33681">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33681</ref></p></sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/s/dch/record/33681">http://dch.iii.u-tokyo.ac.jp/s/dch/record/33681</ref></p></sourceDesc>
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/21022/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/21022/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/21022/1332747937817.jpg" /><zone lrx="38" lry="123" ulx="1" uly="123" xml:id="zone_8e6b0b40-b27d-11e8-b980-acde48001122" /><zone lrx="218" lry="123" ulx="41" uly="123" xml:id="zone_8e6b0e06-b27d-11e8-86d9-acde48001122" /><zone lrx="434" lry="123" ulx="239" uly="123" xml:id="zone_8e6b0f9e-b27d-11e8-a582-acde48001122" /><zone lrx="581" lry="123" ulx="455" uly="123" xml:id="zone_8e6b10fe-b27d-11e8-af92-acde48001122" /><zone lrx="232" lry="973" ulx="17" uly="877" xml:id="zone_8e6b1266-b27d-11e8-9e29-acde48001122" /><zone lrx="427" lry="977" ulx="253" uly="882" xml:id="zone_8e6b13c6-b27d-11e8-b2b7-acde48001122" /><zone lrx="520" lry="979" ulx="439" uly="886" xml:id="zone_8e6b1536-b27d-11e8-a3a3-acde48001122" /><zone lrx="628" lry="981" ulx="532" uly="887" xml:id="zone_8e6b1694-b27d-11e8-9eda-acde48001122" /></surface></surfaceGrp>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/iiif/21022/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/iiif/21022/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/files/original/21022/1332747937817.jpg" /><zone lrx="38" lry="123" ulx="1" uly="123" xml:id="zone_8e6b0b40-b27d-11e8-b980-acde48001122" /><zone lrx="218" lry="123" ulx="41" uly="123" xml:id="zone_8e6b0e06-b27d-11e8-86d9-acde48001122" /><zone lrx="434" lry="123" ulx="239" uly="123" xml:id="zone_8e6b0f9e-b27d-11e8-a582-acde48001122" /><zone lrx="581" lry="123" ulx="455" uly="123" xml:id="zone_8e6b10fe-b27d-11e8-af92-acde48001122" /><zone lrx="232" lry="973" ulx="17" uly="877" xml:id="zone_8e6b1266-b27d-11e8-9e29-acde48001122" /><zone lrx="427" lry="977" ulx="253" uly="882" xml:id="zone_8e6b13c6-b27d-11e8-b2b7-acde48001122" /><zone lrx="520" lry="979" ulx="439" uly="886" xml:id="zone_8e6b1536-b27d-11e8-a3a3-acde48001122" /><zone lrx="628" lry="981" ulx="532" uly="887" xml:id="zone_8e6b1694-b27d-11e8-9eda-acde48001122" /></surface></surfaceGrp>
     </facsimile>
     <text>
         <body>

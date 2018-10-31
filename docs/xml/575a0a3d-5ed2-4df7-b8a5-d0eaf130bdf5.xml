@@ -20,11 +20,11 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/575a0a3d-5ed2-4df7-b8a5-d0eaf130bdf5">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/575a0a3d-5ed2-4df7-b8a5-d0eaf130bdf5</ref></p></sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/s/dch/record/575a0a3d-5ed2-4df7-b8a5-d0eaf130bdf5">http://dch.iii.u-tokyo.ac.jp/s/dch/record/575a0a3d-5ed2-4df7-b8a5-d0eaf130bdf5</ref></p></sourceDesc>
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/784/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/784/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/784/nihonitomonoshimpo1_0208.jpg" /></surface><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/784/canvas/p2" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/784/nihonitomonoshimpo1_0209.jpg" /></surface><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/784/canvas/p3" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/784/nihonitomonoshimpo1_0210.jpg" /></surface><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/784/canvas/p4" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/784/nihonitomonoshimpo1_0211.jpg" /></surface></surfaceGrp>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/iiif/784/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/iiif/784/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/files/original/784/nihonitomonoshimpo1_0208.jpg" /></surface><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/iiif/784/canvas/p2" url="http://dch.iii.u-tokyo.ac.jp/files/original/784/nihonitomonoshimpo1_0209.jpg" /></surface><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/iiif/784/canvas/p3" url="http://dch.iii.u-tokyo.ac.jp/files/original/784/nihonitomonoshimpo1_0210.jpg" /></surface><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/iiif/784/canvas/p4" url="http://dch.iii.u-tokyo.ac.jp/files/original/784/nihonitomonoshimpo1_0211.jpg" /></surface></surfaceGrp>
     </facsimile>
     <text>
         <body>

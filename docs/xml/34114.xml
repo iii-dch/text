@@ -20,11 +20,11 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/34114">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/34114</ref></p></sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/s/dch/record/34114">http://dch.iii.u-tokyo.ac.jp/s/dch/record/34114</ref></p></sourceDesc>
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/25553/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/25553/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/25553/1332748140863.jpg" /><zone lrx="176" lry="838" ulx="76" uly="766" xml:id="zone_c0902d64-b27d-11e8-8e6b-acde48001122" /><zone lrx="316" lry="842" ulx="198" uly="770" xml:id="zone_c090301c-b27d-11e8-9b67-acde48001122" /><zone lrx="361" lry="937" ulx="70" uly="841" xml:id="zone_c0904090-b27d-11e8-a8e9-acde48001122" /><zone lrx="676" lry="936" ulx="392" uly="840" xml:id="zone_c09042a2-b27d-11e8-84df-acde48001122" /></surface></surfaceGrp>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/iiif/25553/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/iiif/25553/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/files/original/25553/1332748140863.jpg" /><zone lrx="176" lry="838" ulx="76" uly="766" xml:id="zone_c0902d64-b27d-11e8-8e6b-acde48001122" /><zone lrx="316" lry="842" ulx="198" uly="770" xml:id="zone_c090301c-b27d-11e8-9b67-acde48001122" /><zone lrx="361" lry="937" ulx="70" uly="841" xml:id="zone_c0904090-b27d-11e8-a8e9-acde48001122" /><zone lrx="676" lry="936" ulx="392" uly="840" xml:id="zone_c09042a2-b27d-11e8-84df-acde48001122" /></surface></surfaceGrp>
     </facsimile>
     <text>
         <body>

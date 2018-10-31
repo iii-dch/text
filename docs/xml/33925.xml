@@ -20,11 +20,11 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33925">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33925</ref></p></sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/s/dch/record/33925">http://dch.iii.u-tokyo.ac.jp/s/dch/record/33925</ref></p></sourceDesc>
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/20823/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/20823/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/20823/1332748050303.jpg" /><zone lrx="559" lry="190" ulx="39" uly="17" xml:id="zone_8bf12f02-b27d-11e8-87c8-acde48001122" /><zone lrx="220" lry="404" ulx="55" uly="260" xml:id="zone_8bf131e6-b27d-11e8-8fca-acde48001122" /><zone lrx="481" lry="403" ulx="260" uly="258" xml:id="zone_8bf13376-b27d-11e8-9266-acde48001122" /><zone lrx="346" lry="273" ulx="208" uly="218" xml:id="zone_8bf134de-b27d-11e8-a5e4-acde48001122" /><zone lrx="109" lry="951" ulx="73" uly="944" xml:id="zone_8bf13648-b27d-11e8-a163-acde48001122" /><zone lrx="110" lry="960" ulx="71" uly="953" xml:id="zone_8bf1380a-b27d-11e8-a7ce-acde48001122" /></surface></surfaceGrp>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/iiif/20823/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/iiif/20823/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/files/original/20823/1332748050303.jpg" /><zone lrx="559" lry="190" ulx="39" uly="17" xml:id="zone_8bf12f02-b27d-11e8-87c8-acde48001122" /><zone lrx="220" lry="404" ulx="55" uly="260" xml:id="zone_8bf131e6-b27d-11e8-8fca-acde48001122" /><zone lrx="481" lry="403" ulx="260" uly="258" xml:id="zone_8bf13376-b27d-11e8-9266-acde48001122" /><zone lrx="346" lry="273" ulx="208" uly="218" xml:id="zone_8bf134de-b27d-11e8-a5e4-acde48001122" /><zone lrx="109" lry="951" ulx="73" uly="944" xml:id="zone_8bf13648-b27d-11e8-a163-acde48001122" /><zone lrx="110" lry="960" ulx="71" uly="953" xml:id="zone_8bf1380a-b27d-11e8-a7ce-acde48001122" /></surface></surfaceGrp>
     </facsimile>
     <text>
         <body>

@@ -20,11 +20,11 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-            <p><ref target="http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33687">http://dch.iii.u-tokyo.ac.jp/omekas2/s/dch/record/33687</ref></p></sourceDesc>
+            <p><ref target="http://dch.iii.u-tokyo.ac.jp/s/dch/record/33687">http://dch.iii.u-tokyo.ac.jp/s/dch/record/33687</ref></p></sourceDesc>
         </fileDesc>
     </teiHeader>
     <facsimile>
-        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/8185/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/omekas2/iiif/8185/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/omekas2/files/original/8185/1332747940507.jpg" /><zone lrx="181" lry="141" ulx="78" uly="86" xml:id="zone_ef47ee82-b27c-11e8-bb1d-acde48001122" /><zone lrx="240" lry="141" ulx="209" uly="86" xml:id="zone_ef47f276-b27c-11e8-a982-acde48001122" /><zone lrx="446" lry="141" ulx="280" uly="86" xml:id="zone_ef47f514-b27c-11e8-8e68-acde48001122" /><zone lrx="220" lry="732" ulx="120" uly="678" xml:id="zone_ef47f776-b27c-11e8-994f-acde48001122" /><zone lrx="276" lry="732" ulx="236" uly="678" xml:id="zone_ef47f9cc-b27c-11e8-a4f9-acde48001122" /><zone lrx="383" lry="732" ulx="298" uly="678" xml:id="zone_ef47fc42-b27c-11e8-8c69-acde48001122" /><zone lrx="508" lry="732" ulx="416" uly="678" xml:id="zone_ef47feb0-b27c-11e8-b15e-acde48001122" /><zone lrx="510" lry="940" ulx="111" uly="853" xml:id="zone_ef4800fe-b27c-11e8-ba15-acde48001122" /></surface></surfaceGrp>
+        <surfaceGrp facs="http://dch.iii.u-tokyo.ac.jp/iiif/8185/manifest"><surface><graphic n="http://dch.iii.u-tokyo.ac.jp/iiif/8185/canvas/p1" url="http://dch.iii.u-tokyo.ac.jp/files/original/8185/1332747940507.jpg" /><zone lrx="181" lry="141" ulx="78" uly="86" xml:id="zone_ef47ee82-b27c-11e8-bb1d-acde48001122" /><zone lrx="240" lry="141" ulx="209" uly="86" xml:id="zone_ef47f276-b27c-11e8-a982-acde48001122" /><zone lrx="446" lry="141" ulx="280" uly="86" xml:id="zone_ef47f514-b27c-11e8-8e68-acde48001122" /><zone lrx="220" lry="732" ulx="120" uly="678" xml:id="zone_ef47f776-b27c-11e8-994f-acde48001122" /><zone lrx="276" lry="732" ulx="236" uly="678" xml:id="zone_ef47f9cc-b27c-11e8-a4f9-acde48001122" /><zone lrx="383" lry="732" ulx="298" uly="678" xml:id="zone_ef47fc42-b27c-11e8-8c69-acde48001122" /><zone lrx="508" lry="732" ulx="416" uly="678" xml:id="zone_ef47feb0-b27c-11e8-b15e-acde48001122" /><zone lrx="510" lry="940" ulx="111" uly="853" xml:id="zone_ef4800fe-b27c-11e8-ba15-acde48001122" /></surface></surfaceGrp>
     </facsimile>
     <text>
         <body>
